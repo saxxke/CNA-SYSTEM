@@ -20,46 +20,20 @@
 import React, { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import { useSearchParams, useNavigate } from 'react-router-dom';
 import { 
-  Network, Search, AlertTriangle, Loader2, Filter, 
-  Layers, FolderOpen, RefreshCw, ChevronDown, Check, X
+  Network, Search, AlertTriangle, Loader2, 
+  FolderOpen, X
 } from 'lucide-react';
 import api from '../api/client';
 import GraphViewer from '../components/network/GraphViewer';
 import EntityDetails from '../components/network/EntityDetails';
 import GraphLegend from '../components/network/GraphLegend';
 import GraphControls from '../components/network/GraphControls';
-
-function buildCytoscapeElements(graphData) {
-  if (!graphData) return [];
-  const elements = [];
-
-  (graphData.nodes || []).forEach((node) => {
-    elements.push({
-      data: {
-        id: node.id,
-        label: node.label || node.id,
-        type: node.type || 'UNKNOWN',
-      },
-    });
-  });
-
-  (graphData.edges || []).forEach((edge) => {
-    elements.push({
-      data: {
-        id: edge.id,
-        source: edge.source,
-        target: edge.target,
-        relationship_type: edge.relationship_type || '',
-        confidence: edge.confidence ?? 0,
-        evidence: edge.evidence || '',
-        case_id: edge.case_id || '',
-        detection_method: edge.detection_method || '',
-      },
-    });
-  });
-
-  return elements;
-}
+import GraphFilterPanel from '../components/network/GraphFilterPanel';
+import { 
+  buildCytoscapeElements, 
+  getAvailableTypes, 
+  filterGraphElements 
+} from '../utils/graphHelpers';
 
 export default function NetworkPage() {
   const [searchParams, setSearchParams] = useSearchParams();
@@ -82,8 +56,10 @@ export default function NetworkPage() {
 
   // Filters
   const [searchQuery, setSearchQuery] = useState('');
-  const [selectedTypeFilter, setSelectedTypeFilter] = useState('ALL');
-  const [selectedRelFilter, setSelectedRelFilter] = useState('ALL');
+  const [selectedTypes, setSelectedTypes] = useState(new Set());
+  const [selectedRels, setSelectedRels] = useState(new Set());
+  const [minConfidence, setMinConfidence] = useState(0);
+  const [filterMode, setFilterMode] = useState('hide'); // 'hide' | 'dim'
 
   // Cytoscape ref
   const cyRef = useRef(null);
@@ -140,60 +116,94 @@ export default function NetworkPage() {
     loadGraph();
   }, [selectedCaseId]);
 
-  // Derive unique entity types & relationship types present in this case graph
-  const { availableTypes, availableRelTypes } = useMemo(() => {
-    const types = new Set();
-    const rels = new Set();
-
-    (graphData?.nodes || []).forEach((n) => {
-      if (n.type) types.add(n.type);
-    });
-    (graphData?.edges || []).forEach((e) => {
-      if (e.relationship_type) rels.add(e.relationship_type);
-    });
-
-    return {
-      availableTypes: Array.from(types).sort(),
-      availableRelTypes: Array.from(rels).sort(),
-    };
-  }, [graphData]);
-
-  // Filter Cytoscape elements
+  // All Cytoscape elements from current case graph data
   const allElements = useMemo(() => buildCytoscapeElements(graphData), [graphData]);
 
+  // Derive unique entity types & relationship types present in this case graph
+  const { entityTypes: availableTypes, relationshipTypes: availableRels } = useMemo(
+    () => getAvailableTypes(allElements),
+    [allElements]
+  );
+
+  const totalTypeCount = Object.keys(availableTypes).length;
+  const totalRelCount = Object.keys(availableRels).length;
+
+  // Initialize selected types and rels when graph data changes
+  useEffect(() => {
+    if (allElements.length > 0) {
+      const { entityTypes, relationshipTypes } = getAvailableTypes(allElements);
+      setSelectedTypes(new Set(Object.keys(entityTypes)));
+      setSelectedRels(new Set(Object.keys(relationshipTypes)));
+      setMinConfidence(0);
+    }
+  }, [allElements]);
+
+  // Filter actions
+  const handleToggleType = useCallback((type) => {
+    setSelectedTypes((prev) => {
+      const next = new Set(prev);
+      if (next.has(type)) {
+        next.delete(type);
+      } else {
+        next.add(type);
+      }
+      return next;
+    });
+  }, []);
+
+  const handleSelectAllTypes = useCallback(() => {
+    setSelectedTypes(new Set(Object.keys(availableTypes)));
+  }, [availableTypes]);
+
+  const handleClearAllTypes = useCallback(() => {
+    setSelectedTypes(new Set());
+  }, []);
+
+  const handleToggleRel = useCallback((rel) => {
+    setSelectedRels((prev) => {
+      const next = new Set(prev);
+      if (next.has(rel)) {
+        next.delete(rel);
+      } else {
+        next.add(rel);
+      }
+      return next;
+    });
+  }, []);
+
+  const handleSelectAllRels = useCallback(() => {
+    setSelectedRels(new Set(Object.keys(availableRels)));
+  }, [availableRels]);
+
+  const handleClearAllRels = useCallback(() => {
+    setSelectedRels(new Set());
+  }, []);
+
+  const handleResetFilters = useCallback(() => {
+    setSelectedTypes(new Set(Object.keys(availableTypes)));
+    setSelectedRels(new Set(Object.keys(availableRels)));
+    setMinConfidence(0);
+    setSearchQuery('');
+  }, [availableTypes, availableRels]);
+
+  const hasActiveFilters = useMemo(() => {
+    if (searchQuery.trim()) return true;
+    if (minConfidence > 0) return true;
+    if (totalTypeCount > 0 && selectedTypes.size < totalTypeCount) return true;
+    if (totalRelCount > 0 && selectedRels.size < totalRelCount) return true;
+    return false;
+  }, [searchQuery, minConfidence, selectedTypes.size, selectedRels.size, totalTypeCount, totalRelCount]);
+
+  // Compute filtered elements
   const filteredElements = useMemo(() => {
-    let nodes = allElements.filter((el) => !el.data.source);
-    let edges = allElements.filter((el) => el.data.source);
-
-    // Filter by entity type
-    if (selectedTypeFilter !== 'ALL') {
-      nodes = nodes.filter((n) => n.data.type === selectedTypeFilter);
-    }
-
-    // Filter by relationship type
-    if (selectedRelFilter !== 'ALL') {
-      edges = edges.filter((e) => e.data.relationship_type === selectedRelFilter);
-    }
-
-    // Filter by search query
-    if (searchQuery.trim()) {
-      const q = searchQuery.toLowerCase().trim();
-      nodes = nodes.filter(
-        (n) =>
-          n.data.id?.toLowerCase().includes(q) ||
-          n.data.label?.toLowerCase().includes(q) ||
-          n.data.type?.toLowerCase().includes(q)
-      );
-    }
-
-    // Retain only edges whose source and target are still in nodes
-    const validNodeIds = new Set(nodes.map((n) => n.data.id));
-    edges = edges.filter(
-      (e) => validNodeIds.has(e.data.source) && validNodeIds.has(e.data.target)
-    );
-
-    return [...nodes, ...edges];
-  }, [allElements, selectedTypeFilter, selectedRelFilter, searchQuery]);
+    return filterGraphElements(allElements, {
+      selectedTypes,
+      selectedRels,
+      minConfidence,
+      searchQuery,
+      filterMode,
+    });
+  }, [allElements, selectedTypes, selectedRels, minConfidence, searchQuery, filterMode]);
 
   // Layout reset handler
   const handleResetLayout = useCallback(() => {
@@ -320,47 +330,27 @@ export default function NetworkPage() {
             </div>
           </div>
 
-          {/* Filter by Entity Type */}
-          <div className="space-y-1.5">
-            <label htmlFor="type-filter" className="text-[11px] font-bold uppercase tracking-wider text-slate-400 flex items-center gap-1.5">
-              <Filter size={13} className="text-indigo-400" /> Entity Type
-            </label>
-            <select
-              id="type-filter"
-              value={selectedTypeFilter}
-              onChange={(e) => setSelectedTypeFilter(e.target.value)}
-              className="w-full bg-slate-950 border border-slate-700/80 rounded-lg px-2.5 py-1.5 text-xs text-slate-200 focus:outline-none focus:ring-1 focus:ring-indigo-500"
-            >
-              <option value="ALL">All Entity Types</option>
-              {availableTypes.map((t) => (
-                <option key={t} value={t}>
-                  {t}
-                </option>
-              ))}
-            </select>
+          {/* Multi-Faceted Graph Filters */}
+          <div className="pt-2 border-t border-slate-800/80">
+            <GraphFilterPanel
+              availableTypes={availableTypes}
+              availableRels={availableRels}
+              selectedTypes={selectedTypes}
+              selectedRels={selectedRels}
+              onToggleType={handleToggleType}
+              onSelectAllTypes={handleSelectAllTypes}
+              onClearAllTypes={handleClearAllTypes}
+              onToggleRel={handleToggleRel}
+              onSelectAllRels={handleSelectAllRels}
+              onClearAllRels={handleClearAllRels}
+              minConfidence={minConfidence}
+              onChangeMinConfidence={setMinConfidence}
+              filterMode={filterMode}
+              onChangeFilterMode={setFilterMode}
+              onResetFilters={handleResetFilters}
+              hasActiveFilters={hasActiveFilters}
+            />
           </div>
-
-          {/* Filter by Relationship Type */}
-          {availableRelTypes.length > 0 && (
-            <div className="space-y-1.5">
-              <label htmlFor="rel-filter" className="text-[11px] font-bold uppercase tracking-wider text-slate-400 flex items-center gap-1.5">
-                <Layers size={13} className="text-indigo-400" /> Relationship Type
-              </label>
-              <select
-                id="rel-filter"
-                value={selectedRelFilter}
-                onChange={(e) => setSelectedRelFilter(e.target.value)}
-                className="w-full bg-slate-950 border border-slate-700/80 rounded-lg px-2.5 py-1.5 text-xs text-slate-200 focus:outline-none focus:ring-1 focus:ring-indigo-500"
-              >
-                <option value="ALL">All Relationship Types</option>
-                {availableRelTypes.map((r) => (
-                  <option key={r} value={r}>
-                    {r}
-                  </option>
-                ))}
-              </select>
-            </div>
-          )}
 
           {/* Viewport Actions */}
           <div className="pt-2 border-t border-slate-800/80 space-y-1.5">
@@ -370,9 +360,13 @@ export default function NetworkPage() {
             <GraphControls cyRef={cyRef} onResetLayout={handleResetLayout} />
           </div>
 
-          {/* Collapsible Entity Legend */}
+          {/* Interactive Collapsible Entity Legend */}
           <div className="pt-1">
-            <GraphLegend />
+            <GraphLegend 
+              activeTypes={selectedTypes}
+              onToggleType={handleToggleType}
+              typeCounts={availableTypes}
+            />
           </div>
         </div>
       </div>
@@ -385,10 +379,20 @@ export default function NetworkPage() {
             <span className="font-bold text-slate-200 truncate">
               {selectedCaseId} {currentCaseTitle !== selectedCaseId ? `• ${currentCaseTitle}` : ''}
             </span>
-            {(selectedTypeFilter !== 'ALL' || selectedRelFilter !== 'ALL' || searchQuery) && (
-              <span className="px-2 py-0.5 rounded bg-indigo-950 text-indigo-300 border border-indigo-800 text-[10px] font-semibold">
-                Filters Active
-              </span>
+            {hasActiveFilters && (
+              <div className="flex items-center gap-1.5">
+                <span className="px-2 py-0.5 rounded bg-indigo-950 text-indigo-300 border border-indigo-800 text-[10px] font-semibold">
+                  Filters Active ({selectedTypes.size}/{totalTypeCount} Types, {selectedRels.size}/{totalRelCount} Rels
+                  {minConfidence > 0 ? `, ≥${Math.round(minConfidence * 100)}% Conf` : ''})
+                </span>
+                <button
+                  type="button"
+                  onClick={handleResetFilters}
+                  className="px-1.5 py-0.5 rounded bg-slate-800 hover:bg-slate-700 text-slate-300 text-[10px] border border-slate-700 transition-colors"
+                >
+                  Reset
+                </button>
+              </div>
             )}
           </div>
           <div className="flex items-center gap-3 text-slate-400 text-[11px] shrink-0 font-mono">
