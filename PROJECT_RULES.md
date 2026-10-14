@@ -1,12 +1,10 @@
-# PS 26189 — Project Rules
+#  Project Rules
 
 ## PROJECT
 
-Project:
-Smart India Hackathon 2026
 
 Problem Statement:
-PS 26189 — AI-Powered Criminal Network Analysis System
+CNA SYSTEM — AI-Powered Criminal Network Analysis System
 
 Project Type:
 Internal Hackathon MVP
