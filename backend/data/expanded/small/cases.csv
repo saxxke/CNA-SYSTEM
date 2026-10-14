@@ -1,0 +1,1251 @@
+case_id,fir_number,offence_category,title,legal_section,year,location,district,police_station,status
+CASE-0001,FIR-2021-0001,Burglary,Nocturnal Commercial Burglary in Mumbai,IPC 457/380,2021,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0002,FIR-2022-0002,Assault,Physical Assault and Grievous Hurt Case at Ahmedabad,IPC 323/325,2022,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0003,FIR-2024-0003,Robbery,Armed Robbery Incident at Surat,IPC 392/397,2024,Surat,Surat,Varachha,OPEN
+CASE-0004,FIR-2022-0004,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2022,Kolkata,Kolkata,Park Street,OPEN
+CASE-0005,FIR-2022-0005,Assault,Physical Assault and Grievous Hurt Case at Kolkata,IPC 323/325,2022,Kolkata,Kolkata,Park Street,OPEN
+CASE-0006,FIR-2021-0006,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2021,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0007,FIR-2024-0007,Fraud,Commercial Fraud and Embezzlement Syndicate at Mumbai,IPC 420/406,2024,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0008,FIR-2022-0008,Robbery,Armed Robbery Incident at Durg,IPC 392/397,2022,Durg,Durg,Durg Sadar,CLOSED
+CASE-0009,FIR-2023-0009,Cybercrime,Digital Identity Theft and Financial Scam at Durg,IT Act 66D / IPC 420,2023,Durg,Durg,Durg Sadar,CLOSED
+CASE-0010,FIR-2024-0010,Fraud,Commercial Fraud and Embezzlement Syndicate at Durg,IPC 420/406,2024,Durg,Durg,Durg Sadar,OPEN
+CASE-0011,FIR-2022-0011,Extortion,Threat and Extortion Racket in Surat,IPC 384/386,2022,Surat,Surat,Varachha,OPEN
+CASE-0012,FIR-2022-0012,Murder,Targeted Homicide Investigation in Siliguri,IPC 302/120B,2022,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0013,FIR-2023-0013,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2023,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-0014,FIR-2021-0014,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2021,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0015,FIR-2024-0015,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2024,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0016,FIR-2022-0016,Fraud,Commercial Fraud and Embezzlement Syndicate at Durg,IPC 420/406,2022,Durg,Durg,Durg Sadar,OPEN
+CASE-0017,FIR-2024-0017,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2024,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0018,FIR-2023-0018,Fraud,Commercial Fraud and Embezzlement Syndicate at Howrah,IPC 420/406,2023,Howrah,Howrah,Howrah Town,OPEN
+CASE-0019,FIR-2022-0019,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2022,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0020,FIR-2021-0020,Kidnapping,Kidnapping and Extortion Case at Raipur,IPC 363/364A,2021,Raipur,Raipur,Civil Lines,OPEN
+CASE-0021,FIR-2022-0021,Criminal Intimidation,Intimidation and Witness Tampering at Pune,IPC 506,2022,Pune,Pune,Shivajinagar,OPEN
+CASE-0022,FIR-2021-0022,Fraud,Commercial Fraud and Embezzlement Syndicate at Varanasi,IPC 420/406,2021,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0023,FIR-2023-0023,Fraud,Commercial Fraud and Embezzlement Syndicate at Ahmedabad,IPC 420/406,2023,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0024,FIR-2021-0024,Extortion,Threat and Extortion Racket in Howrah,IPC 384/386,2021,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0025,FIR-2023-0025,Cybercrime,Digital Identity Theft and Financial Scam at Pune,IT Act 66D / IPC 420,2023,Pune,Pune,Shivajinagar,CLOSED
+CASE-0026,FIR-2023-0026,Theft,Serial Asset and Vehicle Theft in Lucknow,IPC 379,2023,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0027,FIR-2024-0027,Fraud,Commercial Fraud and Embezzlement Syndicate at Bilaspur,IPC 420/406,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0028,FIR-2021-0028,Extortion,Threat and Extortion Racket in Siliguri,IPC 384/386,2021,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0029,FIR-2022-0029,Criminal Intimidation,Intimidation and Witness Tampering at Bilaspur,IPC 506,2022,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0030,FIR-2023-0030,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2023,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0031,FIR-2022-0031,Burglary,Nocturnal Commercial Burglary in Bilaspur,IPC 457/380,2022,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0032,FIR-2023-0032,Forgery,Forged Documentation and Property Fraud in Delhi,IPC 467/468/471,2023,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0033,FIR-2023-0033,Assault,Physical Assault and Grievous Hurt Case at Nagpur,IPC 323/325,2023,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0034,FIR-2021-0034,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2021,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0035,FIR-2021-0035,Assault,Physical Assault and Grievous Hurt Case at Surat,IPC 323/325,2021,Surat,Surat,Varachha,OPEN
+CASE-0036,FIR-2023-0036,Fraud,Commercial Fraud and Embezzlement Syndicate at Siliguri,IPC 420/406,2023,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0037,FIR-2022-0037,Murder,Targeted Homicide Investigation in Kolkata,IPC 302/120B,2022,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-0038,FIR-2021-0038,Robbery,Armed Robbery Incident at Ahmedabad,IPC 392/397,2021,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0039,FIR-2024-0039,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2024,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0040,FIR-2022-0040,Fraud,Commercial Fraud and Embezzlement Syndicate at Bilaspur,IPC 420/406,2022,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0041,FIR-2021-0041,Murder,Targeted Homicide Investigation in Bilaspur,IPC 302/120B,2021,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0042,FIR-2023-0042,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2023,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0043,FIR-2023-0043,Forgery,Forged Documentation and Property Fraud in Mumbai,IPC 467/468/471,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0044,FIR-2021-0044,Cybercrime,Digital Identity Theft and Financial Scam at Durg,IT Act 66D / IPC 420,2021,Durg,Durg,Durg Sadar,OPEN
+CASE-0045,FIR-2022-0045,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2022,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-0046,FIR-2023-0046,Fraud,Commercial Fraud and Embezzlement Syndicate at Siliguri,IPC 420/406,2023,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0047,FIR-2022-0047,Kidnapping,Kidnapping and Extortion Case at Durg,IPC 363/364A,2022,Durg,Durg,Durg Sadar,OPEN
+CASE-0048,FIR-2023-0048,Kidnapping,Kidnapping and Extortion Case at Nagpur,IPC 363/364A,2023,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0049,FIR-2022-0049,Assault,Physical Assault and Grievous Hurt Case at Mumbai,IPC 323/325,2022,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0050,FIR-2023-0050,Murder,Targeted Homicide Investigation in Mumbai,IPC 302/120B,2023,Mumbai,Mumbai Suburban,Bandra,CLOSED
+CASE-0051,FIR-2023-0051,Criminal Intimidation,Intimidation and Witness Tampering at Kolkata,IPC 506,2023,Kolkata,Kolkata,Park Street,OPEN
+CASE-0052,FIR-2023-0052,Fraud,Commercial Fraud and Embezzlement Syndicate at Raipur,IPC 420/406,2023,Raipur,Raipur,Civil Lines,CLOSED
+CASE-0053,FIR-2021-0053,Assault,Physical Assault and Grievous Hurt Case at Lucknow,IPC 323/325,2021,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0054,FIR-2022-0054,Robbery,Armed Robbery Incident at Mumbai,IPC 392/397,2022,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0055,FIR-2023-0055,Forgery,Forged Documentation and Property Fraud in Pune,IPC 467/468/471,2023,Pune,Pune,Shivajinagar,OPEN
+CASE-0056,FIR-2022-0056,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2022,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0057,FIR-2022-0057,Robbery,Armed Robbery Incident at Nagpur,IPC 392/397,2022,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0058,FIR-2022-0058,Extortion,Threat and Extortion Racket in Ahmedabad,IPC 384/386,2022,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0059,FIR-2024-0059,Cybercrime,Digital Identity Theft and Financial Scam at Bilaspur,IT Act 66D / IPC 420,2024,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0060,FIR-2021-0060,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2021,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0061,FIR-2022-0061,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2022,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0062,FIR-2022-0062,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2022,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0063,FIR-2021-0063,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2021,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0064,FIR-2021-0064,Cybercrime,Digital Identity Theft and Financial Scam at Kolkata,IT Act 66D / IPC 420,2021,Kolkata,Kolkata,Park Street,OPEN
+CASE-0065,FIR-2021-0065,Kidnapping,Kidnapping and Extortion Case at Howrah,IPC 363/364A,2021,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0066,FIR-2022-0066,Criminal Intimidation,Intimidation and Witness Tampering at Kolkata,IPC 506,2022,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0067,FIR-2022-0067,Extortion,Threat and Extortion Racket in Mumbai,IPC 384/386,2022,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0068,FIR-2021-0068,Murder,Targeted Homicide Investigation in Kolkata,IPC 302/120B,2021,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0069,FIR-2023-0069,Extortion,Threat and Extortion Racket in Chennai,IPC 384/386,2023,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-0070,FIR-2022-0070,Extortion,Threat and Extortion Racket in Bilaspur,IPC 384/386,2022,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0071,FIR-2022-0071,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2022,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0072,FIR-2022-0072,Burglary,Nocturnal Commercial Burglary in Siliguri,IPC 457/380,2022,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0073,FIR-2021-0073,Fraud,Commercial Fraud and Embezzlement Syndicate at Chennai,IPC 420/406,2021,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0074,FIR-2023-0074,Kidnapping,Kidnapping and Extortion Case at Howrah,IPC 363/364A,2023,Howrah,Howrah,Howrah Town,OPEN
+CASE-0075,FIR-2021-0075,Robbery,Armed Robbery Incident at Siliguri,IPC 392/397,2021,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0076,FIR-2024-0076,Kidnapping,Kidnapping and Extortion Case at Durg,IPC 363/364A,2024,Durg,Durg,Durg Sadar,OPEN
+CASE-0077,FIR-2022-0077,Theft,Serial Asset and Vehicle Theft in Mumbai,IPC 379,2022,Mumbai,Mumbai Suburban,Bandra,CLOSED
+CASE-0078,FIR-2021-0078,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2021,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0079,FIR-2021-0079,Extortion,Threat and Extortion Racket in Durg,IPC 384/386,2021,Durg,Durg,Durg Sadar,CLOSED
+CASE-0080,FIR-2021-0080,Fraud,Commercial Fraud and Embezzlement Syndicate at Nagpur,IPC 420/406,2021,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0081,FIR-2021-0081,Extortion,Threat and Extortion Racket in Nagpur,IPC 384/386,2021,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0082,FIR-2022-0082,Murder,Targeted Homicide Investigation in Siliguri,IPC 302/120B,2022,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0083,FIR-2022-0083,Theft,Serial Asset and Vehicle Theft in Varanasi,IPC 379,2022,Varanasi,Varanasi,Dashashwamedh,CLOSED
+CASE-0084,FIR-2023-0084,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0085,FIR-2024-0085,Extortion,Threat and Extortion Racket in Mumbai,IPC 384/386,2024,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0086,FIR-2021-0086,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2021,Kolkata,Kolkata,Burrabazar,CLOSED
+CASE-0087,FIR-2023-0087,Cybercrime,Digital Identity Theft and Financial Scam at Siliguri,IT Act 66D / IPC 420,2023,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0088,FIR-2021-0088,Burglary,Nocturnal Commercial Burglary in Ahmedabad,IPC 457/380,2021,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0089,FIR-2022-0089,Robbery,Armed Robbery Incident at Mumbai,IPC 392/397,2022,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0090,FIR-2024-0090,Cybercrime,Digital Identity Theft and Financial Scam at Raipur,IT Act 66D / IPC 420,2024,Raipur,Raipur,Civil Lines,OPEN
+CASE-0091,FIR-2024-0091,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2024,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0092,FIR-2023-0092,Robbery,Armed Robbery Incident at Varanasi,IPC 392/397,2023,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0093,FIR-2024-0093,Criminal Intimidation,Intimidation and Witness Tampering at Durg,IPC 506,2024,Durg,Durg,Durg Sadar,OPEN
+CASE-0094,FIR-2024-0094,Burglary,Nocturnal Commercial Burglary in Chennai,IPC 457/380,2024,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0095,FIR-2021-0095,Forgery,Forged Documentation and Property Fraud in Delhi,IPC 467/468/471,2021,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0096,FIR-2022-0096,Robbery,Armed Robbery Incident at Surat,IPC 392/397,2022,Surat,Surat,Varachha,CLOSED
+CASE-0097,FIR-2021-0097,Forgery,Forged Documentation and Property Fraud in Nagpur,IPC 467/468/471,2021,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0098,FIR-2024-0098,Kidnapping,Kidnapping and Extortion Case at Nagpur,IPC 363/364A,2024,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0099,FIR-2023-0099,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2023,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0100,FIR-2024-0100,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2024,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0101,FIR-2022-0101,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2022,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0102,FIR-2022-0102,Forgery,Forged Documentation and Property Fraud in Kolkata,IPC 467/468/471,2022,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0103,FIR-2021-0103,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2021,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0104,FIR-2021-0104,Robbery,Armed Robbery Incident at Nagpur,IPC 392/397,2021,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0105,FIR-2021-0105,Criminal Intimidation,Intimidation and Witness Tampering at Lucknow,IPC 506,2021,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0106,FIR-2021-0106,Murder,Targeted Homicide Investigation in Raipur,IPC 302/120B,2021,Raipur,Raipur,Civil Lines,OPEN
+CASE-0107,FIR-2022-0107,Cybercrime,Digital Identity Theft and Financial Scam at Kolkata,IT Act 66D / IPC 420,2022,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0108,FIR-2022-0108,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2022,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0109,FIR-2023-0109,Burglary,Nocturnal Commercial Burglary in Siliguri,IPC 457/380,2023,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0110,FIR-2021-0110,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2021,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0111,FIR-2021-0111,Cybercrime,Digital Identity Theft and Financial Scam at Kolkata,IT Act 66D / IPC 420,2021,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0112,FIR-2022-0112,Cybercrime,Digital Identity Theft and Financial Scam at Surat,IT Act 66D / IPC 420,2022,Surat,Surat,Varachha,OPEN
+CASE-0113,FIR-2023-0113,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2023,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-0114,FIR-2022-0114,Assault,Physical Assault and Grievous Hurt Case at Mumbai,IPC 323/325,2022,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0115,FIR-2021-0115,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2021,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0116,FIR-2024-0116,Cybercrime,Digital Identity Theft and Financial Scam at Bilaspur,IT Act 66D / IPC 420,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0117,FIR-2022-0117,Forgery,Forged Documentation and Property Fraud in Delhi,IPC 467/468/471,2022,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0118,FIR-2021-0118,Assault,Physical Assault and Grievous Hurt Case at Varanasi,IPC 323/325,2021,Varanasi,Varanasi,Dashashwamedh,CLOSED
+CASE-0119,FIR-2023-0119,Burglary,Nocturnal Commercial Burglary in Ahmedabad,IPC 457/380,2023,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-0120,FIR-2022-0120,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2022,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0121,FIR-2022-0121,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2022,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0122,FIR-2023-0122,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2023,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0123,FIR-2022-0123,Theft,Serial Asset and Vehicle Theft in Kolkata,IPC 379,2022,Kolkata,Kolkata,Park Street,OPEN
+CASE-0124,FIR-2021-0124,Assault,Physical Assault and Grievous Hurt Case at Howrah,IPC 323/325,2021,Howrah,Howrah,Howrah Town,OPEN
+CASE-0125,FIR-2022-0125,Kidnapping,Kidnapping and Extortion Case at Mumbai,IPC 363/364A,2022,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0126,FIR-2022-0126,Criminal Intimidation,Intimidation and Witness Tampering at Kolkata,IPC 506,2022,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0127,FIR-2021-0127,Murder,Targeted Homicide Investigation in Lucknow,IPC 302/120B,2021,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0128,FIR-2021-0128,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2021,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0129,FIR-2023-0129,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2023,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0130,FIR-2022-0130,Robbery,Armed Robbery Incident at Surat,IPC 392/397,2022,Surat,Surat,Varachha,OPEN
+CASE-0131,FIR-2022-0131,Robbery,Armed Robbery Incident at Nagpur,IPC 392/397,2022,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0132,FIR-2024-0132,Extortion,Threat and Extortion Racket in Pune,IPC 384/386,2024,Pune,Pune,Shivajinagar,CLOSED
+CASE-0133,FIR-2022-0133,Assault,Physical Assault and Grievous Hurt Case at Howrah,IPC 323/325,2022,Howrah,Howrah,Howrah Town,OPEN
+CASE-0134,FIR-2021-0134,Robbery,Armed Robbery Incident at Ahmedabad,IPC 392/397,2021,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0135,FIR-2021-0135,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2021,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-0136,FIR-2022-0136,Extortion,Threat and Extortion Racket in Durg,IPC 384/386,2022,Durg,Durg,Durg Sadar,CLOSED
+CASE-0137,FIR-2022-0137,Criminal Intimidation,Intimidation and Witness Tampering at Siliguri,IPC 506,2022,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0138,FIR-2023-0138,Assault,Physical Assault and Grievous Hurt Case at Surat,IPC 323/325,2023,Surat,Surat,Varachha,OPEN
+CASE-0139,FIR-2023-0139,Cybercrime,Digital Identity Theft and Financial Scam at Pune,IT Act 66D / IPC 420,2023,Pune,Pune,Shivajinagar,OPEN
+CASE-0140,FIR-2024-0140,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2024,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0141,FIR-2021-0141,Murder,Targeted Homicide Investigation in Varanasi,IPC 302/120B,2021,Varanasi,Varanasi,Dashashwamedh,CLOSED
+CASE-0142,FIR-2021-0142,Murder,Targeted Homicide Investigation in Ahmedabad,IPC 302/120B,2021,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-0143,FIR-2021-0143,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2021,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0144,FIR-2022-0144,Burglary,Nocturnal Commercial Burglary in Pune,IPC 457/380,2022,Pune,Pune,Shivajinagar,CLOSED
+CASE-0145,FIR-2023-0145,Cybercrime,Digital Identity Theft and Financial Scam at Kolkata,IT Act 66D / IPC 420,2023,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0146,FIR-2021-0146,Theft,Serial Asset and Vehicle Theft in Kolkata,IPC 379,2021,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0147,FIR-2024-0147,Burglary,Nocturnal Commercial Burglary in Mumbai,IPC 457/380,2024,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0148,FIR-2021-0148,Burglary,Nocturnal Commercial Burglary in Siliguri,IPC 457/380,2021,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0149,FIR-2023-0149,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2023,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-0150,FIR-2022-0150,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2022,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0151,FIR-2023-0151,Assault,Physical Assault and Grievous Hurt Case at Varanasi,IPC 323/325,2023,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0152,FIR-2024-0152,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2024,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0153,FIR-2021-0153,Criminal Intimidation,Intimidation and Witness Tampering at Kolkata,IPC 506,2021,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-0154,FIR-2021-0154,Forgery,Forged Documentation and Property Fraud in Chennai,IPC 467/468/471,2021,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0155,FIR-2024-0155,Extortion,Threat and Extortion Racket in Mumbai,IPC 384/386,2024,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0156,FIR-2022-0156,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2022,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0157,FIR-2023-0157,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2023,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0158,FIR-2024-0158,Criminal Intimidation,Intimidation and Witness Tampering at Chennai,IPC 506,2024,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0159,FIR-2024-0159,Cybercrime,Digital Identity Theft and Financial Scam at Howrah,IT Act 66D / IPC 420,2024,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0160,FIR-2023-0160,Forgery,Forged Documentation and Property Fraud in Delhi,IPC 467/468/471,2023,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0161,FIR-2024-0161,Theft,Serial Asset and Vehicle Theft in Varanasi,IPC 379,2024,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0162,FIR-2023-0162,Burglary,Nocturnal Commercial Burglary in Howrah,IPC 457/380,2023,Howrah,Howrah,Howrah Town,OPEN
+CASE-0163,FIR-2024-0163,Assault,Physical Assault and Grievous Hurt Case at Siliguri,IPC 323/325,2024,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0164,FIR-2021-0164,Forgery,Forged Documentation and Property Fraud in Pune,IPC 467/468/471,2021,Pune,Pune,Shivajinagar,CLOSED
+CASE-0165,FIR-2023-0165,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2023,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-0166,FIR-2021-0166,Burglary,Nocturnal Commercial Burglary in Bilaspur,IPC 457/380,2021,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0167,FIR-2023-0167,Kidnapping,Kidnapping and Extortion Case at Delhi,IPC 363/364A,2023,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0168,FIR-2022-0168,Cybercrime,Digital Identity Theft and Financial Scam at Kolkata,IT Act 66D / IPC 420,2022,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0169,FIR-2023-0169,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2023,Kolkata,Kolkata,Burrabazar,CLOSED
+CASE-0170,FIR-2022-0170,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2022,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0171,FIR-2021-0171,Fraud,Commercial Fraud and Embezzlement Syndicate at Raipur,IPC 420/406,2021,Raipur,Raipur,Civil Lines,OPEN
+CASE-0172,FIR-2023-0172,Robbery,Armed Robbery Incident at Pune,IPC 392/397,2023,Pune,Pune,Shivajinagar,OPEN
+CASE-0173,FIR-2024-0173,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2024,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0174,FIR-2023-0174,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2023,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0175,FIR-2021-0175,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2021,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0176,FIR-2021-0176,Murder,Targeted Homicide Investigation in Bilaspur,IPC 302/120B,2021,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0177,FIR-2022-0177,Murder,Targeted Homicide Investigation in Varanasi,IPC 302/120B,2022,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0178,FIR-2022-0178,Theft,Serial Asset and Vehicle Theft in Kolkata,IPC 379,2022,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0179,FIR-2023-0179,Cybercrime,Digital Identity Theft and Financial Scam at Ahmedabad,IT Act 66D / IPC 420,2023,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0180,FIR-2023-0180,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2023,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0181,FIR-2022-0181,Kidnapping,Kidnapping and Extortion Case at Delhi,IPC 363/364A,2022,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0182,FIR-2021-0182,Criminal Intimidation,Intimidation and Witness Tampering at Lucknow,IPC 506,2021,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0183,FIR-2022-0183,Forgery,Forged Documentation and Property Fraud in Delhi,IPC 467/468/471,2022,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0184,FIR-2022-0184,Forgery,Forged Documentation and Property Fraud in Nagpur,IPC 467/468/471,2022,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0185,FIR-2021-0185,Criminal Intimidation,Intimidation and Witness Tampering at Lucknow,IPC 506,2021,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0186,FIR-2023-0186,Theft,Serial Asset and Vehicle Theft in Kolkata,IPC 379,2023,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0187,FIR-2024-0187,Assault,Physical Assault and Grievous Hurt Case at Howrah,IPC 323/325,2024,Howrah,Howrah,Howrah Town,OPEN
+CASE-0188,FIR-2024-0188,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2024,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0189,FIR-2023-0189,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2023,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0190,FIR-2024-0190,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2024,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0191,FIR-2022-0191,Assault,Physical Assault and Grievous Hurt Case at Varanasi,IPC 323/325,2022,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0192,FIR-2024-0192,Robbery,Armed Robbery Incident at Mumbai,IPC 392/397,2024,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0193,FIR-2021-0193,Murder,Targeted Homicide Investigation in Howrah,IPC 302/120B,2021,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0194,FIR-2021-0194,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2021,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0195,FIR-2024-0195,Robbery,Armed Robbery Incident at Howrah,IPC 392/397,2024,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0196,FIR-2021-0196,Murder,Targeted Homicide Investigation in Chennai,IPC 302/120B,2021,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0197,FIR-2021-0197,Assault,Physical Assault and Grievous Hurt Case at Lucknow,IPC 323/325,2021,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0198,FIR-2022-0198,Robbery,Armed Robbery Incident at Bilaspur,IPC 392/397,2022,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0199,FIR-2021-0199,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2021,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0200,FIR-2023-0200,Burglary,Nocturnal Commercial Burglary in Howrah,IPC 457/380,2023,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0201,FIR-2024-0201,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2024,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0202,FIR-2023-0202,Theft,Serial Asset and Vehicle Theft in Durg,IPC 379,2023,Durg,Durg,Durg Sadar,OPEN
+CASE-0203,FIR-2023-0203,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2023,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0204,FIR-2021-0204,Robbery,Armed Robbery Incident at Durg,IPC 392/397,2021,Durg,Durg,Durg Sadar,CLOSED
+CASE-0205,FIR-2021-0205,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2021,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0206,FIR-2023-0206,Theft,Serial Asset and Vehicle Theft in Surat,IPC 379,2023,Surat,Surat,Varachha,OPEN
+CASE-0207,FIR-2022-0207,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2022,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0208,FIR-2024-0208,Robbery,Armed Robbery Incident at Bilaspur,IPC 392/397,2024,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0209,FIR-2022-0209,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2022,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0210,FIR-2024-0210,Robbery,Armed Robbery Incident at Raipur,IPC 392/397,2024,Raipur,Raipur,Civil Lines,CLOSED
+CASE-0211,FIR-2024-0211,Assault,Physical Assault and Grievous Hurt Case at Raipur,IPC 323/325,2024,Raipur,Raipur,Civil Lines,OPEN
+CASE-0212,FIR-2021-0212,Cybercrime,Digital Identity Theft and Financial Scam at Surat,IT Act 66D / IPC 420,2021,Surat,Surat,Varachha,OPEN
+CASE-0213,FIR-2022-0213,Robbery,Armed Robbery Incident at Mumbai,IPC 392/397,2022,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0214,FIR-2021-0214,Forgery,Forged Documentation and Property Fraud in Kolkata,IPC 467/468/471,2021,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0215,FIR-2022-0215,Kidnapping,Kidnapping and Extortion Case at Lucknow,IPC 363/364A,2022,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0216,FIR-2024-0216,Assault,Physical Assault and Grievous Hurt Case at Kolkata,IPC 323/325,2024,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0217,FIR-2023-0217,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2023,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0218,FIR-2023-0218,Criminal Intimidation,Intimidation and Witness Tampering at Durg,IPC 506,2023,Durg,Durg,Durg Sadar,OPEN
+CASE-0219,FIR-2023-0219,Forgery,Forged Documentation and Property Fraud in Delhi,IPC 467/468/471,2023,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0220,FIR-2022-0220,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2022,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0221,FIR-2021-0221,Criminal Intimidation,Intimidation and Witness Tampering at Lucknow,IPC 506,2021,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0222,FIR-2021-0222,Murder,Targeted Homicide Investigation in Howrah,IPC 302/120B,2021,Howrah,Howrah,Howrah Town,OPEN
+CASE-0223,FIR-2021-0223,Fraud,Commercial Fraud and Embezzlement Syndicate at Raipur,IPC 420/406,2021,Raipur,Raipur,Civil Lines,OPEN
+CASE-0224,FIR-2024-0224,Theft,Serial Asset and Vehicle Theft in Bilaspur,IPC 379,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0225,FIR-2021-0225,Kidnapping,Kidnapping and Extortion Case at Delhi,IPC 363/364A,2021,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0226,FIR-2022-0226,Criminal Intimidation,Intimidation and Witness Tampering at Kolkata,IPC 506,2022,Kolkata,Kolkata,Burrabazar,CLOSED
+CASE-0227,FIR-2024-0227,Robbery,Armed Robbery Incident at Pune,IPC 392/397,2024,Pune,Pune,Shivajinagar,CLOSED
+CASE-0228,FIR-2021-0228,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2021,Mumbai,Mumbai Suburban,Bandra,CLOSED
+CASE-0229,FIR-2021-0229,Criminal Intimidation,Intimidation and Witness Tampering at Lucknow,IPC 506,2021,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0230,FIR-2024-0230,Theft,Serial Asset and Vehicle Theft in Nagpur,IPC 379,2024,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0231,FIR-2021-0231,Murder,Targeted Homicide Investigation in Chennai,IPC 302/120B,2021,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0232,FIR-2022-0232,Fraud,Commercial Fraud and Embezzlement Syndicate at Howrah,IPC 420/406,2022,Howrah,Howrah,Howrah Town,OPEN
+CASE-0233,FIR-2022-0233,Assault,Physical Assault and Grievous Hurt Case at Kolkata,IPC 323/325,2022,Kolkata,Kolkata,Park Street,OPEN
+CASE-0234,FIR-2022-0234,Theft,Serial Asset and Vehicle Theft in Howrah,IPC 379,2022,Howrah,Howrah,Howrah Town,OPEN
+CASE-0235,FIR-2021-0235,Cybercrime,Digital Identity Theft and Financial Scam at Durg,IT Act 66D / IPC 420,2021,Durg,Durg,Durg Sadar,CLOSED
+CASE-0236,FIR-2023-0236,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2023,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0237,FIR-2023-0237,Extortion,Threat and Extortion Racket in Nagpur,IPC 384/386,2023,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0238,FIR-2024-0238,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2024,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0239,FIR-2022-0239,Fraud,Commercial Fraud and Embezzlement Syndicate at Raipur,IPC 420/406,2022,Raipur,Raipur,Civil Lines,CLOSED
+CASE-0240,FIR-2021-0240,Fraud,Commercial Fraud and Embezzlement Syndicate at Delhi,IPC 420/406,2021,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0241,FIR-2022-0241,Murder,Targeted Homicide Investigation in Mumbai,IPC 302/120B,2022,Mumbai,Mumbai Suburban,Bandra,CLOSED
+CASE-0242,FIR-2024-0242,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2024,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0243,FIR-2021-0243,Fraud,Commercial Fraud and Embezzlement Syndicate at Pune,IPC 420/406,2021,Pune,Pune,Shivajinagar,OPEN
+CASE-0244,FIR-2023-0244,Robbery,Armed Robbery Incident at Bilaspur,IPC 392/397,2023,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0245,FIR-2024-0245,Criminal Intimidation,Intimidation and Witness Tampering at Kolkata,IPC 506,2024,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0246,FIR-2023-0246,Kidnapping,Kidnapping and Extortion Case at Surat,IPC 363/364A,2023,Surat,Surat,Varachha,OPEN
+CASE-0247,FIR-2023-0247,Fraud,Commercial Fraud and Embezzlement Syndicate at Varanasi,IPC 420/406,2023,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0248,FIR-2023-0248,Extortion,Threat and Extortion Racket in Raipur,IPC 384/386,2023,Raipur,Raipur,Civil Lines,OPEN
+CASE-0249,FIR-2022-0249,Cybercrime,Digital Identity Theft and Financial Scam at Nagpur,IT Act 66D / IPC 420,2022,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0250,FIR-2023-0250,Criminal Intimidation,Intimidation and Witness Tampering at Nagpur,IPC 506,2023,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0251,FIR-2021-0251,Theft,Serial Asset and Vehicle Theft in Howrah,IPC 379,2021,Howrah,Howrah,Howrah Town,OPEN
+CASE-0252,FIR-2022-0252,Kidnapping,Kidnapping and Extortion Case at Pune,IPC 363/364A,2022,Pune,Pune,Shivajinagar,OPEN
+CASE-0253,FIR-2021-0253,Theft,Serial Asset and Vehicle Theft in Durg,IPC 379,2021,Durg,Durg,Durg Sadar,OPEN
+CASE-0254,FIR-2022-0254,Murder,Targeted Homicide Investigation in Bilaspur,IPC 302/120B,2022,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0255,FIR-2021-0255,Fraud,Commercial Fraud and Embezzlement Syndicate at Varanasi,IPC 420/406,2021,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0256,FIR-2024-0256,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2024,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0257,FIR-2022-0257,Theft,Serial Asset and Vehicle Theft in Bilaspur,IPC 379,2022,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0258,FIR-2021-0258,Burglary,Nocturnal Commercial Burglary in Ahmedabad,IPC 457/380,2021,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-0259,FIR-2021-0259,Robbery,Armed Robbery Incident at Howrah,IPC 392/397,2021,Howrah,Howrah,Howrah Town,OPEN
+CASE-0260,FIR-2024-0260,Murder,Targeted Homicide Investigation in Pune,IPC 302/120B,2024,Pune,Pune,Shivajinagar,OPEN
+CASE-0261,FIR-2021-0261,Kidnapping,Kidnapping and Extortion Case at Mumbai,IPC 363/364A,2021,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0262,FIR-2024-0262,Murder,Targeted Homicide Investigation in Kolkata,IPC 302/120B,2024,Kolkata,Kolkata,Park Street,OPEN
+CASE-0263,FIR-2021-0263,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2021,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0264,FIR-2024-0264,Kidnapping,Kidnapping and Extortion Case at Kolkata,IPC 363/364A,2024,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0265,FIR-2023-0265,Robbery,Armed Robbery Incident at Mumbai,IPC 392/397,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0266,FIR-2021-0266,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2021,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0267,FIR-2021-0267,Theft,Serial Asset and Vehicle Theft in Ahmedabad,IPC 379,2021,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0268,FIR-2021-0268,Burglary,Nocturnal Commercial Burglary in Ahmedabad,IPC 457/380,2021,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-0269,FIR-2021-0269,Murder,Targeted Homicide Investigation in Howrah,IPC 302/120B,2021,Howrah,Howrah,Howrah Town,OPEN
+CASE-0270,FIR-2021-0270,Kidnapping,Kidnapping and Extortion Case at Siliguri,IPC 363/364A,2021,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0271,FIR-2022-0271,Robbery,Armed Robbery Incident at Durg,IPC 392/397,2022,Durg,Durg,Durg Sadar,OPEN
+CASE-0272,FIR-2021-0272,Theft,Serial Asset and Vehicle Theft in Chennai,IPC 379,2021,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-0273,FIR-2021-0273,Kidnapping,Kidnapping and Extortion Case at Mumbai,IPC 363/364A,2021,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0274,FIR-2023-0274,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2023,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0275,FIR-2023-0275,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2023,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0276,FIR-2024-0276,Cybercrime,Digital Identity Theft and Financial Scam at Lucknow,IT Act 66D / IPC 420,2024,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0277,FIR-2024-0277,Theft,Serial Asset and Vehicle Theft in Siliguri,IPC 379,2024,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0278,FIR-2022-0278,Criminal Intimidation,Intimidation and Witness Tampering at Howrah,IPC 506,2022,Howrah,Howrah,Howrah Town,OPEN
+CASE-0279,FIR-2023-0279,Criminal Intimidation,Intimidation and Witness Tampering at Ahmedabad,IPC 506,2023,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0280,FIR-2021-0280,Burglary,Nocturnal Commercial Burglary in Durg,IPC 457/380,2021,Durg,Durg,Durg Sadar,OPEN
+CASE-0281,FIR-2023-0281,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2023,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0282,FIR-2021-0282,Forgery,Forged Documentation and Property Fraud in Bilaspur,IPC 467/468/471,2021,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0283,FIR-2022-0283,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2022,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0284,FIR-2024-0284,Forgery,Forged Documentation and Property Fraud in Delhi,IPC 467/468/471,2024,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0285,FIR-2022-0285,Extortion,Threat and Extortion Racket in Pune,IPC 384/386,2022,Pune,Pune,Shivajinagar,CLOSED
+CASE-0286,FIR-2023-0286,Assault,Physical Assault and Grievous Hurt Case at Surat,IPC 323/325,2023,Surat,Surat,Varachha,CLOSED
+CASE-0287,FIR-2022-0287,Fraud,Commercial Fraud and Embezzlement Syndicate at Delhi,IPC 420/406,2022,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-0288,FIR-2022-0288,Extortion,Threat and Extortion Racket in Siliguri,IPC 384/386,2022,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0289,FIR-2022-0289,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2022,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-0290,FIR-2023-0290,Forgery,Forged Documentation and Property Fraud in Kolkata,IPC 467/468/471,2023,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0291,FIR-2021-0291,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2021,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0292,FIR-2022-0292,Extortion,Threat and Extortion Racket in Howrah,IPC 384/386,2022,Howrah,Howrah,Howrah Town,OPEN
+CASE-0293,FIR-2023-0293,Burglary,Nocturnal Commercial Burglary in Raipur,IPC 457/380,2023,Raipur,Raipur,Civil Lines,OPEN
+CASE-0294,FIR-2024-0294,Criminal Intimidation,Intimidation and Witness Tampering at Surat,IPC 506,2024,Surat,Surat,Varachha,OPEN
+CASE-0295,FIR-2021-0295,Extortion,Threat and Extortion Racket in Chennai,IPC 384/386,2021,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0296,FIR-2024-0296,Forgery,Forged Documentation and Property Fraud in Siliguri,IPC 467/468/471,2024,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0297,FIR-2021-0297,Assault,Physical Assault and Grievous Hurt Case at Pune,IPC 323/325,2021,Pune,Pune,Shivajinagar,OPEN
+CASE-0298,FIR-2021-0298,Theft,Serial Asset and Vehicle Theft in Howrah,IPC 379,2021,Howrah,Howrah,Howrah Town,OPEN
+CASE-0299,FIR-2023-0299,Robbery,Armed Robbery Incident at Bilaspur,IPC 392/397,2023,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0300,FIR-2023-0300,Cybercrime,Digital Identity Theft and Financial Scam at Varanasi,IT Act 66D / IPC 420,2023,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0301,FIR-2024-0301,Burglary,Nocturnal Commercial Burglary in Surat,IPC 457/380,2024,Surat,Surat,Varachha,OPEN
+CASE-0302,FIR-2021-0302,Kidnapping,Kidnapping and Extortion Case at Durg,IPC 363/364A,2021,Durg,Durg,Durg Sadar,OPEN
+CASE-0303,FIR-2023-0303,Kidnapping,Kidnapping and Extortion Case at Kolkata,IPC 363/364A,2023,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0304,FIR-2023-0304,Assault,Physical Assault and Grievous Hurt Case at Howrah,IPC 323/325,2023,Howrah,Howrah,Howrah Town,OPEN
+CASE-0305,FIR-2024-0305,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2024,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0306,FIR-2024-0306,Forgery,Forged Documentation and Property Fraud in Mumbai,IPC 467/468/471,2024,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0307,FIR-2023-0307,Forgery,Forged Documentation and Property Fraud in Nagpur,IPC 467/468/471,2023,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0308,FIR-2021-0308,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2021,Kolkata,Kolkata,Park Street,OPEN
+CASE-0309,FIR-2023-0309,Murder,Targeted Homicide Investigation in Ahmedabad,IPC 302/120B,2023,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-0310,FIR-2023-0310,Forgery,Forged Documentation and Property Fraud in Raipur,IPC 467/468/471,2023,Raipur,Raipur,Civil Lines,CLOSED
+CASE-0311,FIR-2023-0311,Cybercrime,Digital Identity Theft and Financial Scam at Raipur,IT Act 66D / IPC 420,2023,Raipur,Raipur,Civil Lines,CLOSED
+CASE-0312,FIR-2024-0312,Cybercrime,Digital Identity Theft and Financial Scam at Kolkata,IT Act 66D / IPC 420,2024,Kolkata,Kolkata,Park Street,OPEN
+CASE-0313,FIR-2023-0313,Kidnapping,Kidnapping and Extortion Case at Raipur,IPC 363/364A,2023,Raipur,Raipur,Civil Lines,CLOSED
+CASE-0314,FIR-2023-0314,Cybercrime,Digital Identity Theft and Financial Scam at Kolkata,IT Act 66D / IPC 420,2023,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0315,FIR-2024-0315,Murder,Targeted Homicide Investigation in Kolkata,IPC 302/120B,2024,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0316,FIR-2021-0316,Burglary,Nocturnal Commercial Burglary in Howrah,IPC 457/380,2021,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0317,FIR-2022-0317,Murder,Targeted Homicide Investigation in Mumbai,IPC 302/120B,2022,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0318,FIR-2021-0318,Cybercrime,Digital Identity Theft and Financial Scam at Siliguri,IT Act 66D / IPC 420,2021,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0319,FIR-2024-0319,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2024,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-0320,FIR-2024-0320,Assault,Physical Assault and Grievous Hurt Case at Mumbai,IPC 323/325,2024,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0321,FIR-2023-0321,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2023,Kolkata,Kolkata,Park Street,OPEN
+CASE-0322,FIR-2024-0322,Theft,Serial Asset and Vehicle Theft in Surat,IPC 379,2024,Surat,Surat,Varachha,OPEN
+CASE-0323,FIR-2021-0323,Criminal Intimidation,Intimidation and Witness Tampering at Surat,IPC 506,2021,Surat,Surat,Varachha,OPEN
+CASE-0324,FIR-2022-0324,Robbery,Armed Robbery Incident at Durg,IPC 392/397,2022,Durg,Durg,Durg Sadar,OPEN
+CASE-0325,FIR-2024-0325,Kidnapping,Kidnapping and Extortion Case at Durg,IPC 363/364A,2024,Durg,Durg,Durg Sadar,OPEN
+CASE-0326,FIR-2024-0326,Extortion,Threat and Extortion Racket in Bilaspur,IPC 384/386,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0327,FIR-2024-0327,Fraud,Commercial Fraud and Embezzlement Syndicate at Chennai,IPC 420/406,2024,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-0328,FIR-2023-0328,Assault,Physical Assault and Grievous Hurt Case at Raipur,IPC 323/325,2023,Raipur,Raipur,Civil Lines,CLOSED
+CASE-0329,FIR-2024-0329,Theft,Serial Asset and Vehicle Theft in Pune,IPC 379,2024,Pune,Pune,Shivajinagar,OPEN
+CASE-0330,FIR-2022-0330,Fraud,Commercial Fraud and Embezzlement Syndicate at Mumbai,IPC 420/406,2022,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0331,FIR-2021-0331,Assault,Physical Assault and Grievous Hurt Case at Pune,IPC 323/325,2021,Pune,Pune,Shivajinagar,OPEN
+CASE-0332,FIR-2023-0332,Burglary,Nocturnal Commercial Burglary in Lucknow,IPC 457/380,2023,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0333,FIR-2022-0333,Kidnapping,Kidnapping and Extortion Case at Ahmedabad,IPC 363/364A,2022,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0334,FIR-2023-0334,Cybercrime,Digital Identity Theft and Financial Scam at Surat,IT Act 66D / IPC 420,2023,Surat,Surat,Varachha,OPEN
+CASE-0335,FIR-2023-0335,Criminal Intimidation,Intimidation and Witness Tampering at Raipur,IPC 506,2023,Raipur,Raipur,Civil Lines,OPEN
+CASE-0336,FIR-2021-0336,Extortion,Threat and Extortion Racket in Mumbai,IPC 384/386,2021,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0337,FIR-2021-0337,Forgery,Forged Documentation and Property Fraud in Mumbai,IPC 467/468/471,2021,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0338,FIR-2024-0338,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2024,Kolkata,Kolkata,Park Street,OPEN
+CASE-0339,FIR-2023-0339,Kidnapping,Kidnapping and Extortion Case at Kolkata,IPC 363/364A,2023,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0340,FIR-2022-0340,Fraud,Commercial Fraud and Embezzlement Syndicate at Surat,IPC 420/406,2022,Surat,Surat,Varachha,CLOSED
+CASE-0341,FIR-2022-0341,Fraud,Commercial Fraud and Embezzlement Syndicate at Siliguri,IPC 420/406,2022,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0342,FIR-2022-0342,Extortion,Threat and Extortion Racket in Mumbai,IPC 384/386,2022,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0343,FIR-2024-0343,Theft,Serial Asset and Vehicle Theft in Durg,IPC 379,2024,Durg,Durg,Durg Sadar,OPEN
+CASE-0344,FIR-2023-0344,Extortion,Threat and Extortion Racket in Mumbai,IPC 384/386,2023,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0345,FIR-2024-0345,Cybercrime,Digital Identity Theft and Financial Scam at Lucknow,IT Act 66D / IPC 420,2024,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0346,FIR-2022-0346,Theft,Serial Asset and Vehicle Theft in Lucknow,IPC 379,2022,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0347,FIR-2022-0347,Forgery,Forged Documentation and Property Fraud in Mumbai,IPC 467/468/471,2022,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0348,FIR-2023-0348,Forgery,Forged Documentation and Property Fraud in Mumbai,IPC 467/468/471,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0349,FIR-2022-0349,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2022,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0350,FIR-2022-0350,Robbery,Armed Robbery Incident at Howrah,IPC 392/397,2022,Howrah,Howrah,Howrah Town,OPEN
+CASE-0351,FIR-2023-0351,Theft,Serial Asset and Vehicle Theft in Surat,IPC 379,2023,Surat,Surat,Varachha,OPEN
+CASE-0352,FIR-2024-0352,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2024,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-0353,FIR-2021-0353,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2021,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0354,FIR-2022-0354,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2022,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0355,FIR-2023-0355,Fraud,Commercial Fraud and Embezzlement Syndicate at Durg,IPC 420/406,2023,Durg,Durg,Durg Sadar,OPEN
+CASE-0356,FIR-2023-0356,Assault,Physical Assault and Grievous Hurt Case at Lucknow,IPC 323/325,2023,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0357,FIR-2024-0357,Robbery,Armed Robbery Incident at Siliguri,IPC 392/397,2024,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0358,FIR-2024-0358,Burglary,Nocturnal Commercial Burglary in Surat,IPC 457/380,2024,Surat,Surat,Varachha,CLOSED
+CASE-0359,FIR-2023-0359,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2023,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-0360,FIR-2023-0360,Criminal Intimidation,Intimidation and Witness Tampering at Howrah,IPC 506,2023,Howrah,Howrah,Howrah Town,OPEN
+CASE-0361,FIR-2024-0361,Fraud,Commercial Fraud and Embezzlement Syndicate at Lucknow,IPC 420/406,2024,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0362,FIR-2021-0362,Kidnapping,Kidnapping and Extortion Case at Howrah,IPC 363/364A,2021,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0363,FIR-2024-0363,Assault,Physical Assault and Grievous Hurt Case at Siliguri,IPC 323/325,2024,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0364,FIR-2023-0364,Criminal Intimidation,Intimidation and Witness Tampering at Siliguri,IPC 506,2023,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0365,FIR-2022-0365,Kidnapping,Kidnapping and Extortion Case at Ahmedabad,IPC 363/364A,2022,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0366,FIR-2021-0366,Kidnapping,Kidnapping and Extortion Case at Siliguri,IPC 363/364A,2021,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0367,FIR-2021-0367,Forgery,Forged Documentation and Property Fraud in Bilaspur,IPC 467/468/471,2021,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0368,FIR-2024-0368,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2024,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0369,FIR-2024-0369,Extortion,Threat and Extortion Racket in Mumbai,IPC 384/386,2024,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0370,FIR-2023-0370,Cybercrime,Digital Identity Theft and Financial Scam at Durg,IT Act 66D / IPC 420,2023,Durg,Durg,Durg Sadar,CLOSED
+CASE-0371,FIR-2021-0371,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2021,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0372,FIR-2022-0372,Criminal Intimidation,Intimidation and Witness Tampering at Kolkata,IPC 506,2022,Kolkata,Kolkata,Park Street,OPEN
+CASE-0373,FIR-2022-0373,Criminal Intimidation,Intimidation and Witness Tampering at Durg,IPC 506,2022,Durg,Durg,Durg Sadar,OPEN
+CASE-0374,FIR-2024-0374,Assault,Physical Assault and Grievous Hurt Case at Bilaspur,IPC 323/325,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0375,FIR-2024-0375,Fraud,Commercial Fraud and Embezzlement Syndicate at Howrah,IPC 420/406,2024,Howrah,Howrah,Howrah Town,OPEN
+CASE-0376,FIR-2024-0376,Fraud,Commercial Fraud and Embezzlement Syndicate at Delhi,IPC 420/406,2024,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0377,FIR-2024-0377,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2024,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-0378,FIR-2023-0378,Cybercrime,Digital Identity Theft and Financial Scam at Kolkata,IT Act 66D / IPC 420,2023,Kolkata,Kolkata,Park Street,OPEN
+CASE-0379,FIR-2021-0379,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2021,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0380,FIR-2024-0380,Kidnapping,Kidnapping and Extortion Case at Varanasi,IPC 363/364A,2024,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0381,FIR-2024-0381,Theft,Serial Asset and Vehicle Theft in Siliguri,IPC 379,2024,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0382,FIR-2021-0382,Burglary,Nocturnal Commercial Burglary in Mumbai,IPC 457/380,2021,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0383,FIR-2022-0383,Theft,Serial Asset and Vehicle Theft in Surat,IPC 379,2022,Surat,Surat,Varachha,OPEN
+CASE-0384,FIR-2021-0384,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2021,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0385,FIR-2023-0385,Cybercrime,Digital Identity Theft and Financial Scam at Nagpur,IT Act 66D / IPC 420,2023,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0386,FIR-2023-0386,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2023,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0387,FIR-2024-0387,Extortion,Threat and Extortion Racket in Ahmedabad,IPC 384/386,2024,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-0388,FIR-2023-0388,Murder,Targeted Homicide Investigation in Raipur,IPC 302/120B,2023,Raipur,Raipur,Civil Lines,OPEN
+CASE-0389,FIR-2023-0389,Theft,Serial Asset and Vehicle Theft in Lucknow,IPC 379,2023,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0390,FIR-2021-0390,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2021,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0391,FIR-2021-0391,Cybercrime,Digital Identity Theft and Financial Scam at Durg,IT Act 66D / IPC 420,2021,Durg,Durg,Durg Sadar,CLOSED
+CASE-0392,FIR-2023-0392,Burglary,Nocturnal Commercial Burglary in Ahmedabad,IPC 457/380,2023,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-0393,FIR-2022-0393,Forgery,Forged Documentation and Property Fraud in Howrah,IPC 467/468/471,2022,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0394,FIR-2021-0394,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2021,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0395,FIR-2021-0395,Fraud,Commercial Fraud and Embezzlement Syndicate at Howrah,IPC 420/406,2021,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0396,FIR-2023-0396,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2023,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0397,FIR-2023-0397,Kidnapping,Kidnapping and Extortion Case at Raipur,IPC 363/364A,2023,Raipur,Raipur,Civil Lines,OPEN
+CASE-0398,FIR-2022-0398,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2022,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0399,FIR-2022-0399,Murder,Targeted Homicide Investigation in Chennai,IPC 302/120B,2022,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0400,FIR-2023-0400,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2023,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0401,FIR-2022-0401,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2022,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0402,FIR-2022-0402,Kidnapping,Kidnapping and Extortion Case at Howrah,IPC 363/364A,2022,Howrah,Howrah,Howrah Town,OPEN
+CASE-0403,FIR-2023-0403,Cybercrime,Digital Identity Theft and Financial Scam at Kolkata,IT Act 66D / IPC 420,2023,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0404,FIR-2021-0404,Murder,Targeted Homicide Investigation in Chennai,IPC 302/120B,2021,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0405,FIR-2024-0405,Criminal Intimidation,Intimidation and Witness Tampering at Surat,IPC 506,2024,Surat,Surat,Varachha,OPEN
+CASE-0406,FIR-2024-0406,Forgery,Forged Documentation and Property Fraud in Lucknow,IPC 467/468/471,2024,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0407,FIR-2022-0407,Theft,Serial Asset and Vehicle Theft in Varanasi,IPC 379,2022,Varanasi,Varanasi,Dashashwamedh,CLOSED
+CASE-0408,FIR-2024-0408,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2024,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0409,FIR-2022-0409,Murder,Targeted Homicide Investigation in Kolkata,IPC 302/120B,2022,Kolkata,Kolkata,Burrabazar,CLOSED
+CASE-0410,FIR-2021-0410,Fraud,Commercial Fraud and Embezzlement Syndicate at Howrah,IPC 420/406,2021,Howrah,Howrah,Howrah Town,OPEN
+CASE-0411,FIR-2023-0411,Kidnapping,Kidnapping and Extortion Case at Varanasi,IPC 363/364A,2023,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0412,FIR-2024-0412,Fraud,Commercial Fraud and Embezzlement Syndicate at Mumbai,IPC 420/406,2024,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0413,FIR-2023-0413,Extortion,Threat and Extortion Racket in Raipur,IPC 384/386,2023,Raipur,Raipur,Civil Lines,OPEN
+CASE-0414,FIR-2023-0414,Murder,Targeted Homicide Investigation in Durg,IPC 302/120B,2023,Durg,Durg,Durg Sadar,OPEN
+CASE-0415,FIR-2021-0415,Kidnapping,Kidnapping and Extortion Case at Chennai,IPC 363/364A,2021,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0416,FIR-2021-0416,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2021,Kolkata,Kolkata,Park Street,OPEN
+CASE-0417,FIR-2023-0417,Fraud,Commercial Fraud and Embezzlement Syndicate at Bilaspur,IPC 420/406,2023,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0418,FIR-2022-0418,Kidnapping,Kidnapping and Extortion Case at Siliguri,IPC 363/364A,2022,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0419,FIR-2022-0419,Theft,Serial Asset and Vehicle Theft in Kolkata,IPC 379,2022,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0420,FIR-2021-0420,Murder,Targeted Homicide Investigation in Varanasi,IPC 302/120B,2021,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0421,FIR-2021-0421,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2021,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0422,FIR-2023-0422,Burglary,Nocturnal Commercial Burglary in Siliguri,IPC 457/380,2023,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0423,FIR-2024-0423,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2024,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0424,FIR-2024-0424,Criminal Intimidation,Intimidation and Witness Tampering at Nagpur,IPC 506,2024,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0425,FIR-2021-0425,Forgery,Forged Documentation and Property Fraud in Kolkata,IPC 467/468/471,2021,Kolkata,Kolkata,Park Street,OPEN
+CASE-0426,FIR-2024-0426,Forgery,Forged Documentation and Property Fraud in Chennai,IPC 467/468/471,2024,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-0427,FIR-2024-0427,Kidnapping,Kidnapping and Extortion Case at Chennai,IPC 363/364A,2024,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0428,FIR-2024-0428,Robbery,Armed Robbery Incident at Siliguri,IPC 392/397,2024,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0429,FIR-2021-0429,Assault,Physical Assault and Grievous Hurt Case at Siliguri,IPC 323/325,2021,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0430,FIR-2023-0430,Murder,Targeted Homicide Investigation in Nagpur,IPC 302/120B,2023,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0431,FIR-2022-0431,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2022,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0432,FIR-2022-0432,Murder,Targeted Homicide Investigation in Kolkata,IPC 302/120B,2022,Kolkata,Kolkata,Park Street,OPEN
+CASE-0433,FIR-2021-0433,Assault,Physical Assault and Grievous Hurt Case at Lucknow,IPC 323/325,2021,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0434,FIR-2021-0434,Kidnapping,Kidnapping and Extortion Case at Durg,IPC 363/364A,2021,Durg,Durg,Durg Sadar,OPEN
+CASE-0435,FIR-2022-0435,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2022,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0436,FIR-2022-0436,Theft,Serial Asset and Vehicle Theft in Nagpur,IPC 379,2022,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0437,FIR-2024-0437,Cybercrime,Digital Identity Theft and Financial Scam at Varanasi,IT Act 66D / IPC 420,2024,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0438,FIR-2021-0438,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2021,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0439,FIR-2024-0439,Assault,Physical Assault and Grievous Hurt Case at Bilaspur,IPC 323/325,2024,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0440,FIR-2024-0440,Theft,Serial Asset and Vehicle Theft in Durg,IPC 379,2024,Durg,Durg,Durg Sadar,CLOSED
+CASE-0441,FIR-2023-0441,Theft,Serial Asset and Vehicle Theft in Chennai,IPC 379,2023,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-0442,FIR-2023-0442,Forgery,Forged Documentation and Property Fraud in Surat,IPC 467/468/471,2023,Surat,Surat,Varachha,OPEN
+CASE-0443,FIR-2021-0443,Assault,Physical Assault and Grievous Hurt Case at Surat,IPC 323/325,2021,Surat,Surat,Varachha,OPEN
+CASE-0444,FIR-2024-0444,Robbery,Armed Robbery Incident at Varanasi,IPC 392/397,2024,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0445,FIR-2022-0445,Forgery,Forged Documentation and Property Fraud in Siliguri,IPC 467/468/471,2022,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0446,FIR-2021-0446,Assault,Physical Assault and Grievous Hurt Case at Bilaspur,IPC 323/325,2021,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0447,FIR-2022-0447,Cybercrime,Digital Identity Theft and Financial Scam at Kolkata,IT Act 66D / IPC 420,2022,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-0448,FIR-2021-0448,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2021,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0449,FIR-2023-0449,Kidnapping,Kidnapping and Extortion Case at Mumbai,IPC 363/364A,2023,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0450,FIR-2021-0450,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2021,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0451,FIR-2024-0451,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2024,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0452,FIR-2024-0452,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2024,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0453,FIR-2022-0453,Forgery,Forged Documentation and Property Fraud in Delhi,IPC 467/468/471,2022,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0454,FIR-2023-0454,Assault,Physical Assault and Grievous Hurt Case at Kolkata,IPC 323/325,2023,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0455,FIR-2023-0455,Theft,Serial Asset and Vehicle Theft in Kolkata,IPC 379,2023,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0456,FIR-2022-0456,Fraud,Commercial Fraud and Embezzlement Syndicate at Lucknow,IPC 420/406,2022,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0457,FIR-2024-0457,Theft,Serial Asset and Vehicle Theft in Varanasi,IPC 379,2024,Varanasi,Varanasi,Dashashwamedh,CLOSED
+CASE-0458,FIR-2024-0458,Kidnapping,Kidnapping and Extortion Case at Howrah,IPC 363/364A,2024,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0459,FIR-2024-0459,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2024,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0460,FIR-2023-0460,Murder,Targeted Homicide Investigation in Surat,IPC 302/120B,2023,Surat,Surat,Varachha,OPEN
+CASE-0461,FIR-2022-0461,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2022,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0462,FIR-2023-0462,Kidnapping,Kidnapping and Extortion Case at Mumbai,IPC 363/364A,2023,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0463,FIR-2023-0463,Forgery,Forged Documentation and Property Fraud in Chennai,IPC 467/468/471,2023,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0464,FIR-2023-0464,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2023,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0465,FIR-2021-0465,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2021,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0466,FIR-2023-0466,Murder,Targeted Homicide Investigation in Pune,IPC 302/120B,2023,Pune,Pune,Shivajinagar,CLOSED
+CASE-0467,FIR-2021-0467,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2021,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0468,FIR-2023-0468,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2023,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0469,FIR-2024-0469,Assault,Physical Assault and Grievous Hurt Case at Bilaspur,IPC 323/325,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0470,FIR-2023-0470,Extortion,Threat and Extortion Racket in Mumbai,IPC 384/386,2023,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0471,FIR-2023-0471,Burglary,Nocturnal Commercial Burglary in Raipur,IPC 457/380,2023,Raipur,Raipur,Civil Lines,CLOSED
+CASE-0472,FIR-2024-0472,Fraud,Commercial Fraud and Embezzlement Syndicate at Mumbai,IPC 420/406,2024,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0473,FIR-2022-0473,Criminal Intimidation,Intimidation and Witness Tampering at Raipur,IPC 506,2022,Raipur,Raipur,Civil Lines,CLOSED
+CASE-0474,FIR-2022-0474,Criminal Intimidation,Intimidation and Witness Tampering at Kolkata,IPC 506,2022,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0475,FIR-2024-0475,Kidnapping,Kidnapping and Extortion Case at Raipur,IPC 363/364A,2024,Raipur,Raipur,Civil Lines,OPEN
+CASE-0476,FIR-2022-0476,Kidnapping,Kidnapping and Extortion Case at Chennai,IPC 363/364A,2022,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0477,FIR-2021-0477,Fraud,Commercial Fraud and Embezzlement Syndicate at Mumbai,IPC 420/406,2021,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0478,FIR-2021-0478,Theft,Serial Asset and Vehicle Theft in Chennai,IPC 379,2021,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0479,FIR-2021-0479,Theft,Serial Asset and Vehicle Theft in Howrah,IPC 379,2021,Howrah,Howrah,Howrah Town,OPEN
+CASE-0480,FIR-2021-0480,Extortion,Threat and Extortion Racket in Surat,IPC 384/386,2021,Surat,Surat,Varachha,OPEN
+CASE-0481,FIR-2023-0481,Theft,Serial Asset and Vehicle Theft in Lucknow,IPC 379,2023,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0482,FIR-2021-0482,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2021,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0483,FIR-2021-0483,Fraud,Commercial Fraud and Embezzlement Syndicate at Siliguri,IPC 420/406,2021,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0484,FIR-2024-0484,Theft,Serial Asset and Vehicle Theft in Pune,IPC 379,2024,Pune,Pune,Shivajinagar,CLOSED
+CASE-0485,FIR-2023-0485,Theft,Serial Asset and Vehicle Theft in Ahmedabad,IPC 379,2023,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0486,FIR-2021-0486,Cybercrime,Digital Identity Theft and Financial Scam at Nagpur,IT Act 66D / IPC 420,2021,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0487,FIR-2021-0487,Cybercrime,Digital Identity Theft and Financial Scam at Lucknow,IT Act 66D / IPC 420,2021,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0488,FIR-2023-0488,Forgery,Forged Documentation and Property Fraud in Pune,IPC 467/468/471,2023,Pune,Pune,Shivajinagar,CLOSED
+CASE-0489,FIR-2021-0489,Robbery,Armed Robbery Incident at Lucknow,IPC 392/397,2021,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0490,FIR-2021-0490,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2021,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0491,FIR-2024-0491,Forgery,Forged Documentation and Property Fraud in Lucknow,IPC 467/468/471,2024,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0492,FIR-2021-0492,Extortion,Threat and Extortion Racket in Surat,IPC 384/386,2021,Surat,Surat,Varachha,OPEN
+CASE-0493,FIR-2024-0493,Criminal Intimidation,Intimidation and Witness Tampering at Surat,IPC 506,2024,Surat,Surat,Varachha,OPEN
+CASE-0494,FIR-2023-0494,Forgery,Forged Documentation and Property Fraud in Lucknow,IPC 467/468/471,2023,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0495,FIR-2023-0495,Theft,Serial Asset and Vehicle Theft in Durg,IPC 379,2023,Durg,Durg,Durg Sadar,OPEN
+CASE-0496,FIR-2022-0496,Theft,Serial Asset and Vehicle Theft in Howrah,IPC 379,2022,Howrah,Howrah,Howrah Town,OPEN
+CASE-0497,FIR-2021-0497,Robbery,Armed Robbery Incident at Nagpur,IPC 392/397,2021,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0498,FIR-2023-0498,Assault,Physical Assault and Grievous Hurt Case at Kolkata,IPC 323/325,2023,Kolkata,Kolkata,Burrabazar,CLOSED
+CASE-0499,FIR-2024-0499,Murder,Targeted Homicide Investigation in Durg,IPC 302/120B,2024,Durg,Durg,Durg Sadar,CLOSED
+CASE-0500,FIR-2022-0500,Forgery,Forged Documentation and Property Fraud in Lucknow,IPC 467/468/471,2022,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0501,FIR-2022-0501,Forgery,Forged Documentation and Property Fraud in Delhi,IPC 467/468/471,2022,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0502,FIR-2023-0502,Fraud,Commercial Fraud and Embezzlement Syndicate at Pune,IPC 420/406,2023,Pune,Pune,Shivajinagar,OPEN
+CASE-0503,FIR-2022-0503,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2022,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0504,FIR-2022-0504,Criminal Intimidation,Intimidation and Witness Tampering at Bilaspur,IPC 506,2022,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0505,FIR-2021-0505,Kidnapping,Kidnapping and Extortion Case at Raipur,IPC 363/364A,2021,Raipur,Raipur,Civil Lines,OPEN
+CASE-0506,FIR-2021-0506,Assault,Physical Assault and Grievous Hurt Case at Ahmedabad,IPC 323/325,2021,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0507,FIR-2021-0507,Kidnapping,Kidnapping and Extortion Case at Delhi,IPC 363/364A,2021,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0508,FIR-2024-0508,Extortion,Threat and Extortion Racket in Siliguri,IPC 384/386,2024,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0509,FIR-2024-0509,Theft,Serial Asset and Vehicle Theft in Siliguri,IPC 379,2024,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0510,FIR-2021-0510,Forgery,Forged Documentation and Property Fraud in Mumbai,IPC 467/468/471,2021,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0511,FIR-2021-0511,Theft,Serial Asset and Vehicle Theft in Lucknow,IPC 379,2021,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0512,FIR-2023-0512,Kidnapping,Kidnapping and Extortion Case at Kolkata,IPC 363/364A,2023,Kolkata,Kolkata,Burrabazar,CLOSED
+CASE-0513,FIR-2024-0513,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2024,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0514,FIR-2022-0514,Burglary,Nocturnal Commercial Burglary in Siliguri,IPC 457/380,2022,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0515,FIR-2021-0515,Murder,Targeted Homicide Investigation in Surat,IPC 302/120B,2021,Surat,Surat,Varachha,OPEN
+CASE-0516,FIR-2023-0516,Kidnapping,Kidnapping and Extortion Case at Lucknow,IPC 363/364A,2023,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0517,FIR-2023-0517,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2023,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0518,FIR-2023-0518,Assault,Physical Assault and Grievous Hurt Case at Lucknow,IPC 323/325,2023,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0519,FIR-2023-0519,Extortion,Threat and Extortion Racket in Durg,IPC 384/386,2023,Durg,Durg,Durg Sadar,OPEN
+CASE-0520,FIR-2024-0520,Kidnapping,Kidnapping and Extortion Case at Lucknow,IPC 363/364A,2024,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0521,FIR-2022-0521,Robbery,Armed Robbery Incident at Pune,IPC 392/397,2022,Pune,Pune,Shivajinagar,CLOSED
+CASE-0522,FIR-2024-0522,Kidnapping,Kidnapping and Extortion Case at Bilaspur,IPC 363/364A,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0523,FIR-2023-0523,Murder,Targeted Homicide Investigation in Varanasi,IPC 302/120B,2023,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0524,FIR-2021-0524,Fraud,Commercial Fraud and Embezzlement Syndicate at Raipur,IPC 420/406,2021,Raipur,Raipur,Civil Lines,OPEN
+CASE-0525,FIR-2022-0525,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2022,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-0526,FIR-2021-0526,Fraud,Commercial Fraud and Embezzlement Syndicate at Mumbai,IPC 420/406,2021,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0527,FIR-2022-0527,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2022,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0528,FIR-2022-0528,Assault,Physical Assault and Grievous Hurt Case at Surat,IPC 323/325,2022,Surat,Surat,Varachha,OPEN
+CASE-0529,FIR-2022-0529,Kidnapping,Kidnapping and Extortion Case at Chennai,IPC 363/364A,2022,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0530,FIR-2022-0530,Kidnapping,Kidnapping and Extortion Case at Nagpur,IPC 363/364A,2022,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0531,FIR-2024-0531,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2024,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0532,FIR-2021-0532,Burglary,Nocturnal Commercial Burglary in Mumbai,IPC 457/380,2021,Mumbai,Mumbai Suburban,Bandra,CLOSED
+CASE-0533,FIR-2024-0533,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2024,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0534,FIR-2023-0534,Extortion,Threat and Extortion Racket in Siliguri,IPC 384/386,2023,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0535,FIR-2021-0535,Extortion,Threat and Extortion Racket in Nagpur,IPC 384/386,2021,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0536,FIR-2023-0536,Forgery,Forged Documentation and Property Fraud in Kolkata,IPC 467/468/471,2023,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0537,FIR-2024-0537,Theft,Serial Asset and Vehicle Theft in Mumbai,IPC 379,2024,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0538,FIR-2023-0538,Assault,Physical Assault and Grievous Hurt Case at Kolkata,IPC 323/325,2023,Kolkata,Kolkata,Burrabazar,CLOSED
+CASE-0539,FIR-2021-0539,Kidnapping,Kidnapping and Extortion Case at Delhi,IPC 363/364A,2021,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0540,FIR-2022-0540,Assault,Physical Assault and Grievous Hurt Case at Pune,IPC 323/325,2022,Pune,Pune,Shivajinagar,CLOSED
+CASE-0541,FIR-2021-0541,Criminal Intimidation,Intimidation and Witness Tampering at Kolkata,IPC 506,2021,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0542,FIR-2022-0542,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2022,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0543,FIR-2022-0543,Fraud,Commercial Fraud and Embezzlement Syndicate at Ahmedabad,IPC 420/406,2022,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0544,FIR-2023-0544,Cybercrime,Digital Identity Theft and Financial Scam at Ahmedabad,IT Act 66D / IPC 420,2023,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0545,FIR-2022-0545,Criminal Intimidation,Intimidation and Witness Tampering at Kolkata,IPC 506,2022,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0546,FIR-2022-0546,Extortion,Threat and Extortion Racket in Ahmedabad,IPC 384/386,2022,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-0547,FIR-2023-0547,Kidnapping,Kidnapping and Extortion Case at Delhi,IPC 363/364A,2023,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0548,FIR-2022-0548,Criminal Intimidation,Intimidation and Witness Tampering at Lucknow,IPC 506,2022,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0549,FIR-2022-0549,Burglary,Nocturnal Commercial Burglary in Surat,IPC 457/380,2022,Surat,Surat,Varachha,CLOSED
+CASE-0550,FIR-2024-0550,Forgery,Forged Documentation and Property Fraud in Mumbai,IPC 467/468/471,2024,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0551,FIR-2023-0551,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2023,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0552,FIR-2022-0552,Fraud,Commercial Fraud and Embezzlement Syndicate at Howrah,IPC 420/406,2022,Howrah,Howrah,Howrah Town,OPEN
+CASE-0553,FIR-2024-0553,Fraud,Commercial Fraud and Embezzlement Syndicate at Delhi,IPC 420/406,2024,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0554,FIR-2021-0554,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2021,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0555,FIR-2023-0555,Theft,Serial Asset and Vehicle Theft in Howrah,IPC 379,2023,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0556,FIR-2024-0556,Cybercrime,Digital Identity Theft and Financial Scam at Ahmedabad,IT Act 66D / IPC 420,2024,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0557,FIR-2021-0557,Criminal Intimidation,Intimidation and Witness Tampering at Durg,IPC 506,2021,Durg,Durg,Durg Sadar,OPEN
+CASE-0558,FIR-2024-0558,Assault,Physical Assault and Grievous Hurt Case at Bilaspur,IPC 323/325,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0559,FIR-2023-0559,Theft,Serial Asset and Vehicle Theft in Mumbai,IPC 379,2023,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0560,FIR-2024-0560,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2024,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0561,FIR-2024-0561,Kidnapping,Kidnapping and Extortion Case at Mumbai,IPC 363/364A,2024,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0562,FIR-2023-0562,Theft,Serial Asset and Vehicle Theft in Kolkata,IPC 379,2023,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0563,FIR-2022-0563,Forgery,Forged Documentation and Property Fraud in Lucknow,IPC 467/468/471,2022,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0564,FIR-2023-0564,Criminal Intimidation,Intimidation and Witness Tampering at Howrah,IPC 506,2023,Howrah,Howrah,Howrah Town,OPEN
+CASE-0565,FIR-2021-0565,Assault,Physical Assault and Grievous Hurt Case at Kolkata,IPC 323/325,2021,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0566,FIR-2023-0566,Extortion,Threat and Extortion Racket in Pune,IPC 384/386,2023,Pune,Pune,Shivajinagar,CLOSED
+CASE-0567,FIR-2021-0567,Assault,Physical Assault and Grievous Hurt Case at Kolkata,IPC 323/325,2021,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0568,FIR-2022-0568,Theft,Serial Asset and Vehicle Theft in Chennai,IPC 379,2022,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-0569,FIR-2022-0569,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2022,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0570,FIR-2023-0570,Cybercrime,Digital Identity Theft and Financial Scam at Nagpur,IT Act 66D / IPC 420,2023,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0571,FIR-2021-0571,Assault,Physical Assault and Grievous Hurt Case at Durg,IPC 323/325,2021,Durg,Durg,Durg Sadar,OPEN
+CASE-0572,FIR-2021-0572,Kidnapping,Kidnapping and Extortion Case at Surat,IPC 363/364A,2021,Surat,Surat,Varachha,OPEN
+CASE-0573,FIR-2022-0573,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2022,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0574,FIR-2022-0574,Kidnapping,Kidnapping and Extortion Case at Durg,IPC 363/364A,2022,Durg,Durg,Durg Sadar,OPEN
+CASE-0575,FIR-2024-0575,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2024,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0576,FIR-2021-0576,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2021,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0577,FIR-2021-0577,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2021,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0578,FIR-2022-0578,Assault,Physical Assault and Grievous Hurt Case at Varanasi,IPC 323/325,2022,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0579,FIR-2022-0579,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2022,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0580,FIR-2024-0580,Fraud,Commercial Fraud and Embezzlement Syndicate at Pune,IPC 420/406,2024,Pune,Pune,Shivajinagar,OPEN
+CASE-0581,FIR-2023-0581,Kidnapping,Kidnapping and Extortion Case at Mumbai,IPC 363/364A,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0582,FIR-2024-0582,Extortion,Threat and Extortion Racket in Mumbai,IPC 384/386,2024,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0583,FIR-2022-0583,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2022,Kolkata,Kolkata,Burrabazar,CLOSED
+CASE-0584,FIR-2024-0584,Assault,Physical Assault and Grievous Hurt Case at Mumbai,IPC 323/325,2024,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0585,FIR-2022-0585,Assault,Physical Assault and Grievous Hurt Case at Surat,IPC 323/325,2022,Surat,Surat,Varachha,OPEN
+CASE-0586,FIR-2023-0586,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2023,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0587,FIR-2022-0587,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2022,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0588,FIR-2022-0588,Kidnapping,Kidnapping and Extortion Case at Delhi,IPC 363/364A,2022,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0589,FIR-2021-0589,Burglary,Nocturnal Commercial Burglary in Lucknow,IPC 457/380,2021,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0590,FIR-2021-0590,Theft,Serial Asset and Vehicle Theft in Siliguri,IPC 379,2021,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0591,FIR-2024-0591,Cybercrime,Digital Identity Theft and Financial Scam at Bilaspur,IT Act 66D / IPC 420,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0592,FIR-2024-0592,Extortion,Threat and Extortion Racket in Siliguri,IPC 384/386,2024,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0593,FIR-2022-0593,Burglary,Nocturnal Commercial Burglary in Surat,IPC 457/380,2022,Surat,Surat,Varachha,OPEN
+CASE-0594,FIR-2024-0594,Burglary,Nocturnal Commercial Burglary in Mumbai,IPC 457/380,2024,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0595,FIR-2021-0595,Theft,Serial Asset and Vehicle Theft in Siliguri,IPC 379,2021,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0596,FIR-2024-0596,Murder,Targeted Homicide Investigation in Varanasi,IPC 302/120B,2024,Varanasi,Varanasi,Dashashwamedh,CLOSED
+CASE-0597,FIR-2024-0597,Fraud,Commercial Fraud and Embezzlement Syndicate at Bilaspur,IPC 420/406,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0598,FIR-2023-0598,Theft,Serial Asset and Vehicle Theft in Durg,IPC 379,2023,Durg,Durg,Durg Sadar,OPEN
+CASE-0599,FIR-2021-0599,Burglary,Nocturnal Commercial Burglary in Surat,IPC 457/380,2021,Surat,Surat,Varachha,CLOSED
+CASE-0600,FIR-2024-0600,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2024,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0601,FIR-2021-0601,Kidnapping,Kidnapping and Extortion Case at Raipur,IPC 363/364A,2021,Raipur,Raipur,Civil Lines,OPEN
+CASE-0602,FIR-2021-0602,Burglary,Nocturnal Commercial Burglary in Howrah,IPC 457/380,2021,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0603,FIR-2024-0603,Burglary,Nocturnal Commercial Burglary in Raipur,IPC 457/380,2024,Raipur,Raipur,Civil Lines,OPEN
+CASE-0604,FIR-2024-0604,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2024,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0605,FIR-2023-0605,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2023,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0606,FIR-2023-0606,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2023,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0607,FIR-2022-0607,Theft,Serial Asset and Vehicle Theft in Lucknow,IPC 379,2022,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0608,FIR-2023-0608,Assault,Physical Assault and Grievous Hurt Case at Bilaspur,IPC 323/325,2023,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0609,FIR-2024-0609,Fraud,Commercial Fraud and Embezzlement Syndicate at Ahmedabad,IPC 420/406,2024,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0610,FIR-2022-0610,Theft,Serial Asset and Vehicle Theft in Siliguri,IPC 379,2022,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0611,FIR-2023-0611,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2023,Kolkata,Kolkata,Park Street,OPEN
+CASE-0612,FIR-2021-0612,Cybercrime,Digital Identity Theft and Financial Scam at Ahmedabad,IT Act 66D / IPC 420,2021,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-0613,FIR-2022-0613,Kidnapping,Kidnapping and Extortion Case at Mumbai,IPC 363/364A,2022,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0614,FIR-2024-0614,Extortion,Threat and Extortion Racket in Chennai,IPC 384/386,2024,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0615,FIR-2024-0615,Kidnapping,Kidnapping and Extortion Case at Varanasi,IPC 363/364A,2024,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0616,FIR-2022-0616,Extortion,Threat and Extortion Racket in Nagpur,IPC 384/386,2022,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0617,FIR-2023-0617,Kidnapping,Kidnapping and Extortion Case at Bilaspur,IPC 363/364A,2023,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0618,FIR-2023-0618,Robbery,Armed Robbery Incident at Lucknow,IPC 392/397,2023,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0619,FIR-2022-0619,Robbery,Armed Robbery Incident at Mumbai,IPC 392/397,2022,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0620,FIR-2022-0620,Cybercrime,Digital Identity Theft and Financial Scam at Howrah,IT Act 66D / IPC 420,2022,Howrah,Howrah,Howrah Town,OPEN
+CASE-0621,FIR-2021-0621,Fraud,Commercial Fraud and Embezzlement Syndicate at Lucknow,IPC 420/406,2021,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0622,FIR-2024-0622,Assault,Physical Assault and Grievous Hurt Case at Lucknow,IPC 323/325,2024,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0623,FIR-2023-0623,Murder,Targeted Homicide Investigation in Varanasi,IPC 302/120B,2023,Varanasi,Varanasi,Dashashwamedh,CLOSED
+CASE-0624,FIR-2022-0624,Murder,Targeted Homicide Investigation in Ahmedabad,IPC 302/120B,2022,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0625,FIR-2021-0625,Forgery,Forged Documentation and Property Fraud in Bilaspur,IPC 467/468/471,2021,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0626,FIR-2022-0626,Murder,Targeted Homicide Investigation in Siliguri,IPC 302/120B,2022,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0627,FIR-2021-0627,Kidnapping,Kidnapping and Extortion Case at Pune,IPC 363/364A,2021,Pune,Pune,Shivajinagar,CLOSED
+CASE-0628,FIR-2024-0628,Kidnapping,Kidnapping and Extortion Case at Siliguri,IPC 363/364A,2024,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0629,FIR-2023-0629,Burglary,Nocturnal Commercial Burglary in Pune,IPC 457/380,2023,Pune,Pune,Shivajinagar,OPEN
+CASE-0630,FIR-2024-0630,Extortion,Threat and Extortion Racket in Durg,IPC 384/386,2024,Durg,Durg,Durg Sadar,OPEN
+CASE-0631,FIR-2023-0631,Robbery,Armed Robbery Incident at Ahmedabad,IPC 392/397,2023,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0632,FIR-2021-0632,Assault,Physical Assault and Grievous Hurt Case at Pune,IPC 323/325,2021,Pune,Pune,Shivajinagar,CLOSED
+CASE-0633,FIR-2023-0633,Forgery,Forged Documentation and Property Fraud in Raipur,IPC 467/468/471,2023,Raipur,Raipur,Civil Lines,CLOSED
+CASE-0634,FIR-2024-0634,Robbery,Armed Robbery Incident at Chennai,IPC 392/397,2024,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0635,FIR-2024-0635,Fraud,Commercial Fraud and Embezzlement Syndicate at Howrah,IPC 420/406,2024,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0636,FIR-2023-0636,Cybercrime,Digital Identity Theft and Financial Scam at Kolkata,IT Act 66D / IPC 420,2023,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0637,FIR-2024-0637,Criminal Intimidation,Intimidation and Witness Tampering at Nagpur,IPC 506,2024,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0638,FIR-2024-0638,Assault,Physical Assault and Grievous Hurt Case at Bilaspur,IPC 323/325,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0639,FIR-2024-0639,Kidnapping,Kidnapping and Extortion Case at Bilaspur,IPC 363/364A,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0640,FIR-2023-0640,Forgery,Forged Documentation and Property Fraud in Kolkata,IPC 467/468/471,2023,Kolkata,Kolkata,Park Street,OPEN
+CASE-0641,FIR-2021-0641,Theft,Serial Asset and Vehicle Theft in Mumbai,IPC 379,2021,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0642,FIR-2024-0642,Kidnapping,Kidnapping and Extortion Case at Mumbai,IPC 363/364A,2024,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0643,FIR-2021-0643,Fraud,Commercial Fraud and Embezzlement Syndicate at Mumbai,IPC 420/406,2021,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0644,FIR-2024-0644,Kidnapping,Kidnapping and Extortion Case at Ahmedabad,IPC 363/364A,2024,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0645,FIR-2021-0645,Burglary,Nocturnal Commercial Burglary in Chennai,IPC 457/380,2021,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0646,FIR-2022-0646,Kidnapping,Kidnapping and Extortion Case at Varanasi,IPC 363/364A,2022,Varanasi,Varanasi,Dashashwamedh,CLOSED
+CASE-0647,FIR-2021-0647,Cybercrime,Digital Identity Theft and Financial Scam at Siliguri,IT Act 66D / IPC 420,2021,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0648,FIR-2024-0648,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2024,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0649,FIR-2021-0649,Kidnapping,Kidnapping and Extortion Case at Pune,IPC 363/364A,2021,Pune,Pune,Shivajinagar,CLOSED
+CASE-0650,FIR-2021-0650,Fraud,Commercial Fraud and Embezzlement Syndicate at Bilaspur,IPC 420/406,2021,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0651,FIR-2022-0651,Criminal Intimidation,Intimidation and Witness Tampering at Pune,IPC 506,2022,Pune,Pune,Shivajinagar,CLOSED
+CASE-0652,FIR-2021-0652,Murder,Targeted Homicide Investigation in Nagpur,IPC 302/120B,2021,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0653,FIR-2021-0653,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2021,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0654,FIR-2023-0654,Assault,Physical Assault and Grievous Hurt Case at Siliguri,IPC 323/325,2023,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0655,FIR-2023-0655,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2023,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0656,FIR-2022-0656,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2022,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0657,FIR-2023-0657,Kidnapping,Kidnapping and Extortion Case at Mumbai,IPC 363/364A,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0658,FIR-2024-0658,Extortion,Threat and Extortion Racket in Pune,IPC 384/386,2024,Pune,Pune,Shivajinagar,OPEN
+CASE-0659,FIR-2024-0659,Extortion,Threat and Extortion Racket in Lucknow,IPC 384/386,2024,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0660,FIR-2021-0660,Extortion,Threat and Extortion Racket in Raipur,IPC 384/386,2021,Raipur,Raipur,Civil Lines,OPEN
+CASE-0661,FIR-2022-0661,Murder,Targeted Homicide Investigation in Kolkata,IPC 302/120B,2022,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0662,FIR-2024-0662,Forgery,Forged Documentation and Property Fraud in Nagpur,IPC 467/468/471,2024,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0663,FIR-2022-0663,Forgery,Forged Documentation and Property Fraud in Mumbai,IPC 467/468/471,2022,Mumbai,Mumbai Suburban,Bandra,CLOSED
+CASE-0664,FIR-2021-0664,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2021,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0665,FIR-2023-0665,Fraud,Commercial Fraud and Embezzlement Syndicate at Raipur,IPC 420/406,2023,Raipur,Raipur,Civil Lines,OPEN
+CASE-0666,FIR-2022-0666,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2022,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0667,FIR-2022-0667,Fraud,Commercial Fraud and Embezzlement Syndicate at Bilaspur,IPC 420/406,2022,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0668,FIR-2023-0668,Fraud,Commercial Fraud and Embezzlement Syndicate at Delhi,IPC 420/406,2023,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0669,FIR-2023-0669,Theft,Serial Asset and Vehicle Theft in Lucknow,IPC 379,2023,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0670,FIR-2024-0670,Criminal Intimidation,Intimidation and Witness Tampering at Surat,IPC 506,2024,Surat,Surat,Varachha,CLOSED
+CASE-0671,FIR-2021-0671,Criminal Intimidation,Intimidation and Witness Tampering at Raipur,IPC 506,2021,Raipur,Raipur,Civil Lines,CLOSED
+CASE-0672,FIR-2022-0672,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2022,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0673,FIR-2023-0673,Forgery,Forged Documentation and Property Fraud in Delhi,IPC 467/468/471,2023,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0674,FIR-2022-0674,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2022,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0675,FIR-2023-0675,Assault,Physical Assault and Grievous Hurt Case at Chennai,IPC 323/325,2023,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0676,FIR-2022-0676,Forgery,Forged Documentation and Property Fraud in Mumbai,IPC 467/468/471,2022,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0677,FIR-2022-0677,Kidnapping,Kidnapping and Extortion Case at Howrah,IPC 363/364A,2022,Howrah,Howrah,Howrah Town,OPEN
+CASE-0678,FIR-2023-0678,Burglary,Nocturnal Commercial Burglary in Lucknow,IPC 457/380,2023,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0679,FIR-2021-0679,Robbery,Armed Robbery Incident at Lucknow,IPC 392/397,2021,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0680,FIR-2021-0680,Extortion,Threat and Extortion Racket in Nagpur,IPC 384/386,2021,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0681,FIR-2023-0681,Burglary,Nocturnal Commercial Burglary in Pune,IPC 457/380,2023,Pune,Pune,Shivajinagar,OPEN
+CASE-0682,FIR-2023-0682,Extortion,Threat and Extortion Racket in Raipur,IPC 384/386,2023,Raipur,Raipur,Civil Lines,OPEN
+CASE-0683,FIR-2022-0683,Burglary,Nocturnal Commercial Burglary in Chennai,IPC 457/380,2022,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-0684,FIR-2024-0684,Burglary,Nocturnal Commercial Burglary in Varanasi,IPC 457/380,2024,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0685,FIR-2024-0685,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2024,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0686,FIR-2023-0686,Fraud,Commercial Fraud and Embezzlement Syndicate at Nagpur,IPC 420/406,2023,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0687,FIR-2021-0687,Robbery,Armed Robbery Incident at Mumbai,IPC 392/397,2021,Mumbai,Mumbai Suburban,Bandra,CLOSED
+CASE-0688,FIR-2021-0688,Forgery,Forged Documentation and Property Fraud in Surat,IPC 467/468/471,2021,Surat,Surat,Varachha,OPEN
+CASE-0689,FIR-2024-0689,Fraud,Commercial Fraud and Embezzlement Syndicate at Lucknow,IPC 420/406,2024,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0690,FIR-2022-0690,Cybercrime,Digital Identity Theft and Financial Scam at Surat,IT Act 66D / IPC 420,2022,Surat,Surat,Varachha,CLOSED
+CASE-0691,FIR-2022-0691,Murder,Targeted Homicide Investigation in Surat,IPC 302/120B,2022,Surat,Surat,Varachha,CLOSED
+CASE-0692,FIR-2022-0692,Murder,Targeted Homicide Investigation in Siliguri,IPC 302/120B,2022,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0693,FIR-2023-0693,Kidnapping,Kidnapping and Extortion Case at Kolkata,IPC 363/364A,2023,Kolkata,Kolkata,Burrabazar,CLOSED
+CASE-0694,FIR-2024-0694,Cybercrime,Digital Identity Theft and Financial Scam at Nagpur,IT Act 66D / IPC 420,2024,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0695,FIR-2022-0695,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2022,Kolkata,Kolkata,Park Street,OPEN
+CASE-0696,FIR-2023-0696,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0697,FIR-2024-0697,Forgery,Forged Documentation and Property Fraud in Bilaspur,IPC 467/468/471,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0698,FIR-2023-0698,Forgery,Forged Documentation and Property Fraud in Siliguri,IPC 467/468/471,2023,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0699,FIR-2021-0699,Cybercrime,Digital Identity Theft and Financial Scam at Nagpur,IT Act 66D / IPC 420,2021,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0700,FIR-2022-0700,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2022,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0701,FIR-2024-0701,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2024,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0702,FIR-2022-0702,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2022,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0703,FIR-2023-0703,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2023,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0704,FIR-2024-0704,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2024,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0705,FIR-2021-0705,Theft,Serial Asset and Vehicle Theft in Ahmedabad,IPC 379,2021,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0706,FIR-2022-0706,Murder,Targeted Homicide Investigation in Raipur,IPC 302/120B,2022,Raipur,Raipur,Civil Lines,OPEN
+CASE-0707,FIR-2021-0707,Theft,Serial Asset and Vehicle Theft in Surat,IPC 379,2021,Surat,Surat,Varachha,OPEN
+CASE-0708,FIR-2022-0708,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2022,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0709,FIR-2022-0709,Forgery,Forged Documentation and Property Fraud in Kolkata,IPC 467/468/471,2022,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0710,FIR-2024-0710,Extortion,Threat and Extortion Racket in Pune,IPC 384/386,2024,Pune,Pune,Shivajinagar,CLOSED
+CASE-0711,FIR-2023-0711,Robbery,Armed Robbery Incident at Siliguri,IPC 392/397,2023,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0712,FIR-2021-0712,Criminal Intimidation,Intimidation and Witness Tampering at Ahmedabad,IPC 506,2021,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0713,FIR-2022-0713,Robbery,Armed Robbery Incident at Raipur,IPC 392/397,2022,Raipur,Raipur,Civil Lines,OPEN
+CASE-0714,FIR-2024-0714,Assault,Physical Assault and Grievous Hurt Case at Howrah,IPC 323/325,2024,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0715,FIR-2024-0715,Theft,Serial Asset and Vehicle Theft in Howrah,IPC 379,2024,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0716,FIR-2023-0716,Kidnapping,Kidnapping and Extortion Case at Raipur,IPC 363/364A,2023,Raipur,Raipur,Civil Lines,OPEN
+CASE-0717,FIR-2024-0717,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2024,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0718,FIR-2024-0718,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2024,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0719,FIR-2023-0719,Fraud,Commercial Fraud and Embezzlement Syndicate at Delhi,IPC 420/406,2023,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0720,FIR-2024-0720,Extortion,Threat and Extortion Racket in Varanasi,IPC 384/386,2024,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0721,FIR-2023-0721,Burglary,Nocturnal Commercial Burglary in Pune,IPC 457/380,2023,Pune,Pune,Shivajinagar,OPEN
+CASE-0722,FIR-2024-0722,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2024,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0723,FIR-2021-0723,Extortion,Threat and Extortion Racket in Siliguri,IPC 384/386,2021,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0724,FIR-2022-0724,Murder,Targeted Homicide Investigation in Mumbai,IPC 302/120B,2022,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0725,FIR-2024-0725,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2024,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0726,FIR-2021-0726,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2021,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-0727,FIR-2021-0727,Burglary,Nocturnal Commercial Burglary in Nagpur,IPC 457/380,2021,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0728,FIR-2023-0728,Criminal Intimidation,Intimidation and Witness Tampering at Nagpur,IPC 506,2023,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0729,FIR-2021-0729,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2021,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0730,FIR-2023-0730,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0731,FIR-2023-0731,Burglary,Nocturnal Commercial Burglary in Pune,IPC 457/380,2023,Pune,Pune,Shivajinagar,OPEN
+CASE-0732,FIR-2023-0732,Murder,Targeted Homicide Investigation in Howrah,IPC 302/120B,2023,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0733,FIR-2022-0733,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2022,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0734,FIR-2022-0734,Assault,Physical Assault and Grievous Hurt Case at Howrah,IPC 323/325,2022,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0735,FIR-2024-0735,Criminal Intimidation,Intimidation and Witness Tampering at Ahmedabad,IPC 506,2024,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-0736,FIR-2022-0736,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2022,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-0737,FIR-2024-0737,Assault,Physical Assault and Grievous Hurt Case at Lucknow,IPC 323/325,2024,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0738,FIR-2021-0738,Theft,Serial Asset and Vehicle Theft in Nagpur,IPC 379,2021,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0739,FIR-2024-0739,Criminal Intimidation,Intimidation and Witness Tampering at Howrah,IPC 506,2024,Howrah,Howrah,Howrah Town,OPEN
+CASE-0740,FIR-2023-0740,Extortion,Threat and Extortion Racket in Pune,IPC 384/386,2023,Pune,Pune,Shivajinagar,OPEN
+CASE-0741,FIR-2023-0741,Kidnapping,Kidnapping and Extortion Case at Raipur,IPC 363/364A,2023,Raipur,Raipur,Civil Lines,CLOSED
+CASE-0742,FIR-2021-0742,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2021,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0743,FIR-2023-0743,Murder,Targeted Homicide Investigation in Mumbai,IPC 302/120B,2023,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0744,FIR-2021-0744,Assault,Physical Assault and Grievous Hurt Case at Durg,IPC 323/325,2021,Durg,Durg,Durg Sadar,OPEN
+CASE-0745,FIR-2024-0745,Burglary,Nocturnal Commercial Burglary in Bilaspur,IPC 457/380,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0746,FIR-2021-0746,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2021,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0747,FIR-2023-0747,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0748,FIR-2024-0748,Forgery,Forged Documentation and Property Fraud in Kolkata,IPC 467/468/471,2024,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0749,FIR-2024-0749,Fraud,Commercial Fraud and Embezzlement Syndicate at Mumbai,IPC 420/406,2024,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0750,FIR-2021-0750,Criminal Intimidation,Intimidation and Witness Tampering at Pune,IPC 506,2021,Pune,Pune,Shivajinagar,OPEN
+CASE-0751,FIR-2022-0751,Kidnapping,Kidnapping and Extortion Case at Pune,IPC 363/364A,2022,Pune,Pune,Shivajinagar,OPEN
+CASE-0752,FIR-2024-0752,Fraud,Commercial Fraud and Embezzlement Syndicate at Varanasi,IPC 420/406,2024,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0753,FIR-2023-0753,Criminal Intimidation,Intimidation and Witness Tampering at Varanasi,IPC 506,2023,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0754,FIR-2021-0754,Burglary,Nocturnal Commercial Burglary in Chennai,IPC 457/380,2021,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0755,FIR-2024-0755,Theft,Serial Asset and Vehicle Theft in Nagpur,IPC 379,2024,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0756,FIR-2022-0756,Burglary,Nocturnal Commercial Burglary in Bilaspur,IPC 457/380,2022,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0757,FIR-2021-0757,Fraud,Commercial Fraud and Embezzlement Syndicate at Delhi,IPC 420/406,2021,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0758,FIR-2024-0758,Murder,Targeted Homicide Investigation in Kolkata,IPC 302/120B,2024,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0759,FIR-2022-0759,Theft,Serial Asset and Vehicle Theft in Kolkata,IPC 379,2022,Kolkata,Kolkata,Burrabazar,CLOSED
+CASE-0760,FIR-2023-0760,Assault,Physical Assault and Grievous Hurt Case at Nagpur,IPC 323/325,2023,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0761,FIR-2024-0761,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2024,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0762,FIR-2022-0762,Murder,Targeted Homicide Investigation in Lucknow,IPC 302/120B,2022,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0763,FIR-2024-0763,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2024,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0764,FIR-2024-0764,Kidnapping,Kidnapping and Extortion Case at Mumbai,IPC 363/364A,2024,Mumbai,Mumbai Suburban,Bandra,CLOSED
+CASE-0765,FIR-2022-0765,Robbery,Armed Robbery Incident at Chennai,IPC 392/397,2022,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0766,FIR-2024-0766,Extortion,Threat and Extortion Racket in Howrah,IPC 384/386,2024,Howrah,Howrah,Howrah Town,OPEN
+CASE-0767,FIR-2023-0767,Extortion,Threat and Extortion Racket in Lucknow,IPC 384/386,2023,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0768,FIR-2024-0768,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2024,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0769,FIR-2023-0769,Forgery,Forged Documentation and Property Fraud in Delhi,IPC 467/468/471,2023,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0770,FIR-2023-0770,Theft,Serial Asset and Vehicle Theft in Howrah,IPC 379,2023,Howrah,Howrah,Howrah Town,OPEN
+CASE-0771,FIR-2022-0771,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2022,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0772,FIR-2023-0772,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2023,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-0773,FIR-2022-0773,Burglary,Nocturnal Commercial Burglary in Raipur,IPC 457/380,2022,Raipur,Raipur,Civil Lines,OPEN
+CASE-0774,FIR-2023-0774,Kidnapping,Kidnapping and Extortion Case at Chennai,IPC 363/364A,2023,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-0775,FIR-2021-0775,Criminal Intimidation,Intimidation and Witness Tampering at Raipur,IPC 506,2021,Raipur,Raipur,Civil Lines,OPEN
+CASE-0776,FIR-2024-0776,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2024,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0777,FIR-2022-0777,Criminal Intimidation,Intimidation and Witness Tampering at Kolkata,IPC 506,2022,Kolkata,Kolkata,Park Street,OPEN
+CASE-0778,FIR-2021-0778,Murder,Targeted Homicide Investigation in Surat,IPC 302/120B,2021,Surat,Surat,Varachha,OPEN
+CASE-0779,FIR-2023-0779,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2023,Kolkata,Kolkata,Park Street,OPEN
+CASE-0780,FIR-2024-0780,Cybercrime,Digital Identity Theft and Financial Scam at Lucknow,IT Act 66D / IPC 420,2024,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0781,FIR-2024-0781,Theft,Serial Asset and Vehicle Theft in Kolkata,IPC 379,2024,Kolkata,Kolkata,Park Street,OPEN
+CASE-0782,FIR-2024-0782,Forgery,Forged Documentation and Property Fraud in Raipur,IPC 467/468/471,2024,Raipur,Raipur,Civil Lines,OPEN
+CASE-0783,FIR-2024-0783,Forgery,Forged Documentation and Property Fraud in Raipur,IPC 467/468/471,2024,Raipur,Raipur,Civil Lines,CLOSED
+CASE-0784,FIR-2022-0784,Forgery,Forged Documentation and Property Fraud in Pune,IPC 467/468/471,2022,Pune,Pune,Shivajinagar,OPEN
+CASE-0785,FIR-2024-0785,Kidnapping,Kidnapping and Extortion Case at Bilaspur,IPC 363/364A,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0786,FIR-2024-0786,Criminal Intimidation,Intimidation and Witness Tampering at Varanasi,IPC 506,2024,Varanasi,Varanasi,Dashashwamedh,CLOSED
+CASE-0787,FIR-2021-0787,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2021,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-0788,FIR-2022-0788,Theft,Serial Asset and Vehicle Theft in Raipur,IPC 379,2022,Raipur,Raipur,Civil Lines,OPEN
+CASE-0789,FIR-2021-0789,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2021,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0790,FIR-2024-0790,Robbery,Armed Robbery Incident at Surat,IPC 392/397,2024,Surat,Surat,Varachha,CLOSED
+CASE-0791,FIR-2023-0791,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2023,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0792,FIR-2021-0792,Assault,Physical Assault and Grievous Hurt Case at Howrah,IPC 323/325,2021,Howrah,Howrah,Howrah Town,OPEN
+CASE-0793,FIR-2024-0793,Kidnapping,Kidnapping and Extortion Case at Mumbai,IPC 363/364A,2024,Mumbai,Mumbai Suburban,Bandra,CLOSED
+CASE-0794,FIR-2024-0794,Kidnapping,Kidnapping and Extortion Case at Nagpur,IPC 363/364A,2024,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0795,FIR-2024-0795,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2024,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-0796,FIR-2023-0796,Extortion,Threat and Extortion Racket in Siliguri,IPC 384/386,2023,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0797,FIR-2022-0797,Murder,Targeted Homicide Investigation in Howrah,IPC 302/120B,2022,Howrah,Howrah,Howrah Town,OPEN
+CASE-0798,FIR-2022-0798,Criminal Intimidation,Intimidation and Witness Tampering at Pune,IPC 506,2022,Pune,Pune,Shivajinagar,CLOSED
+CASE-0799,FIR-2023-0799,Burglary,Nocturnal Commercial Burglary in Bilaspur,IPC 457/380,2023,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0800,FIR-2024-0800,Criminal Intimidation,Intimidation and Witness Tampering at Kolkata,IPC 506,2024,Kolkata,Kolkata,Burrabazar,CLOSED
+CASE-0801,FIR-2023-0801,Burglary,Nocturnal Commercial Burglary in Durg,IPC 457/380,2023,Durg,Durg,Durg Sadar,OPEN
+CASE-0802,FIR-2024-0802,Burglary,Nocturnal Commercial Burglary in Pune,IPC 457/380,2024,Pune,Pune,Shivajinagar,CLOSED
+CASE-0803,FIR-2021-0803,Murder,Targeted Homicide Investigation in Mumbai,IPC 302/120B,2021,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0804,FIR-2023-0804,Cybercrime,Digital Identity Theft and Financial Scam at Surat,IT Act 66D / IPC 420,2023,Surat,Surat,Varachha,OPEN
+CASE-0805,FIR-2023-0805,Theft,Serial Asset and Vehicle Theft in Lucknow,IPC 379,2023,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0806,FIR-2023-0806,Fraud,Commercial Fraud and Embezzlement Syndicate at Raipur,IPC 420/406,2023,Raipur,Raipur,Civil Lines,OPEN
+CASE-0807,FIR-2022-0807,Burglary,Nocturnal Commercial Burglary in Mumbai,IPC 457/380,2022,Mumbai,Mumbai Suburban,Bandra,CLOSED
+CASE-0808,FIR-2023-0808,Cybercrime,Digital Identity Theft and Financial Scam at Siliguri,IT Act 66D / IPC 420,2023,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0809,FIR-2021-0809,Fraud,Commercial Fraud and Embezzlement Syndicate at Durg,IPC 420/406,2021,Durg,Durg,Durg Sadar,CLOSED
+CASE-0810,FIR-2022-0810,Murder,Targeted Homicide Investigation in Mumbai,IPC 302/120B,2022,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0811,FIR-2024-0811,Fraud,Commercial Fraud and Embezzlement Syndicate at Nagpur,IPC 420/406,2024,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0812,FIR-2022-0812,Cybercrime,Digital Identity Theft and Financial Scam at Nagpur,IT Act 66D / IPC 420,2022,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0813,FIR-2023-0813,Assault,Physical Assault and Grievous Hurt Case at Pune,IPC 323/325,2023,Pune,Pune,Shivajinagar,OPEN
+CASE-0814,FIR-2024-0814,Burglary,Nocturnal Commercial Burglary in Raipur,IPC 457/380,2024,Raipur,Raipur,Civil Lines,OPEN
+CASE-0815,FIR-2021-0815,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2021,Kolkata,Kolkata,Park Street,OPEN
+CASE-0816,FIR-2022-0816,Fraud,Commercial Fraud and Embezzlement Syndicate at Bilaspur,IPC 420/406,2022,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0817,FIR-2022-0817,Murder,Targeted Homicide Investigation in Howrah,IPC 302/120B,2022,Howrah,Howrah,Howrah Town,OPEN
+CASE-0818,FIR-2021-0818,Burglary,Nocturnal Commercial Burglary in Lucknow,IPC 457/380,2021,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0819,FIR-2022-0819,Assault,Physical Assault and Grievous Hurt Case at Durg,IPC 323/325,2022,Durg,Durg,Durg Sadar,OPEN
+CASE-0820,FIR-2021-0820,Kidnapping,Kidnapping and Extortion Case at Delhi,IPC 363/364A,2021,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0821,FIR-2023-0821,Assault,Physical Assault and Grievous Hurt Case at Kolkata,IPC 323/325,2023,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0822,FIR-2021-0822,Assault,Physical Assault and Grievous Hurt Case at Chennai,IPC 323/325,2021,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-0823,FIR-2022-0823,Kidnapping,Kidnapping and Extortion Case at Delhi,IPC 363/364A,2022,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0824,FIR-2022-0824,Cybercrime,Digital Identity Theft and Financial Scam at Durg,IT Act 66D / IPC 420,2022,Durg,Durg,Durg Sadar,CLOSED
+CASE-0825,FIR-2021-0825,Burglary,Nocturnal Commercial Burglary in Raipur,IPC 457/380,2021,Raipur,Raipur,Civil Lines,CLOSED
+CASE-0826,FIR-2023-0826,Fraud,Commercial Fraud and Embezzlement Syndicate at Chennai,IPC 420/406,2023,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0827,FIR-2022-0827,Forgery,Forged Documentation and Property Fraud in Kolkata,IPC 467/468/471,2022,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0828,FIR-2022-0828,Kidnapping,Kidnapping and Extortion Case at Bilaspur,IPC 363/364A,2022,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0829,FIR-2024-0829,Murder,Targeted Homicide Investigation in Ahmedabad,IPC 302/120B,2024,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0830,FIR-2021-0830,Kidnapping,Kidnapping and Extortion Case at Pune,IPC 363/364A,2021,Pune,Pune,Shivajinagar,OPEN
+CASE-0831,FIR-2021-0831,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2021,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0832,FIR-2022-0832,Extortion,Threat and Extortion Racket in Chennai,IPC 384/386,2022,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0833,FIR-2021-0833,Fraud,Commercial Fraud and Embezzlement Syndicate at Lucknow,IPC 420/406,2021,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0834,FIR-2022-0834,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2022,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0835,FIR-2024-0835,Criminal Intimidation,Intimidation and Witness Tampering at Varanasi,IPC 506,2024,Varanasi,Varanasi,Dashashwamedh,CLOSED
+CASE-0836,FIR-2023-0836,Fraud,Commercial Fraud and Embezzlement Syndicate at Delhi,IPC 420/406,2023,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0837,FIR-2024-0837,Cybercrime,Digital Identity Theft and Financial Scam at Pune,IT Act 66D / IPC 420,2024,Pune,Pune,Shivajinagar,OPEN
+CASE-0838,FIR-2023-0838,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2023,Mumbai,Mumbai Suburban,Bandra,CLOSED
+CASE-0839,FIR-2023-0839,Forgery,Forged Documentation and Property Fraud in Pune,IPC 467/468/471,2023,Pune,Pune,Shivajinagar,CLOSED
+CASE-0840,FIR-2024-0840,Assault,Physical Assault and Grievous Hurt Case at Mumbai,IPC 323/325,2024,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0841,FIR-2021-0841,Cybercrime,Digital Identity Theft and Financial Scam at Ahmedabad,IT Act 66D / IPC 420,2021,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0842,FIR-2024-0842,Assault,Physical Assault and Grievous Hurt Case at Ahmedabad,IPC 323/325,2024,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0843,FIR-2023-0843,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2023,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0844,FIR-2022-0844,Burglary,Nocturnal Commercial Burglary in Pune,IPC 457/380,2022,Pune,Pune,Shivajinagar,OPEN
+CASE-0845,FIR-2022-0845,Extortion,Threat and Extortion Racket in Durg,IPC 384/386,2022,Durg,Durg,Durg Sadar,OPEN
+CASE-0846,FIR-2024-0846,Fraud,Commercial Fraud and Embezzlement Syndicate at Pune,IPC 420/406,2024,Pune,Pune,Shivajinagar,OPEN
+CASE-0847,FIR-2022-0847,Fraud,Commercial Fraud and Embezzlement Syndicate at Varanasi,IPC 420/406,2022,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0848,FIR-2022-0848,Cybercrime,Digital Identity Theft and Financial Scam at Pune,IT Act 66D / IPC 420,2022,Pune,Pune,Shivajinagar,OPEN
+CASE-0849,FIR-2022-0849,Robbery,Armed Robbery Incident at Raipur,IPC 392/397,2022,Raipur,Raipur,Civil Lines,OPEN
+CASE-0850,FIR-2024-0850,Cybercrime,Digital Identity Theft and Financial Scam at Pune,IT Act 66D / IPC 420,2024,Pune,Pune,Shivajinagar,CLOSED
+CASE-0851,FIR-2022-0851,Robbery,Armed Robbery Incident at Mumbai,IPC 392/397,2022,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0852,FIR-2023-0852,Burglary,Nocturnal Commercial Burglary in Mumbai,IPC 457/380,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0853,FIR-2023-0853,Theft,Serial Asset and Vehicle Theft in Nagpur,IPC 379,2023,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0854,FIR-2024-0854,Robbery,Armed Robbery Incident at Lucknow,IPC 392/397,2024,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0855,FIR-2021-0855,Kidnapping,Kidnapping and Extortion Case at Delhi,IPC 363/364A,2021,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0856,FIR-2024-0856,Theft,Serial Asset and Vehicle Theft in Siliguri,IPC 379,2024,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0857,FIR-2022-0857,Kidnapping,Kidnapping and Extortion Case at Bilaspur,IPC 363/364A,2022,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0858,FIR-2023-0858,Fraud,Commercial Fraud and Embezzlement Syndicate at Mumbai,IPC 420/406,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0859,FIR-2023-0859,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2023,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0860,FIR-2024-0860,Forgery,Forged Documentation and Property Fraud in Bilaspur,IPC 467/468/471,2024,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0861,FIR-2022-0861,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2022,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0862,FIR-2024-0862,Burglary,Nocturnal Commercial Burglary in Lucknow,IPC 457/380,2024,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0863,FIR-2024-0863,Kidnapping,Kidnapping and Extortion Case at Delhi,IPC 363/364A,2024,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0864,FIR-2024-0864,Murder,Targeted Homicide Investigation in Lucknow,IPC 302/120B,2024,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0865,FIR-2023-0865,Kidnapping,Kidnapping and Extortion Case at Pune,IPC 363/364A,2023,Pune,Pune,Shivajinagar,OPEN
+CASE-0866,FIR-2021-0866,Burglary,Nocturnal Commercial Burglary in Mumbai,IPC 457/380,2021,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0867,FIR-2024-0867,Extortion,Threat and Extortion Racket in Pune,IPC 384/386,2024,Pune,Pune,Shivajinagar,CLOSED
+CASE-0868,FIR-2023-0868,Cybercrime,Digital Identity Theft and Financial Scam at Lucknow,IT Act 66D / IPC 420,2023,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0869,FIR-2024-0869,Assault,Physical Assault and Grievous Hurt Case at Kolkata,IPC 323/325,2024,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0870,FIR-2023-0870,Murder,Targeted Homicide Investigation in Chennai,IPC 302/120B,2023,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0871,FIR-2022-0871,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2022,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0872,FIR-2023-0872,Extortion,Threat and Extortion Racket in Pune,IPC 384/386,2023,Pune,Pune,Shivajinagar,CLOSED
+CASE-0873,FIR-2022-0873,Burglary,Nocturnal Commercial Burglary in Bilaspur,IPC 457/380,2022,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0874,FIR-2023-0874,Forgery,Forged Documentation and Property Fraud in Delhi,IPC 467/468/471,2023,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0875,FIR-2023-0875,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2023,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0876,FIR-2021-0876,Kidnapping,Kidnapping and Extortion Case at Siliguri,IPC 363/364A,2021,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0877,FIR-2024-0877,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2024,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0878,FIR-2023-0878,Assault,Physical Assault and Grievous Hurt Case at Kolkata,IPC 323/325,2023,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0879,FIR-2023-0879,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2023,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-0880,FIR-2023-0880,Burglary,Nocturnal Commercial Burglary in Mumbai,IPC 457/380,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0881,FIR-2021-0881,Extortion,Threat and Extortion Racket in Lucknow,IPC 384/386,2021,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0882,FIR-2022-0882,Extortion,Threat and Extortion Racket in Chennai,IPC 384/386,2022,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-0883,FIR-2024-0883,Extortion,Threat and Extortion Racket in Lucknow,IPC 384/386,2024,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0884,FIR-2024-0884,Forgery,Forged Documentation and Property Fraud in Kolkata,IPC 467/468/471,2024,Kolkata,Kolkata,Burrabazar,CLOSED
+CASE-0885,FIR-2022-0885,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2022,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-0886,FIR-2023-0886,Extortion,Threat and Extortion Racket in Raipur,IPC 384/386,2023,Raipur,Raipur,Civil Lines,OPEN
+CASE-0887,FIR-2024-0887,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2024,Kolkata,Kolkata,Park Street,OPEN
+CASE-0888,FIR-2024-0888,Kidnapping,Kidnapping and Extortion Case at Varanasi,IPC 363/364A,2024,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0889,FIR-2024-0889,Forgery,Forged Documentation and Property Fraud in Pune,IPC 467/468/471,2024,Pune,Pune,Shivajinagar,OPEN
+CASE-0890,FIR-2023-0890,Forgery,Forged Documentation and Property Fraud in Lucknow,IPC 467/468/471,2023,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0891,FIR-2023-0891,Criminal Intimidation,Intimidation and Witness Tampering at Bilaspur,IPC 506,2023,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0892,FIR-2022-0892,Murder,Targeted Homicide Investigation in Siliguri,IPC 302/120B,2022,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0893,FIR-2022-0893,Forgery,Forged Documentation and Property Fraud in Mumbai,IPC 467/468/471,2022,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0894,FIR-2021-0894,Assault,Physical Assault and Grievous Hurt Case at Varanasi,IPC 323/325,2021,Varanasi,Varanasi,Dashashwamedh,CLOSED
+CASE-0895,FIR-2021-0895,Assault,Physical Assault and Grievous Hurt Case at Nagpur,IPC 323/325,2021,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0896,FIR-2022-0896,Theft,Serial Asset and Vehicle Theft in Durg,IPC 379,2022,Durg,Durg,Durg Sadar,OPEN
+CASE-0897,FIR-2023-0897,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2023,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0898,FIR-2021-0898,Forgery,Forged Documentation and Property Fraud in Nagpur,IPC 467/468/471,2021,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0899,FIR-2024-0899,Burglary,Nocturnal Commercial Burglary in Howrah,IPC 457/380,2024,Howrah,Howrah,Howrah Town,OPEN
+CASE-0900,FIR-2021-0900,Forgery,Forged Documentation and Property Fraud in Delhi,IPC 467/468/471,2021,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0901,FIR-2022-0901,Robbery,Armed Robbery Incident at Bilaspur,IPC 392/397,2022,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0902,FIR-2021-0902,Murder,Targeted Homicide Investigation in Howrah,IPC 302/120B,2021,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0903,FIR-2021-0903,Assault,Physical Assault and Grievous Hurt Case at Lucknow,IPC 323/325,2021,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0904,FIR-2024-0904,Forgery,Forged Documentation and Property Fraud in Howrah,IPC 467/468/471,2024,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0905,FIR-2024-0905,Theft,Serial Asset and Vehicle Theft in Pune,IPC 379,2024,Pune,Pune,Shivajinagar,OPEN
+CASE-0906,FIR-2023-0906,Extortion,Threat and Extortion Racket in Surat,IPC 384/386,2023,Surat,Surat,Varachha,OPEN
+CASE-0907,FIR-2024-0907,Assault,Physical Assault and Grievous Hurt Case at Howrah,IPC 323/325,2024,Howrah,Howrah,Howrah Town,OPEN
+CASE-0908,FIR-2024-0908,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2024,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0909,FIR-2023-0909,Extortion,Threat and Extortion Racket in Nagpur,IPC 384/386,2023,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0910,FIR-2023-0910,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2023,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0911,FIR-2024-0911,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2024,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0912,FIR-2021-0912,Fraud,Commercial Fraud and Embezzlement Syndicate at Pune,IPC 420/406,2021,Pune,Pune,Shivajinagar,OPEN
+CASE-0913,FIR-2021-0913,Forgery,Forged Documentation and Property Fraud in Raipur,IPC 467/468/471,2021,Raipur,Raipur,Civil Lines,OPEN
+CASE-0914,FIR-2024-0914,Cybercrime,Digital Identity Theft and Financial Scam at Siliguri,IT Act 66D / IPC 420,2024,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0915,FIR-2022-0915,Kidnapping,Kidnapping and Extortion Case at Varanasi,IPC 363/364A,2022,Varanasi,Varanasi,Dashashwamedh,CLOSED
+CASE-0916,FIR-2023-0916,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0917,FIR-2022-0917,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2022,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0918,FIR-2022-0918,Assault,Physical Assault and Grievous Hurt Case at Siliguri,IPC 323/325,2022,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0919,FIR-2021-0919,Extortion,Threat and Extortion Racket in Raipur,IPC 384/386,2021,Raipur,Raipur,Civil Lines,OPEN
+CASE-0920,FIR-2023-0920,Fraud,Commercial Fraud and Embezzlement Syndicate at Delhi,IPC 420/406,2023,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0921,FIR-2023-0921,Fraud,Commercial Fraud and Embezzlement Syndicate at Varanasi,IPC 420/406,2023,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0922,FIR-2021-0922,Kidnapping,Kidnapping and Extortion Case at Pune,IPC 363/364A,2021,Pune,Pune,Shivajinagar,CLOSED
+CASE-0923,FIR-2024-0923,Kidnapping,Kidnapping and Extortion Case at Siliguri,IPC 363/364A,2024,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0924,FIR-2022-0924,Robbery,Armed Robbery Incident at Varanasi,IPC 392/397,2022,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0925,FIR-2022-0925,Kidnapping,Kidnapping and Extortion Case at Nagpur,IPC 363/364A,2022,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0926,FIR-2024-0926,Extortion,Threat and Extortion Racket in Howrah,IPC 384/386,2024,Howrah,Howrah,Howrah Town,OPEN
+CASE-0927,FIR-2024-0927,Robbery,Armed Robbery Incident at Chennai,IPC 392/397,2024,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0928,FIR-2023-0928,Murder,Targeted Homicide Investigation in Kolkata,IPC 302/120B,2023,Kolkata,Kolkata,Park Street,OPEN
+CASE-0929,FIR-2023-0929,Fraud,Commercial Fraud and Embezzlement Syndicate at Siliguri,IPC 420/406,2023,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0930,FIR-2021-0930,Theft,Serial Asset and Vehicle Theft in Varanasi,IPC 379,2021,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0931,FIR-2022-0931,Murder,Targeted Homicide Investigation in Bilaspur,IPC 302/120B,2022,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-0932,FIR-2022-0932,Cybercrime,Digital Identity Theft and Financial Scam at Siliguri,IT Act 66D / IPC 420,2022,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0933,FIR-2023-0933,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2023,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-0934,FIR-2022-0934,Extortion,Threat and Extortion Racket in Durg,IPC 384/386,2022,Durg,Durg,Durg Sadar,OPEN
+CASE-0935,FIR-2023-0935,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2023,Mumbai,Mumbai Suburban,Bandra,CLOSED
+CASE-0936,FIR-2023-0936,Burglary,Nocturnal Commercial Burglary in Lucknow,IPC 457/380,2023,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0937,FIR-2024-0937,Cybercrime,Digital Identity Theft and Financial Scam at Pune,IT Act 66D / IPC 420,2024,Pune,Pune,Shivajinagar,OPEN
+CASE-0938,FIR-2021-0938,Cybercrime,Digital Identity Theft and Financial Scam at Lucknow,IT Act 66D / IPC 420,2021,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-0939,FIR-2022-0939,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2022,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-0940,FIR-2021-0940,Kidnapping,Kidnapping and Extortion Case at Siliguri,IPC 363/364A,2021,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-0941,FIR-2024-0941,Forgery,Forged Documentation and Property Fraud in Raipur,IPC 467/468/471,2024,Raipur,Raipur,Civil Lines,OPEN
+CASE-0942,FIR-2024-0942,Murder,Targeted Homicide Investigation in Ahmedabad,IPC 302/120B,2024,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-0943,FIR-2024-0943,Forgery,Forged Documentation and Property Fraud in Lucknow,IPC 467/468/471,2024,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-0944,FIR-2023-0944,Forgery,Forged Documentation and Property Fraud in Delhi,IPC 467/468/471,2023,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0945,FIR-2023-0945,Extortion,Threat and Extortion Racket in Mumbai,IPC 384/386,2023,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0946,FIR-2023-0946,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2023,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0947,FIR-2024-0947,Burglary,Nocturnal Commercial Burglary in Chennai,IPC 457/380,2024,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-0948,FIR-2023-0948,Criminal Intimidation,Intimidation and Witness Tampering at Pune,IPC 506,2023,Pune,Pune,Shivajinagar,OPEN
+CASE-0949,FIR-2021-0949,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2021,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-0950,FIR-2022-0950,Cybercrime,Digital Identity Theft and Financial Scam at Howrah,IT Act 66D / IPC 420,2022,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0951,FIR-2023-0951,Extortion,Threat and Extortion Racket in Howrah,IPC 384/386,2023,Howrah,Howrah,Howrah Town,OPEN
+CASE-0952,FIR-2024-0952,Theft,Serial Asset and Vehicle Theft in Mumbai,IPC 379,2024,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0953,FIR-2022-0953,Extortion,Threat and Extortion Racket in Surat,IPC 384/386,2022,Surat,Surat,Varachha,OPEN
+CASE-0954,FIR-2022-0954,Assault,Physical Assault and Grievous Hurt Case at Bilaspur,IPC 323/325,2022,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-0955,FIR-2022-0955,Forgery,Forged Documentation and Property Fraud in Kolkata,IPC 467/468/471,2022,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0956,FIR-2022-0956,Theft,Serial Asset and Vehicle Theft in Surat,IPC 379,2022,Surat,Surat,Varachha,OPEN
+CASE-0957,FIR-2021-0957,Assault,Physical Assault and Grievous Hurt Case at Surat,IPC 323/325,2021,Surat,Surat,Varachha,CLOSED
+CASE-0958,FIR-2022-0958,Theft,Serial Asset and Vehicle Theft in Chennai,IPC 379,2022,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-0959,FIR-2023-0959,Assault,Physical Assault and Grievous Hurt Case at Raipur,IPC 323/325,2023,Raipur,Raipur,Civil Lines,OPEN
+CASE-0960,FIR-2022-0960,Criminal Intimidation,Intimidation and Witness Tampering at Raipur,IPC 506,2022,Raipur,Raipur,Civil Lines,CLOSED
+CASE-0961,FIR-2024-0961,Cybercrime,Digital Identity Theft and Financial Scam at Chennai,IT Act 66D / IPC 420,2024,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-0962,FIR-2024-0962,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2024,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-0963,FIR-2024-0963,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2024,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0964,FIR-2021-0964,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2021,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0965,FIR-2022-0965,Assault,Physical Assault and Grievous Hurt Case at Mumbai,IPC 323/325,2022,Mumbai,Mumbai Suburban,Bandra,CLOSED
+CASE-0966,FIR-2021-0966,Murder,Targeted Homicide Investigation in Varanasi,IPC 302/120B,2021,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0967,FIR-2022-0967,Robbery,Armed Robbery Incident at Siliguri,IPC 392/397,2022,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0968,FIR-2024-0968,Cybercrime,Digital Identity Theft and Financial Scam at Durg,IT Act 66D / IPC 420,2024,Durg,Durg,Durg Sadar,CLOSED
+CASE-0969,FIR-2024-0969,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2024,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0970,FIR-2021-0970,Forgery,Forged Documentation and Property Fraud in Nagpur,IPC 467/468/471,2021,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0971,FIR-2024-0971,Fraud,Commercial Fraud and Embezzlement Syndicate at Siliguri,IPC 420/406,2024,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0972,FIR-2022-0972,Murder,Targeted Homicide Investigation in Siliguri,IPC 302/120B,2022,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-0973,FIR-2023-0973,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2023,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0974,FIR-2023-0974,Extortion,Threat and Extortion Racket in Surat,IPC 384/386,2023,Surat,Surat,Varachha,OPEN
+CASE-0975,FIR-2024-0975,Criminal Intimidation,Intimidation and Witness Tampering at Varanasi,IPC 506,2024,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-0976,FIR-2021-0976,Burglary,Nocturnal Commercial Burglary in Mumbai,IPC 457/380,2021,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-0977,FIR-2022-0977,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2022,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-0978,FIR-2021-0978,Theft,Serial Asset and Vehicle Theft in Mumbai,IPC 379,2021,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0979,FIR-2024-0979,Fraud,Commercial Fraud and Embezzlement Syndicate at Howrah,IPC 420/406,2024,Howrah,Howrah,Howrah Town,OPEN
+CASE-0980,FIR-2023-0980,Cybercrime,Digital Identity Theft and Financial Scam at Ahmedabad,IT Act 66D / IPC 420,2023,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0981,FIR-2023-0981,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2023,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-0982,FIR-2024-0982,Criminal Intimidation,Intimidation and Witness Tampering at Ahmedabad,IPC 506,2024,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-0983,FIR-2023-0983,Criminal Intimidation,Intimidation and Witness Tampering at Howrah,IPC 506,2023,Howrah,Howrah,Howrah Town,CLOSED
+CASE-0984,FIR-2023-0984,Fraud,Commercial Fraud and Embezzlement Syndicate at Mumbai,IPC 420/406,2023,Mumbai,Mumbai City,Colaba,OPEN
+CASE-0985,FIR-2021-0985,Fraud,Commercial Fraud and Embezzlement Syndicate at Nagpur,IPC 420/406,2021,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0986,FIR-2024-0986,Burglary,Nocturnal Commercial Burglary in Durg,IPC 457/380,2024,Durg,Durg,Durg Sadar,OPEN
+CASE-0987,FIR-2021-0987,Robbery,Armed Robbery Incident at Mumbai,IPC 392/397,2021,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0988,FIR-2024-0988,Burglary,Nocturnal Commercial Burglary in Chennai,IPC 457/380,2024,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-0989,FIR-2021-0989,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2021,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-0990,FIR-2021-0990,Murder,Targeted Homicide Investigation in Howrah,IPC 302/120B,2021,Howrah,Howrah,Howrah Town,OPEN
+CASE-0991,FIR-2024-0991,Forgery,Forged Documentation and Property Fraud in Nagpur,IPC 467/468/471,2024,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0992,FIR-2024-0992,Kidnapping,Kidnapping and Extortion Case at Nagpur,IPC 363/364A,2024,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-0993,FIR-2021-0993,Murder,Targeted Homicide Investigation in Surat,IPC 302/120B,2021,Surat,Surat,Varachha,CLOSED
+CASE-0994,FIR-2021-0994,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2021,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-0995,FIR-2023-0995,Cybercrime,Digital Identity Theft and Financial Scam at Kolkata,IT Act 66D / IPC 420,2023,Kolkata,Kolkata,Park Street,OPEN
+CASE-0996,FIR-2024-0996,Robbery,Armed Robbery Incident at Kolkata,IPC 392/397,2024,Kolkata,Kolkata,Park Street,CLOSED
+CASE-0997,FIR-2023-0997,Fraud,Commercial Fraud and Embezzlement Syndicate at Nagpur,IPC 420/406,2023,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-0998,FIR-2024-0998,Forgery,Forged Documentation and Property Fraud in Mumbai,IPC 467/468/471,2024,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-0999,FIR-2023-0999,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2023,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-1000,FIR-2023-1000,Cybercrime,Digital Identity Theft and Financial Scam at Bilaspur,IT Act 66D / IPC 420,2023,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-1001,FIR-2024-1001,Theft,Serial Asset and Vehicle Theft in Raipur,IPC 379,2024,Raipur,Raipur,Civil Lines,CLOSED
+CASE-1002,FIR-2022-1002,Theft,Serial Asset and Vehicle Theft in Nagpur,IPC 379,2022,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-1003,FIR-2021-1003,Fraud,Commercial Fraud and Embezzlement Syndicate at Howrah,IPC 420/406,2021,Howrah,Howrah,Howrah Town,OPEN
+CASE-1004,FIR-2024-1004,Theft,Serial Asset and Vehicle Theft in Varanasi,IPC 379,2024,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-1005,FIR-2023-1005,Robbery,Armed Robbery Incident at Bilaspur,IPC 392/397,2023,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-1006,FIR-2023-1006,Burglary,Nocturnal Commercial Burglary in Nagpur,IPC 457/380,2023,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-1007,FIR-2022-1007,Theft,Serial Asset and Vehicle Theft in Raipur,IPC 379,2022,Raipur,Raipur,Civil Lines,OPEN
+CASE-1008,FIR-2023-1008,Extortion,Threat and Extortion Racket in Bilaspur,IPC 384/386,2023,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-1009,FIR-2023-1009,Criminal Intimidation,Intimidation and Witness Tampering at Chennai,IPC 506,2023,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-1010,FIR-2024-1010,Assault,Physical Assault and Grievous Hurt Case at Raipur,IPC 323/325,2024,Raipur,Raipur,Civil Lines,OPEN
+CASE-1011,FIR-2021-1011,Extortion,Threat and Extortion Racket in Bilaspur,IPC 384/386,2021,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-1012,FIR-2023-1012,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2023,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-1013,FIR-2023-1013,Theft,Serial Asset and Vehicle Theft in Chennai,IPC 379,2023,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-1014,FIR-2023-1014,Robbery,Armed Robbery Incident at Howrah,IPC 392/397,2023,Howrah,Howrah,Howrah Town,OPEN
+CASE-1015,FIR-2022-1015,Extortion,Threat and Extortion Racket in Pune,IPC 384/386,2022,Pune,Pune,Shivajinagar,OPEN
+CASE-1016,FIR-2022-1016,Kidnapping,Kidnapping and Extortion Case at Durg,IPC 363/364A,2022,Durg,Durg,Durg Sadar,CLOSED
+CASE-1017,FIR-2024-1017,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2024,Kolkata,Kolkata,Park Street,OPEN
+CASE-1018,FIR-2022-1018,Forgery,Forged Documentation and Property Fraud in Durg,IPC 467/468/471,2022,Durg,Durg,Durg Sadar,OPEN
+CASE-1019,FIR-2021-1019,Forgery,Forged Documentation and Property Fraud in Siliguri,IPC 467/468/471,2021,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-1020,FIR-2024-1020,Kidnapping,Kidnapping and Extortion Case at Varanasi,IPC 363/364A,2024,Varanasi,Varanasi,Dashashwamedh,CLOSED
+CASE-1021,FIR-2022-1021,Robbery,Armed Robbery Incident at Chennai,IPC 392/397,2022,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-1022,FIR-2024-1022,Assault,Physical Assault and Grievous Hurt Case at Lucknow,IPC 323/325,2024,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-1023,FIR-2023-1023,Robbery,Armed Robbery Incident at Mumbai,IPC 392/397,2023,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-1024,FIR-2023-1024,Fraud,Commercial Fraud and Embezzlement Syndicate at Delhi,IPC 420/406,2023,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-1025,FIR-2023-1025,Forgery,Forged Documentation and Property Fraud in Pune,IPC 467/468/471,2023,Pune,Pune,Shivajinagar,OPEN
+CASE-1026,FIR-2022-1026,Cybercrime,Digital Identity Theft and Financial Scam at Pune,IT Act 66D / IPC 420,2022,Pune,Pune,Shivajinagar,CLOSED
+CASE-1027,FIR-2021-1027,Murder,Targeted Homicide Investigation in Siliguri,IPC 302/120B,2021,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-1028,FIR-2023-1028,Assault,Physical Assault and Grievous Hurt Case at Ahmedabad,IPC 323/325,2023,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-1029,FIR-2023-1029,Murder,Targeted Homicide Investigation in Durg,IPC 302/120B,2023,Durg,Durg,Durg Sadar,CLOSED
+CASE-1030,FIR-2022-1030,Criminal Intimidation,Intimidation and Witness Tampering at Chennai,IPC 506,2022,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-1031,FIR-2024-1031,Murder,Targeted Homicide Investigation in Kolkata,IPC 302/120B,2024,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-1032,FIR-2024-1032,Burglary,Nocturnal Commercial Burglary in Lucknow,IPC 457/380,2024,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-1033,FIR-2024-1033,Cybercrime,Digital Identity Theft and Financial Scam at Kolkata,IT Act 66D / IPC 420,2024,Kolkata,Kolkata,Park Street,OPEN
+CASE-1034,FIR-2024-1034,Kidnapping,Kidnapping and Extortion Case at Nagpur,IPC 363/364A,2024,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-1035,FIR-2023-1035,Cybercrime,Digital Identity Theft and Financial Scam at Kolkata,IT Act 66D / IPC 420,2023,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-1036,FIR-2023-1036,Fraud,Commercial Fraud and Embezzlement Syndicate at Lucknow,IPC 420/406,2023,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-1037,FIR-2024-1037,Kidnapping,Kidnapping and Extortion Case at Varanasi,IPC 363/364A,2024,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-1038,FIR-2022-1038,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2022,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-1039,FIR-2023-1039,Fraud,Commercial Fraud and Embezzlement Syndicate at Chennai,IPC 420/406,2023,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-1040,FIR-2024-1040,Murder,Targeted Homicide Investigation in Surat,IPC 302/120B,2024,Surat,Surat,Varachha,OPEN
+CASE-1041,FIR-2023-1041,Assault,Physical Assault and Grievous Hurt Case at Lucknow,IPC 323/325,2023,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-1042,FIR-2023-1042,Murder,Targeted Homicide Investigation in Kolkata,IPC 302/120B,2023,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-1043,FIR-2021-1043,Extortion,Threat and Extortion Racket in Varanasi,IPC 384/386,2021,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-1044,FIR-2022-1044,Cybercrime,Digital Identity Theft and Financial Scam at Bilaspur,IT Act 66D / IPC 420,2022,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-1045,FIR-2021-1045,Cybercrime,Digital Identity Theft and Financial Scam at Raipur,IT Act 66D / IPC 420,2021,Raipur,Raipur,Civil Lines,OPEN
+CASE-1046,FIR-2023-1046,Burglary,Nocturnal Commercial Burglary in Howrah,IPC 457/380,2023,Howrah,Howrah,Howrah Town,OPEN
+CASE-1047,FIR-2024-1047,Robbery,Armed Robbery Incident at Lucknow,IPC 392/397,2024,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-1048,FIR-2022-1048,Robbery,Armed Robbery Incident at Ahmedabad,IPC 392/397,2022,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-1049,FIR-2023-1049,Cybercrime,Digital Identity Theft and Financial Scam at Howrah,IT Act 66D / IPC 420,2023,Howrah,Howrah,Howrah Town,OPEN
+CASE-1050,FIR-2024-1050,Robbery,Armed Robbery Incident at Mumbai,IPC 392/397,2024,Mumbai,Mumbai City,Colaba,OPEN
+CASE-1051,FIR-2022-1051,Fraud,Commercial Fraud and Embezzlement Syndicate at Delhi,IPC 420/406,2022,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-1052,FIR-2023-1052,Criminal Intimidation,Intimidation and Witness Tampering at Kolkata,IPC 506,2023,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-1053,FIR-2023-1053,Extortion,Threat and Extortion Racket in Surat,IPC 384/386,2023,Surat,Surat,Varachha,OPEN
+CASE-1054,FIR-2021-1054,Murder,Targeted Homicide Investigation in Kolkata,IPC 302/120B,2021,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-1055,FIR-2021-1055,Extortion,Threat and Extortion Racket in Raipur,IPC 384/386,2021,Raipur,Raipur,Civil Lines,CLOSED
+CASE-1056,FIR-2021-1056,Assault,Physical Assault and Grievous Hurt Case at Kolkata,IPC 323/325,2021,Kolkata,Kolkata,Park Street,OPEN
+CASE-1057,FIR-2023-1057,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2023,Kolkata,Kolkata,Park Street,CLOSED
+CASE-1058,FIR-2024-1058,Cybercrime,Digital Identity Theft and Financial Scam at Bilaspur,IT Act 66D / IPC 420,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-1059,FIR-2021-1059,Forgery,Forged Documentation and Property Fraud in Nagpur,IPC 467/468/471,2021,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-1060,FIR-2023-1060,Cybercrime,Digital Identity Theft and Financial Scam at Varanasi,IT Act 66D / IPC 420,2023,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-1061,FIR-2022-1061,Burglary,Nocturnal Commercial Burglary in Raipur,IPC 457/380,2022,Raipur,Raipur,Civil Lines,CLOSED
+CASE-1062,FIR-2021-1062,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2021,Kolkata,Kolkata,Park Street,CLOSED
+CASE-1063,FIR-2023-1063,Extortion,Threat and Extortion Racket in Mumbai,IPC 384/386,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-1064,FIR-2022-1064,Criminal Intimidation,Intimidation and Witness Tampering at Raipur,IPC 506,2022,Raipur,Raipur,Civil Lines,CLOSED
+CASE-1065,FIR-2022-1065,Burglary,Nocturnal Commercial Burglary in Bilaspur,IPC 457/380,2022,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-1066,FIR-2024-1066,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2024,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-1067,FIR-2021-1067,Extortion,Threat and Extortion Racket in Chennai,IPC 384/386,2021,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-1068,FIR-2022-1068,Theft,Serial Asset and Vehicle Theft in Siliguri,IPC 379,2022,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-1069,FIR-2024-1069,Burglary,Nocturnal Commercial Burglary in Bilaspur,IPC 457/380,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-1070,FIR-2021-1070,Kidnapping,Kidnapping and Extortion Case at Ahmedabad,IPC 363/364A,2021,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-1071,FIR-2024-1071,Extortion,Threat and Extortion Racket in Pune,IPC 384/386,2024,Pune,Pune,Shivajinagar,CLOSED
+CASE-1072,FIR-2023-1072,Criminal Intimidation,Intimidation and Witness Tampering at Bilaspur,IPC 506,2023,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-1073,FIR-2023-1073,Burglary,Nocturnal Commercial Burglary in Bilaspur,IPC 457/380,2023,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-1074,FIR-2024-1074,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2024,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-1075,FIR-2024-1075,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2024,Kolkata,Kolkata,Park Street,OPEN
+CASE-1076,FIR-2024-1076,Assault,Physical Assault and Grievous Hurt Case at Ahmedabad,IPC 323/325,2024,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-1077,FIR-2021-1077,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2021,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-1078,FIR-2022-1078,Extortion,Threat and Extortion Racket in Mumbai,IPC 384/386,2022,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-1079,FIR-2021-1079,Kidnapping,Kidnapping and Extortion Case at Chennai,IPC 363/364A,2021,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-1080,FIR-2022-1080,Fraud,Commercial Fraud and Embezzlement Syndicate at Delhi,IPC 420/406,2022,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-1081,FIR-2024-1081,Assault,Physical Assault and Grievous Hurt Case at Kolkata,IPC 323/325,2024,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-1082,FIR-2023-1082,Assault,Physical Assault and Grievous Hurt Case at Raipur,IPC 323/325,2023,Raipur,Raipur,Civil Lines,CLOSED
+CASE-1083,FIR-2021-1083,Kidnapping,Kidnapping and Extortion Case at Bilaspur,IPC 363/364A,2021,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-1084,FIR-2023-1084,Cybercrime,Digital Identity Theft and Financial Scam at Durg,IT Act 66D / IPC 420,2023,Durg,Durg,Durg Sadar,OPEN
+CASE-1085,FIR-2022-1085,Forgery,Forged Documentation and Property Fraud in Ahmedabad,IPC 467/468/471,2022,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-1086,FIR-2021-1086,Murder,Targeted Homicide Investigation in Kolkata,IPC 302/120B,2021,Kolkata,Kolkata,Park Street,CLOSED
+CASE-1087,FIR-2023-1087,Forgery,Forged Documentation and Property Fraud in Howrah,IPC 467/468/471,2023,Howrah,Howrah,Howrah Town,OPEN
+CASE-1088,FIR-2022-1088,Forgery,Forged Documentation and Property Fraud in Pune,IPC 467/468/471,2022,Pune,Pune,Shivajinagar,CLOSED
+CASE-1089,FIR-2024-1089,Forgery,Forged Documentation and Property Fraud in Nagpur,IPC 467/468/471,2024,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-1090,FIR-2022-1090,Cybercrime,Digital Identity Theft and Financial Scam at Varanasi,IT Act 66D / IPC 420,2022,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-1091,FIR-2023-1091,Fraud,Commercial Fraud and Embezzlement Syndicate at Delhi,IPC 420/406,2023,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-1092,FIR-2024-1092,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2024,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-1093,FIR-2024-1093,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2024,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-1094,FIR-2023-1094,Forgery,Forged Documentation and Property Fraud in Ahmedabad,IPC 467/468/471,2023,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-1095,FIR-2021-1095,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2021,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-1096,FIR-2022-1096,Burglary,Nocturnal Commercial Burglary in Siliguri,IPC 457/380,2022,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-1097,FIR-2022-1097,Extortion,Threat and Extortion Racket in Howrah,IPC 384/386,2022,Howrah,Howrah,Howrah Town,CLOSED
+CASE-1098,FIR-2022-1098,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2022,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-1099,FIR-2024-1099,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2024,Mumbai,Mumbai City,Colaba,OPEN
+CASE-1100,FIR-2023-1100,Fraud,Commercial Fraud and Embezzlement Syndicate at Mumbai,IPC 420/406,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-1101,FIR-2022-1101,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2022,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-1102,FIR-2022-1102,Assault,Physical Assault and Grievous Hurt Case at Ahmedabad,IPC 323/325,2022,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-1103,FIR-2024-1103,Kidnapping,Kidnapping and Extortion Case at Ahmedabad,IPC 363/364A,2024,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-1104,FIR-2024-1104,Forgery,Forged Documentation and Property Fraud in Kolkata,IPC 467/468/471,2024,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-1105,FIR-2024-1105,Extortion,Threat and Extortion Racket in Durg,IPC 384/386,2024,Durg,Durg,Durg Sadar,OPEN
+CASE-1106,FIR-2024-1106,Burglary,Nocturnal Commercial Burglary in Siliguri,IPC 457/380,2024,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-1107,FIR-2022-1107,Kidnapping,Kidnapping and Extortion Case at Surat,IPC 363/364A,2022,Surat,Surat,Varachha,CLOSED
+CASE-1108,FIR-2021-1108,Theft,Serial Asset and Vehicle Theft in Kolkata,IPC 379,2021,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-1109,FIR-2022-1109,Theft,Serial Asset and Vehicle Theft in Mumbai,IPC 379,2022,Mumbai,Mumbai City,Colaba,OPEN
+CASE-1110,FIR-2024-1110,Forgery,Forged Documentation and Property Fraud in Kolkata,IPC 467/468/471,2024,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-1111,FIR-2021-1111,Fraud,Commercial Fraud and Embezzlement Syndicate at Surat,IPC 420/406,2021,Surat,Surat,Varachha,OPEN
+CASE-1112,FIR-2023-1112,Criminal Intimidation,Intimidation and Witness Tampering at Bilaspur,IPC 506,2023,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-1113,FIR-2024-1113,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2024,Kolkata,Kolkata,Park Street,OPEN
+CASE-1114,FIR-2023-1114,Forgery,Forged Documentation and Property Fraud in Varanasi,IPC 467/468/471,2023,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-1115,FIR-2023-1115,Cybercrime,Digital Identity Theft and Financial Scam at Chennai,IT Act 66D / IPC 420,2023,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-1116,FIR-2024-1116,Criminal Intimidation,Intimidation and Witness Tampering at Kolkata,IPC 506,2024,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-1117,FIR-2022-1117,Kidnapping,Kidnapping and Extortion Case at Varanasi,IPC 363/364A,2022,Varanasi,Varanasi,Dashashwamedh,CLOSED
+CASE-1118,FIR-2021-1118,Theft,Serial Asset and Vehicle Theft in Nagpur,IPC 379,2021,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-1119,FIR-2021-1119,Extortion,Threat and Extortion Racket in Durg,IPC 384/386,2021,Durg,Durg,Durg Sadar,OPEN
+CASE-1120,FIR-2024-1120,Murder,Targeted Homicide Investigation in Kolkata,IPC 302/120B,2024,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-1121,FIR-2021-1121,Extortion,Threat and Extortion Racket in Durg,IPC 384/386,2021,Durg,Durg,Durg Sadar,OPEN
+CASE-1122,FIR-2024-1122,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2024,Kolkata,Kolkata,Park Street,CLOSED
+CASE-1123,FIR-2023-1123,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2023,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-1124,FIR-2022-1124,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2022,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-1125,FIR-2023-1125,Murder,Targeted Homicide Investigation in Mumbai,IPC 302/120B,2023,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-1126,FIR-2024-1126,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2024,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-1127,FIR-2023-1127,Cybercrime,Digital Identity Theft and Financial Scam at Delhi,IT Act 66D / IPC 420,2023,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-1128,FIR-2024-1128,Fraud,Commercial Fraud and Embezzlement Syndicate at Raipur,IPC 420/406,2024,Raipur,Raipur,Civil Lines,CLOSED
+CASE-1129,FIR-2021-1129,Cybercrime,Digital Identity Theft and Financial Scam at Nagpur,IT Act 66D / IPC 420,2021,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-1130,FIR-2021-1130,Fraud,Commercial Fraud and Embezzlement Syndicate at Siliguri,IPC 420/406,2021,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-1131,FIR-2024-1131,Assault,Physical Assault and Grievous Hurt Case at Durg,IPC 323/325,2024,Durg,Durg,Durg Sadar,OPEN
+CASE-1132,FIR-2022-1132,Criminal Intimidation,Intimidation and Witness Tampering at Nagpur,IPC 506,2022,Nagpur,Nagpur,Sitabuldi,CLOSED
+CASE-1133,FIR-2024-1133,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2024,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-1134,FIR-2024-1134,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2024,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-1135,FIR-2022-1135,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2022,Delhi,Central Delhi,Connaught Place,CLOSED
+CASE-1136,FIR-2022-1136,Forgery,Forged Documentation and Property Fraud in Durg,IPC 467/468/471,2022,Durg,Durg,Durg Sadar,CLOSED
+CASE-1137,FIR-2023-1137,Murder,Targeted Homicide Investigation in Bilaspur,IPC 302/120B,2023,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-1138,FIR-2023-1138,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2023,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-1139,FIR-2022-1139,Forgery,Forged Documentation and Property Fraud in Delhi,IPC 467/468/471,2022,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-1140,FIR-2023-1140,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2023,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-1141,FIR-2021-1141,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2021,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-1142,FIR-2022-1142,Theft,Serial Asset and Vehicle Theft in Chennai,IPC 379,2022,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-1143,FIR-2022-1143,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2022,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-1144,FIR-2024-1144,Kidnapping,Kidnapping and Extortion Case at Bilaspur,IPC 363/364A,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-1145,FIR-2022-1145,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2022,Mumbai,Mumbai City,Colaba,OPEN
+CASE-1146,FIR-2022-1146,Murder,Targeted Homicide Investigation in Bilaspur,IPC 302/120B,2022,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-1147,FIR-2022-1147,Burglary,Nocturnal Commercial Burglary in Durg,IPC 457/380,2022,Durg,Durg,Durg Sadar,CLOSED
+CASE-1148,FIR-2021-1148,Burglary,Nocturnal Commercial Burglary in Pune,IPC 457/380,2021,Pune,Pune,Shivajinagar,CLOSED
+CASE-1149,FIR-2021-1149,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2021,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-1150,FIR-2021-1150,Kidnapping,Kidnapping and Extortion Case at Pune,IPC 363/364A,2021,Pune,Pune,Shivajinagar,OPEN
+CASE-1151,FIR-2022-1151,Theft,Serial Asset and Vehicle Theft in Bilaspur,IPC 379,2022,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-1152,FIR-2023-1152,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2023,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-1153,FIR-2024-1153,Theft,Serial Asset and Vehicle Theft in Lucknow,IPC 379,2024,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-1154,FIR-2023-1154,Cybercrime,Digital Identity Theft and Financial Scam at Mumbai,IT Act 66D / IPC 420,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-1155,FIR-2022-1155,Assault,Physical Assault and Grievous Hurt Case at Raipur,IPC 323/325,2022,Raipur,Raipur,Civil Lines,OPEN
+CASE-1156,FIR-2024-1156,Extortion,Threat and Extortion Racket in Chennai,IPC 384/386,2024,Chennai,Chennai,Flower Bazaar,OPEN
+CASE-1157,FIR-2023-1157,Assault,Physical Assault and Grievous Hurt Case at Ahmedabad,IPC 323/325,2023,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-1158,FIR-2022-1158,Forgery,Forged Documentation and Property Fraud in Howrah,IPC 467/468/471,2022,Howrah,Howrah,Howrah Town,CLOSED
+CASE-1159,FIR-2022-1159,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2022,Kolkata,Kolkata,Ballygunge,CLOSED
+CASE-1160,FIR-2024-1160,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2024,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-1161,FIR-2023-1161,Kidnapping,Kidnapping and Extortion Case at Lucknow,IPC 363/364A,2023,Lucknow,Lucknow,Hazratganj,CLOSED
+CASE-1162,FIR-2022-1162,Murder,Targeted Homicide Investigation in Lucknow,IPC 302/120B,2022,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-1163,FIR-2023-1163,Kidnapping,Kidnapping and Extortion Case at Ahmedabad,IPC 363/364A,2023,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-1164,FIR-2021-1164,Extortion,Threat and Extortion Racket in Nagpur,IPC 384/386,2021,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-1165,FIR-2024-1165,Murder,Targeted Homicide Investigation in Mumbai,IPC 302/120B,2024,Mumbai,Mumbai Suburban,Bandra,CLOSED
+CASE-1166,FIR-2023-1166,Extortion,Threat and Extortion Racket in Bilaspur,IPC 384/386,2023,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-1167,FIR-2024-1167,Extortion,Threat and Extortion Racket in Nagpur,IPC 384/386,2024,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-1168,FIR-2022-1168,Murder,Targeted Homicide Investigation in Delhi,IPC 302/120B,2022,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-1169,FIR-2023-1169,Fraud,Commercial Fraud and Embezzlement Syndicate at Bilaspur,IPC 420/406,2023,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-1170,FIR-2023-1170,Kidnapping,Kidnapping and Extortion Case at Ahmedabad,IPC 363/364A,2023,Ahmedabad,Ahmedabad,Ellis Bridge,CLOSED
+CASE-1171,FIR-2023-1171,Kidnapping,Kidnapping and Extortion Case at Durg,IPC 363/364A,2023,Durg,Durg,Durg Sadar,OPEN
+CASE-1172,FIR-2021-1172,Robbery,Armed Robbery Incident at Pune,IPC 392/397,2021,Pune,Pune,Shivajinagar,OPEN
+CASE-1173,FIR-2021-1173,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2021,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-1174,FIR-2021-1174,Kidnapping,Kidnapping and Extortion Case at Siliguri,IPC 363/364A,2021,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-1175,FIR-2024-1175,Kidnapping,Kidnapping and Extortion Case at Mumbai,IPC 363/364A,2024,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-1176,FIR-2024-1176,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2024,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-1177,FIR-2024-1177,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2024,Mumbai,Mumbai City,Colaba,OPEN
+CASE-1178,FIR-2024-1178,Assault,Physical Assault and Grievous Hurt Case at Delhi,IPC 323/325,2024,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-1179,FIR-2023-1179,Cybercrime,Digital Identity Theft and Financial Scam at Nagpur,IT Act 66D / IPC 420,2023,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-1180,FIR-2023-1180,Burglary,Nocturnal Commercial Burglary in Mumbai,IPC 457/380,2023,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-1181,FIR-2023-1181,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2023,Kolkata,Kolkata,Burrabazar,CLOSED
+CASE-1182,FIR-2022-1182,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2022,Kolkata,Kolkata,Park Street,CLOSED
+CASE-1183,FIR-2021-1183,Extortion,Threat and Extortion Racket in Durg,IPC 384/386,2021,Durg,Durg,Durg Sadar,OPEN
+CASE-1184,FIR-2022-1184,Extortion,Threat and Extortion Racket in Siliguri,IPC 384/386,2022,Siliguri,Darjeeling,Siliguri PS,CLOSED
+CASE-1185,FIR-2021-1185,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2021,Kolkata,Kolkata,Park Street,CLOSED
+CASE-1186,FIR-2021-1186,Theft,Serial Asset and Vehicle Theft in Varanasi,IPC 379,2021,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-1187,FIR-2023-1187,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2023,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-1188,FIR-2021-1188,Extortion,Threat and Extortion Racket in Varanasi,IPC 384/386,2021,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-1189,FIR-2021-1189,Cybercrime,Digital Identity Theft and Financial Scam at Bilaspur,IT Act 66D / IPC 420,2021,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-1190,FIR-2024-1190,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2024,Kolkata,Kolkata,Park Street,CLOSED
+CASE-1191,FIR-2021-1191,Forgery,Forged Documentation and Property Fraud in Bilaspur,IPC 467/468/471,2021,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-1192,FIR-2022-1192,Robbery,Armed Robbery Incident at Pune,IPC 392/397,2022,Pune,Pune,Shivajinagar,OPEN
+CASE-1193,FIR-2022-1193,Forgery,Forged Documentation and Property Fraud in Ahmedabad,IPC 467/468/471,2022,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-1194,FIR-2021-1194,Criminal Intimidation,Intimidation and Witness Tampering at Lucknow,IPC 506,2021,Lucknow,Lucknow,Hazratganj,OPEN
+CASE-1195,FIR-2021-1195,Assault,Physical Assault and Grievous Hurt Case at Kolkata,IPC 323/325,2021,Kolkata,Kolkata,Park Street,OPEN
+CASE-1196,FIR-2022-1196,Forgery,Forged Documentation and Property Fraud in Mumbai,IPC 467/468/471,2022,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-1197,FIR-2021-1197,Murder,Targeted Homicide Investigation in Bilaspur,IPC 302/120B,2021,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-1198,FIR-2022-1198,Extortion,Threat and Extortion Racket in Bilaspur,IPC 384/386,2022,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-1199,FIR-2024-1199,Forgery,Forged Documentation and Property Fraud in Raipur,IPC 467/468/471,2024,Raipur,Raipur,Civil Lines,OPEN
+CASE-1200,FIR-2024-1200,Murder,Targeted Homicide Investigation in Mumbai,IPC 302/120B,2024,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-1201,FIR-2024-1201,Fraud,Commercial Fraud and Embezzlement Syndicate at Bilaspur,IPC 420/406,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-1202,FIR-2021-1202,Theft,Serial Asset and Vehicle Theft in Durg,IPC 379,2021,Durg,Durg,Durg Sadar,CLOSED
+CASE-1203,FIR-2023-1203,Criminal Intimidation,Intimidation and Witness Tampering at Mumbai,IPC 506,2023,Mumbai,Mumbai City,Colaba,CLOSED
+CASE-1204,FIR-2021-1204,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2021,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-1205,FIR-2024-1205,Kidnapping,Kidnapping and Extortion Case at Varanasi,IPC 363/364A,2024,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-1206,FIR-2021-1206,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2021,Kolkata,Kolkata,Park Street,OPEN
+CASE-1207,FIR-2021-1207,Theft,Serial Asset and Vehicle Theft in Varanasi,IPC 379,2021,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-1208,FIR-2023-1208,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2023,Delhi,East Delhi,Preet Vihar,CLOSED
+CASE-1209,FIR-2024-1209,Burglary,Nocturnal Commercial Burglary in Nagpur,IPC 457/380,2024,Nagpur,Nagpur,Sitabuldi,OPEN
+CASE-1210,FIR-2022-1210,Burglary,Nocturnal Commercial Burglary in Pune,IPC 457/380,2022,Pune,Pune,Shivajinagar,OPEN
+CASE-1211,FIR-2023-1211,Cybercrime,Digital Identity Theft and Financial Scam at Kolkata,IT Act 66D / IPC 420,2023,Kolkata,Kolkata,Ballygunge,OPEN
+CASE-1212,FIR-2024-1212,Burglary,Nocturnal Commercial Burglary in Pune,IPC 457/380,2024,Pune,Pune,Shivajinagar,OPEN
+CASE-1213,FIR-2022-1213,Burglary,Nocturnal Commercial Burglary in Delhi,IPC 457/380,2022,Delhi,East Delhi,Preet Vihar,OPEN
+CASE-1214,FIR-2021-1214,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2021,Delhi,South Delhi,Hauz Khas,CLOSED
+CASE-1215,FIR-2022-1215,Theft,Serial Asset and Vehicle Theft in Delhi,IPC 379,2022,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-1216,FIR-2022-1216,Kidnapping,Kidnapping and Extortion Case at Delhi,IPC 363/364A,2022,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-1217,FIR-2021-1217,Cybercrime,Digital Identity Theft and Financial Scam at Bilaspur,IT Act 66D / IPC 420,2021,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-1218,FIR-2023-1218,Burglary,Nocturnal Commercial Burglary in Siliguri,IPC 457/380,2023,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-1219,FIR-2024-1219,Kidnapping,Kidnapping and Extortion Case at Ahmedabad,IPC 363/364A,2024,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-1220,FIR-2022-1220,Assault,Physical Assault and Grievous Hurt Case at Mumbai,IPC 323/325,2022,Mumbai,Mumbai City,Colaba,OPEN
+CASE-1221,FIR-2024-1221,Murder,Targeted Homicide Investigation in Ahmedabad,IPC 302/120B,2024,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-1222,FIR-2021-1222,Cybercrime,Digital Identity Theft and Financial Scam at Ahmedabad,IT Act 66D / IPC 420,2021,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-1223,FIR-2023-1223,Extortion,Threat and Extortion Racket in Kolkata,IPC 384/386,2023,Kolkata,Kolkata,Burrabazar,CLOSED
+CASE-1224,FIR-2022-1224,Murder,Targeted Homicide Investigation in Mumbai,IPC 302/120B,2022,Mumbai,Mumbai Suburban,Bandra,OPEN
+CASE-1225,FIR-2024-1225,Burglary,Nocturnal Commercial Burglary in Bilaspur,IPC 457/380,2024,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-1226,FIR-2023-1226,Fraud,Commercial Fraud and Embezzlement Syndicate at Raipur,IPC 420/406,2023,Raipur,Raipur,Civil Lines,OPEN
+CASE-1227,FIR-2024-1227,Criminal Intimidation,Intimidation and Witness Tampering at Varanasi,IPC 506,2024,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-1228,FIR-2023-1228,Murder,Targeted Homicide Investigation in Siliguri,IPC 302/120B,2023,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-1229,FIR-2023-1229,Theft,Serial Asset and Vehicle Theft in Siliguri,IPC 379,2023,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-1230,FIR-2021-1230,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2021,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-1231,FIR-2022-1231,Robbery,Armed Robbery Incident at Durg,IPC 392/397,2022,Durg,Durg,Durg Sadar,CLOSED
+CASE-1232,FIR-2024-1232,Forgery,Forged Documentation and Property Fraud in Pune,IPC 467/468/471,2024,Pune,Pune,Shivajinagar,CLOSED
+CASE-1233,FIR-2023-1233,Assault,Physical Assault and Grievous Hurt Case at Pune,IPC 323/325,2023,Pune,Pune,Shivajinagar,CLOSED
+CASE-1234,FIR-2022-1234,Cybercrime,Digital Identity Theft and Financial Scam at Pune,IT Act 66D / IPC 420,2022,Pune,Pune,Shivajinagar,CLOSED
+CASE-1235,FIR-2022-1235,Murder,Targeted Homicide Investigation in Durg,IPC 302/120B,2022,Durg,Durg,Durg Sadar,OPEN
+CASE-1236,FIR-2023-1236,Burglary,Nocturnal Commercial Burglary in Kolkata,IPC 457/380,2023,Kolkata,Kolkata,Park Street,OPEN
+CASE-1237,FIR-2022-1237,Extortion,Threat and Extortion Racket in Delhi,IPC 384/386,2022,Delhi,Central Delhi,Connaught Place,OPEN
+CASE-1238,FIR-2024-1238,Extortion,Threat and Extortion Racket in Surat,IPC 384/386,2024,Surat,Surat,Varachha,OPEN
+CASE-1239,FIR-2024-1239,Fraud,Commercial Fraud and Embezzlement Syndicate at Kolkata,IPC 420/406,2024,Kolkata,Kolkata,Burrabazar,OPEN
+CASE-1240,FIR-2022-1240,Forgery,Forged Documentation and Property Fraud in Mumbai,IPC 467/468/471,2022,Mumbai,Mumbai City,Colaba,OPEN
+CASE-1241,FIR-2022-1241,Kidnapping,Kidnapping and Extortion Case at Ahmedabad,IPC 363/364A,2022,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-1242,FIR-2023-1242,Kidnapping,Kidnapping and Extortion Case at Pune,IPC 363/364A,2023,Pune,Pune,Shivajinagar,CLOSED
+CASE-1243,FIR-2022-1243,Burglary,Nocturnal Commercial Burglary in Chennai,IPC 457/380,2022,Chennai,Chennai,Flower Bazaar,CLOSED
+CASE-1244,FIR-2023-1244,Theft,Serial Asset and Vehicle Theft in Ahmedabad,IPC 379,2023,Ahmedabad,Ahmedabad,Ellis Bridge,OPEN
+CASE-1245,FIR-2022-1245,Assault,Physical Assault and Grievous Hurt Case at Bilaspur,IPC 323/325,2022,Bilaspur,Bilaspur,City Kotwali,CLOSED
+CASE-1246,FIR-2021-1246,Murder,Targeted Homicide Investigation in Varanasi,IPC 302/120B,2021,Varanasi,Varanasi,Dashashwamedh,OPEN
+CASE-1247,FIR-2023-1247,Kidnapping,Kidnapping and Extortion Case at Bilaspur,IPC 363/364A,2023,Bilaspur,Bilaspur,City Kotwali,OPEN
+CASE-1248,FIR-2021-1248,Robbery,Armed Robbery Incident at Delhi,IPC 392/397,2021,Delhi,South Delhi,Hauz Khas,OPEN
+CASE-1249,FIR-2023-1249,Forgery,Forged Documentation and Property Fraud in Siliguri,IPC 467/468/471,2023,Siliguri,Darjeeling,Siliguri PS,OPEN
+CASE-1250,FIR-2021-1250,Criminal Intimidation,Intimidation and Witness Tampering at Delhi,IPC 506,2021,Delhi,South Delhi,Hauz Khas,OPEN

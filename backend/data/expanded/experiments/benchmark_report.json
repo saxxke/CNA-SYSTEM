@@ -1,0 +1,467 @@
+{
+  "benchmark_metadata": {
+    "dataset": "SMALL",
+    "seed": 42,
+    "train_samples": 695,
+    "test_samples": 155,
+    "train_cases": 875,
+    "test_cases": 188,
+    "zero_case_leakage_verified": true
+  },
+  "models_benchmarked": {
+    "LogReg_7_Baseline": {
+      "model_name": "LogReg_7_Baseline",
+      "description": "Step 22 Baseline Logistic Regression with 7 explainable features",
+      "feature_count": 7,
+      "features": [
+        "entity_similarity",
+        "text_evidence_strength",
+        "relationship_keyword_match",
+        "supporting_record_count",
+        "source_record_count",
+        "relationship_frequency",
+        "cross_case_connectivity"
+      ],
+      "precision": 0.9,
+      "recall": 0.6154,
+      "f1_score": 0.731,
+      "roc_auc": 0.7584,
+      "pr_auc": 0.8955,
+      "brier_score": 0.2054,
+      "false_positive_rate": 0.2105,
+      "training_time_seconds": 0.0908,
+      "inference_time_ms_per_1k": 1.3385,
+      "confusion_matrix": {
+        "tp": 72,
+        "fp": 8,
+        "tn": 30,
+        "fn": 45
+      },
+      "artifact_path": "C:\\Users\\JIT\\OneDrive\\Desktop\\PS26189\\backend\\data\\expanded\\experiments\\models\\LogReg_7_Baseline.joblib"
+    },
+    "LogReg_11_Scaled": {
+      "model_name": "LogReg_11_Scaled",
+      "description": "Standardized Logistic Regression with 11 explainable features and L2 penalty",
+      "feature_count": 11,
+      "features": [
+        "entity_similarity",
+        "text_evidence_strength",
+        "relationship_keyword_match",
+        "supporting_record_count",
+        "source_record_count",
+        "relationship_frequency",
+        "cross_case_connectivity",
+        "evidence_diversity",
+        "case_cooccurrence_count",
+        "bidirectional_activity",
+        "normalized_transaction_volume"
+      ],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier_score": 0.0003,
+      "false_positive_rate": 0.0,
+      "training_time_seconds": 0.0091,
+      "inference_time_ms_per_1k": 4.1627,
+      "confusion_matrix": {
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "artifact_path": "C:\\Users\\JIT\\OneDrive\\Desktop\\PS26189\\backend\\data\\expanded\\experiments\\models\\LogReg_11_Scaled.joblib"
+    },
+    "RandomForest_11": {
+      "model_name": "RandomForest_11",
+      "description": "Random Forest with 11 features, constrained depth for explainability",
+      "feature_count": 11,
+      "features": [
+        "entity_similarity",
+        "text_evidence_strength",
+        "relationship_keyword_match",
+        "supporting_record_count",
+        "source_record_count",
+        "relationship_frequency",
+        "cross_case_connectivity",
+        "evidence_diversity",
+        "case_cooccurrence_count",
+        "bidirectional_activity",
+        "normalized_transaction_volume"
+      ],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier_score": 0.0176,
+      "false_positive_rate": 0.0,
+      "training_time_seconds": 0.2559,
+      "inference_time_ms_per_1k": 100.5739,
+      "confusion_matrix": {
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "artifact_path": "C:\\Users\\JIT\\OneDrive\\Desktop\\PS26189\\backend\\data\\expanded\\experiments\\models\\RandomForest_11.joblib"
+    },
+    "HistGradientBoosting_11": {
+      "model_name": "HistGradientBoosting_11",
+      "description": "HistGradientBoosting with 11 features, shallow trees for robust interaction capture",
+      "feature_count": 11,
+      "features": [
+        "entity_similarity",
+        "text_evidence_strength",
+        "relationship_keyword_match",
+        "supporting_record_count",
+        "source_record_count",
+        "relationship_frequency",
+        "cross_case_connectivity",
+        "evidence_diversity",
+        "case_cooccurrence_count",
+        "bidirectional_activity",
+        "normalized_transaction_volume"
+      ],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier_score": 0.0001,
+      "false_positive_rate": 0.0,
+      "training_time_seconds": 0.1708,
+      "inference_time_ms_per_1k": 17.7301,
+      "confusion_matrix": {
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "artifact_path": "C:\\Users\\JIT\\OneDrive\\Desktop\\PS26189\\backend\\data\\expanded\\experiments\\models\\HistGradientBoosting_11.joblib"
+    },
+    "Calibrated_RF_11": {
+      "model_name": "Calibrated_RF_11",
+      "description": "Random Forest (11 features) with Sigmoid Probability Calibration (cv=3)",
+      "feature_count": 11,
+      "features": [
+        "entity_similarity",
+        "text_evidence_strength",
+        "relationship_keyword_match",
+        "supporting_record_count",
+        "source_record_count",
+        "relationship_frequency",
+        "cross_case_connectivity",
+        "evidence_diversity",
+        "case_cooccurrence_count",
+        "bidirectional_activity",
+        "normalized_transaction_volume"
+      ],
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier_score": 0.0002,
+      "false_positive_rate": 0.0,
+      "training_time_seconds": 0.8039,
+      "inference_time_ms_per_1k": 290.2597,
+      "confusion_matrix": {
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "artifact_path": "C:\\Users\\JIT\\OneDrive\\Desktop\\PS26189\\backend\\data\\expanded\\experiments\\models\\Calibrated_RF_11.joblib"
+    }
+  },
+  "threshold_sweeps": {
+    "LogReg_7_Baseline": {
+      "th_0.50": {
+        "threshold": 0.5,
+        "precision": 0.9,
+        "recall": 0.6154,
+        "f1_score": 0.731,
+        "false_positive_rate": 0.2105,
+        "false_negative_rate": 0.3846,
+        "tp": 72,
+        "fp": 8,
+        "tn": 30,
+        "fn": 45
+      },
+      "th_0.60": {
+        "threshold": 0.6,
+        "precision": 0.913,
+        "recall": 0.5385,
+        "f1_score": 0.6774,
+        "false_positive_rate": 0.1579,
+        "false_negative_rate": 0.4615,
+        "tp": 63,
+        "fp": 6,
+        "tn": 32,
+        "fn": 54
+      },
+      "th_0.70": {
+        "threshold": 0.7,
+        "precision": 0.9032,
+        "recall": 0.2393,
+        "f1_score": 0.3784,
+        "false_positive_rate": 0.0789,
+        "false_negative_rate": 0.7607,
+        "tp": 28,
+        "fp": 3,
+        "tn": 35,
+        "fn": 89
+      },
+      "th_0.80": {
+        "threshold": 0.8,
+        "precision": 0.9167,
+        "recall": 0.188,
+        "f1_score": 0.3121,
+        "false_positive_rate": 0.0526,
+        "false_negative_rate": 0.812,
+        "tp": 22,
+        "fp": 2,
+        "tn": 36,
+        "fn": 95
+      }
+    },
+    "LogReg_11_Scaled": {
+      "th_0.50": {
+        "threshold": 0.5,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0,
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "th_0.60": {
+        "threshold": 0.6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0,
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "th_0.70": {
+        "threshold": 0.7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0,
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "th_0.80": {
+        "threshold": 0.8,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0,
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      }
+    },
+    "RandomForest_11": {
+      "th_0.50": {
+        "threshold": 0.5,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0,
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "th_0.60": {
+        "threshold": 0.6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0,
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "th_0.70": {
+        "threshold": 0.7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0,
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "th_0.80": {
+        "threshold": 0.8,
+        "precision": 1.0,
+        "recall": 0.9231,
+        "f1_score": 0.96,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0769,
+        "tp": 108,
+        "fp": 0,
+        "tn": 38,
+        "fn": 9
+      }
+    },
+    "HistGradientBoosting_11": {
+      "th_0.50": {
+        "threshold": 0.5,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0,
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "th_0.60": {
+        "threshold": 0.6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0,
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "th_0.70": {
+        "threshold": 0.7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0,
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "th_0.80": {
+        "threshold": 0.8,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0,
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      }
+    },
+    "Calibrated_RF_11": {
+      "th_0.50": {
+        "threshold": 0.5,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0,
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "th_0.60": {
+        "threshold": 0.6,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0,
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "th_0.70": {
+        "threshold": 0.7,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0,
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      },
+      "th_0.80": {
+        "threshold": 0.8,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "false_negative_rate": 0.0,
+        "tp": 117,
+        "fp": 0,
+        "tn": 38,
+        "fn": 0
+      }
+    }
+  },
+  "entity_resolution_benchmark": {
+    "positive_alias_mutations_tested": 200,
+    "hard_negative_pairs_tested": 200,
+    "average_positive_similarity": 0.7412,
+    "average_negative_similarity": 0.3819,
+    "threshold_possible_0_65": {
+      "threshold": 0.65,
+      "precision": 0.9935,
+      "recall": 0.76,
+      "f1_score": 0.8612,
+      "true_positives": 152,
+      "false_negatives": 48,
+      "true_negatives": 199,
+      "false_positives": 1
+    },
+    "threshold_match_0_85": {
+      "threshold": 0.85,
+      "precision": 1.0,
+      "recall": 0.125,
+      "f1_score": 0.2222,
+      "true_positives": 25,
+      "false_negatives": 175,
+      "true_negatives": 200,
+      "false_positives": 0
+    },
+    "false_matches_on_hard_negatives": 1,
+    "sample_false_matches": [
+      {
+        "name_1": "Satish Chatterjee",
+        "name_2": "Amit Chatterjee",
+        "locality": null,
+        "final_score": 0.7605705976486207,
+        "decision": "POSSIBLE_MATCH"
+      }
+    ]
+  }
+}

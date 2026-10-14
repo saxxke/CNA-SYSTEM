@@ -1,0 +1,473 @@
+comm_id,case_id,description,duration
+ROB-COMM-0001,CASE-0052,PERSON-0655 contacted PERSON-0115 regarding coordination.,249
+ROB-COMM-0002,CASE-0052,PERSON-0115 contacted PERSON-0655 to confirm receipt.,102
+ROB-COMM-0003,CASE-1210,PERSON-0559 contacted PERSON-0090 regarding coordination.,168
+ROB-COMM-0004,CASE-1210,PERSON-0090 contacted PERSON-0559 to confirm receipt.,68
+ROB-COMM-0005,CASE-1117,PERSON-0204 contacted PERSON-0734 regarding coordination.,167
+ROB-COMM-0006,CASE-1117,PERSON-0734 contacted PERSON-0204 to confirm receipt.,195
+ROB-COMM-0007,CASE-0866,PERSON-0164 contacted PERSON-0715 regarding coordination.,147
+ROB-COMM-0008,CASE-0866,PERSON-0715 contacted PERSON-0164 to confirm receipt.,100
+ROB-COMM-0009,CASE-0199,PERSON-0095 contacted PERSON-0390 regarding coordination.,151
+ROB-COMM-0010,CASE-1099,PERSON-0748 contacted PERSON-0471 regarding coordination.,91
+ROB-COMM-0011,CASE-0741,PERSON-0634 contacted PERSON-0907 regarding coordination.,207
+ROB-COMM-0012,CASE-0741,PERSON-0907 contacted PERSON-0634 to confirm receipt.,62
+ROB-COMM-0013,CASE-0477,PERSON-0082 contacted PERSON-0876 regarding coordination.,281
+ROB-COMM-0014,CASE-0477,PERSON-0876 contacted PERSON-0082 to confirm receipt.,116
+ROB-COMM-0015,CASE-0547,PERSON-0364 contacted PERSON-0215 regarding coordination.,239
+ROB-COMM-0016,CASE-0502,PERSON-0176 contacted PERSON-0547 regarding coordination.,101
+ROB-COMM-0017,CASE-0502,PERSON-0547 contacted PERSON-0176 to confirm receipt.,114
+ROB-COMM-0018,CASE-0665,PERSON-0571 contacted PERSON-0225 regarding coordination.,275
+ROB-COMM-0019,CASE-0136,PERSON-0411 contacted PERSON-0275 regarding coordination.,114
+ROB-COMM-0020,CASE-1023,PERSON-0218 contacted PERSON-0672 regarding coordination.,161
+ROB-COMM-0021,CASE-1150,PERSON-0143 contacted PERSON-0253 regarding coordination.,197
+ROB-COMM-0022,CASE-1150,PERSON-0253 contacted PERSON-0143 to confirm receipt.,194
+ROB-COMM-0023,CASE-1011,PERSON-0142 contacted PERSON-0522 regarding coordination.,83
+ROB-COMM-0024,CASE-0865,PERSON-0164 contacted PERSON-0812 regarding coordination.,212
+ROB-COMM-0025,CASE-0865,PERSON-0812 contacted PERSON-0164 to confirm receipt.,142
+ROB-COMM-0026,CASE-1134,PERSON-0258 contacted PERSON-0995 regarding coordination.,280
+ROB-COMM-0027,CASE-0547,PERSON-0907 contacted PERSON-0550 regarding coordination.,256
+ROB-COMM-0028,CASE-0540,PERSON-0977 contacted PERSON-0740 regarding coordination.,188
+ROB-COMM-0029,CASE-1040,PERSON-0641 contacted PERSON-0306 regarding coordination.,215
+ROB-COMM-0030,CASE-1040,PERSON-0306 contacted PERSON-0641 to confirm receipt.,140
+ROB-COMM-0031,CASE-1087,PERSON-0798 contacted PERSON-0945 regarding coordination.,295
+ROB-COMM-0032,CASE-1087,PERSON-0945 contacted PERSON-0798 to confirm receipt.,127
+ROB-COMM-0033,CASE-0630,PERSON-0852 contacted PERSON-0827 regarding coordination.,121
+ROB-COMM-0034,CASE-0630,PERSON-0827 contacted PERSON-0852 to confirm receipt.,190
+ROB-COMM-0035,CASE-0142,PERSON-0498 contacted PERSON-0836 regarding coordination.,254
+ROB-COMM-0036,CASE-0142,PERSON-0836 contacted PERSON-0498 to confirm receipt.,77
+ROB-COMM-0037,CASE-1243,PERSON-0272 contacted PERSON-0541 regarding coordination.,168
+ROB-COMM-0038,CASE-0639,PERSON-0707 contacted PERSON-0206 regarding coordination.,162
+ROB-COMM-0039,CASE-0248,PERSON-0530 contacted PERSON-0463 regarding coordination.,123
+ROB-COMM-0040,CASE-0248,PERSON-0463 contacted PERSON-0530 to confirm receipt.,131
+ROB-COMM-0041,CASE-0121,PERSON-0008 contacted PERSON-0073 regarding coordination.,118
+ROB-COMM-0042,CASE-0121,PERSON-0073 contacted PERSON-0008 to confirm receipt.,53
+ROB-COMM-0043,CASE-0995,PERSON-0244 contacted PERSON-0286 regarding coordination.,114
+ROB-COMM-0044,CASE-0995,PERSON-0286 contacted PERSON-0244 to confirm receipt.,191
+ROB-COMM-0045,CASE-0834,PERSON-0485 contacted PERSON-0827 regarding coordination.,108
+ROB-COMM-0046,CASE-0834,PERSON-0827 contacted PERSON-0485 to confirm receipt.,155
+ROB-COMM-0047,CASE-0202,PERSON-0056 contacted PERSON-0690 regarding coordination.,75
+ROB-COMM-0048,CASE-0202,PERSON-0690 contacted PERSON-0056 to confirm receipt.,131
+ROB-COMM-0049,CASE-1099,PERSON-0197 contacted PERSON-0195 regarding coordination.,174
+ROB-COMM-0050,CASE-1099,PERSON-0195 contacted PERSON-0197 to confirm receipt.,91
+ROB-COMM-0051,CASE-1128,PERSON-0454 contacted PERSON-0828 regarding coordination.,85
+ROB-COMM-0052,CASE-1128,PERSON-0828 contacted PERSON-0454 to confirm receipt.,183
+ROB-COMM-0053,CASE-0485,PERSON-0949 contacted PERSON-0772 regarding coordination.,102
+ROB-COMM-0054,CASE-0485,PERSON-0772 contacted PERSON-0949 to confirm receipt.,168
+ROB-COMM-0055,CASE-0800,PERSON-0389 contacted PERSON-0003 regarding coordination.,127
+ROB-COMM-0056,CASE-1139,PERSON-0714 contacted PERSON-0981 regarding coordination.,229
+ROB-COMM-0057,CASE-1111,PERSON-0594 contacted PERSON-0754 regarding coordination.,75
+ROB-COMM-0058,CASE-0323,PERSON-0874 contacted PERSON-0544 regarding coordination.,74
+ROB-COMM-0059,CASE-0482,PERSON-0692 contacted PERSON-0883 regarding coordination.,163
+ROB-COMM-0060,CASE-0482,PERSON-0883 contacted PERSON-0692 to confirm receipt.,190
+ROB-COMM-0061,CASE-1196,PERSON-0430 contacted PERSON-0674 regarding coordination.,204
+ROB-COMM-0062,CASE-1196,PERSON-0674 contacted PERSON-0430 to confirm receipt.,111
+ROB-COMM-0063,CASE-0615,PERSON-0406 contacted PERSON-0135 regarding coordination.,177
+ROB-COMM-0064,CASE-0615,PERSON-0135 contacted PERSON-0406 to confirm receipt.,63
+ROB-COMM-0065,CASE-1102,PERSON-0103 contacted PERSON-0076 regarding coordination.,114
+ROB-COMM-0066,CASE-1102,PERSON-0076 contacted PERSON-0103 to confirm receipt.,78
+ROB-COMM-0067,CASE-0757,PERSON-0901 contacted PERSON-0251 regarding coordination.,132
+ROB-COMM-0068,CASE-0757,PERSON-0251 contacted PERSON-0901 to confirm receipt.,184
+ROB-COMM-0069,CASE-1084,PERSON-0827 contacted PERSON-0670 regarding coordination.,62
+ROB-COMM-0070,CASE-0276,PERSON-0107 contacted PERSON-0962 regarding coordination.,127
+ROB-COMM-0071,CASE-0276,PERSON-0962 contacted PERSON-0107 to confirm receipt.,72
+ROB-COMM-0072,CASE-0432,PERSON-0289 contacted PERSON-0620 regarding coordination.,243
+ROB-COMM-0073,CASE-0432,PERSON-0620 contacted PERSON-0289 to confirm receipt.,112
+ROB-COMM-0074,CASE-0105,PERSON-0930 contacted PERSON-0867 regarding coordination.,83
+ROB-COMM-0075,CASE-0268,PERSON-0342 contacted PERSON-0790 regarding coordination.,223
+ROB-COMM-0076,CASE-0230,PERSON-0575 contacted PERSON-0010 regarding coordination.,79
+ROB-COMM-0077,CASE-0757,PERSON-0037 contacted PERSON-0855 regarding coordination.,209
+ROB-COMM-0078,CASE-0757,PERSON-0855 contacted PERSON-0037 to confirm receipt.,155
+ROB-COMM-0079,CASE-0082,PERSON-0816 contacted PERSON-0996 regarding coordination.,290
+ROB-COMM-0080,CASE-0082,PERSON-0996 contacted PERSON-0816 to confirm receipt.,108
+ROB-COMM-0081,CASE-0833,PERSON-0574 contacted PERSON-0906 regarding coordination.,218
+ROB-COMM-0082,CASE-0363,PERSON-0167 contacted PERSON-1000 regarding coordination.,285
+ROB-COMM-0083,CASE-0363,PERSON-1000 contacted PERSON-0167 to confirm receipt.,90
+ROB-COMM-0084,CASE-0509,PERSON-0954 contacted PERSON-0422 regarding coordination.,128
+ROB-COMM-0085,CASE-0509,PERSON-0422 contacted PERSON-0954 to confirm receipt.,72
+ROB-COMM-0086,CASE-0943,PERSON-0205 contacted PERSON-0837 regarding coordination.,149
+ROB-COMM-0087,CASE-0943,PERSON-0837 contacted PERSON-0205 to confirm receipt.,103
+ROB-COMM-0088,CASE-0143,PERSON-0286 contacted PERSON-0886 regarding coordination.,257
+ROB-COMM-0089,CASE-0143,PERSON-0886 contacted PERSON-0286 to confirm receipt.,175
+ROB-COMM-0090,CASE-0237,PERSON-0962 contacted PERSON-0029 regarding coordination.,284
+ROB-COMM-0091,CASE-0890,PERSON-0112 contacted PERSON-0611 regarding coordination.,148
+ROB-COMM-0092,CASE-1181,PERSON-0395 contacted PERSON-0922 regarding coordination.,108
+ROB-COMM-0093,CASE-1181,PERSON-0922 contacted PERSON-0395 to confirm receipt.,156
+ROB-COMM-0094,CASE-0404,PERSON-0737 contacted PERSON-0963 regarding coordination.,153
+ROB-COMM-0095,CASE-0404,PERSON-0963 contacted PERSON-0737 to confirm receipt.,129
+ROB-COMM-0096,CASE-0616,PERSON-0128 contacted PERSON-0738 regarding coordination.,189
+ROB-COMM-0097,CASE-0616,PERSON-0738 contacted PERSON-0128 to confirm receipt.,149
+ROB-COMM-0098,CASE-0777,PERSON-0197 contacted PERSON-0431 regarding coordination.,233
+ROB-COMM-0099,CASE-0623,PERSON-0854 contacted PERSON-0001 regarding coordination.,133
+ROB-COMM-0100,CASE-0623,PERSON-0001 contacted PERSON-0854 to confirm receipt.,193
+ROB-COMM-0101,CASE-0438,PERSON-0453 contacted PERSON-0692 regarding coordination.,190
+ROB-COMM-0102,CASE-0438,PERSON-0692 contacted PERSON-0453 to confirm receipt.,88
+ROB-COMM-0103,CASE-0687,PERSON-0680 contacted PERSON-0649 regarding coordination.,83
+ROB-COMM-0104,CASE-0408,PERSON-0231 contacted PERSON-0826 regarding coordination.,97
+ROB-COMM-0105,CASE-0408,PERSON-0826 contacted PERSON-0231 to confirm receipt.,107
+ROB-COMM-0106,CASE-0933,PERSON-0787 contacted PERSON-0075 regarding coordination.,166
+ROB-COMM-0107,CASE-0819,PERSON-0394 contacted PERSON-0507 regarding coordination.,122
+ROB-COMM-0108,CASE-0819,PERSON-0507 contacted PERSON-0394 to confirm receipt.,46
+ROB-COMM-0109,CASE-0871,PERSON-0907 contacted PERSON-0110 regarding coordination.,116
+ROB-COMM-0110,CASE-0871,PERSON-0110 contacted PERSON-0907 to confirm receipt.,177
+ROB-COMM-0111,CASE-0274,PERSON-0125 contacted PERSON-0468 regarding coordination.,265
+ROB-COMM-0112,CASE-0274,PERSON-0468 contacted PERSON-0125 to confirm receipt.,180
+ROB-COMM-0113,CASE-0907,PERSON-0973 contacted PERSON-0774 regarding coordination.,216
+ROB-COMM-0114,CASE-0914,PERSON-0929 contacted PERSON-0562 regarding coordination.,289
+ROB-COMM-0115,CASE-0914,PERSON-0562 contacted PERSON-0929 to confirm receipt.,166
+ROB-COMM-0116,CASE-1068,PERSON-0284 contacted PERSON-0785 regarding coordination.,184
+ROB-COMM-0117,CASE-0655,PERSON-0279 contacted PERSON-0344 regarding coordination.,288
+ROB-COMM-0118,CASE-0655,PERSON-0344 contacted PERSON-0279 to confirm receipt.,80
+ROB-COMM-0119,CASE-0850,PERSON-0220 contacted PERSON-0066 regarding coordination.,164
+ROB-COMM-0120,CASE-0850,PERSON-0066 contacted PERSON-0220 to confirm receipt.,164
+ROB-COMM-0121,CASE-1197,PERSON-0927 contacted PERSON-0789 regarding coordination.,238
+ROB-COMM-0122,CASE-1197,PERSON-0789 contacted PERSON-0927 to confirm receipt.,192
+ROB-COMM-0123,CASE-0859,PERSON-0772 contacted PERSON-0400 regarding coordination.,197
+ROB-COMM-0124,CASE-0450,PERSON-0226 contacted PERSON-0500 regarding coordination.,129
+ROB-COMM-0125,CASE-0450,PERSON-0500 contacted PERSON-0226 to confirm receipt.,52
+ROB-COMM-0126,CASE-0958,PERSON-0742 contacted PERSON-0170 regarding coordination.,295
+ROB-COMM-0127,CASE-0958,PERSON-0170 contacted PERSON-0742 to confirm receipt.,181
+ROB-COMM-0128,CASE-0878,PERSON-0028 contacted PERSON-0086 regarding coordination.,94
+ROB-COMM-0129,CASE-0692,PERSON-0466 contacted PERSON-0335 regarding coordination.,254
+ROB-COMM-0130,CASE-0964,PERSON-0855 contacted PERSON-0084 regarding coordination.,64
+ROB-COMM-0131,CASE-0083,PERSON-0071 contacted PERSON-0800 regarding coordination.,253
+ROB-COMM-0132,CASE-0083,PERSON-0800 contacted PERSON-0071 to confirm receipt.,108
+ROB-COMM-0133,CASE-0235,PERSON-0130 contacted PERSON-0485 regarding coordination.,204
+ROB-COMM-0134,CASE-0235,PERSON-0621 contacted PERSON-0622 regarding coordination.,259
+ROB-COMM-0135,CASE-0639,PERSON-0027 contacted PERSON-0952 regarding coordination.,207
+ROB-COMM-0136,CASE-0156,PERSON-0733 contacted PERSON-0204 regarding coordination.,211
+ROB-COMM-0137,CASE-1230,PERSON-0792 contacted PERSON-0309 regarding coordination.,266
+ROB-COMM-0138,CASE-1230,PERSON-0309 contacted PERSON-0792 to confirm receipt.,189
+ROB-COMM-0139,CASE-0759,PERSON-0439 contacted PERSON-0678 regarding coordination.,77
+ROB-COMM-0140,CASE-0759,PERSON-0678 contacted PERSON-0439 to confirm receipt.,132
+ROB-COMM-0141,CASE-0742,PERSON-0444 contacted PERSON-0984 regarding coordination.,222
+ROB-COMM-0142,CASE-0554,PERSON-0535 contacted PERSON-0989 regarding coordination.,217
+ROB-COMM-0143,CASE-1214,PERSON-0447 contacted PERSON-0846 regarding coordination.,128
+ROB-COMM-0144,CASE-1214,PERSON-0846 contacted PERSON-0447 to confirm receipt.,107
+ROB-COMM-0145,CASE-0500,PERSON-0903 contacted PERSON-0462 regarding coordination.,252
+ROB-COMM-0146,CASE-0500,PERSON-0462 contacted PERSON-0903 to confirm receipt.,142
+ROB-COMM-0147,CASE-0727,PERSON-0500 contacted PERSON-0218 regarding coordination.,264
+ROB-COMM-0148,CASE-0727,PERSON-0218 contacted PERSON-0500 to confirm receipt.,116
+ROB-COMM-0149,CASE-0021,PERSON-0283 contacted PERSON-0570 regarding coordination.,192
+ROB-COMM-0150,CASE-0976,PERSON-0777 contacted PERSON-0247 regarding coordination.,225
+ROB-COMM-0151,CASE-0499,PERSON-0415 contacted PERSON-0709 regarding coordination.,138
+ROB-COMM-0152,CASE-0678,PERSON-0764 contacted PERSON-0564 regarding coordination.,150
+ROB-COMM-0153,CASE-0245,PERSON-0198 contacted PERSON-0324 regarding coordination.,250
+ROB-COMM-0154,CASE-0245,PERSON-0324 contacted PERSON-0198 to confirm receipt.,92
+ROB-COMM-0155,CASE-1075,PERSON-0604 contacted PERSON-0779 regarding coordination.,212
+ROB-COMM-0156,CASE-1075,PERSON-0779 contacted PERSON-0604 to confirm receipt.,70
+ROB-COMM-0157,CASE-0620,PERSON-0370 contacted PERSON-0184 regarding coordination.,63
+ROB-COMM-0158,CASE-0259,PERSON-0300 contacted PERSON-0715 regarding coordination.,223
+ROB-COMM-0159,CASE-0903,PERSON-0481 contacted PERSON-0491 regarding coordination.,147
+ROB-COMM-0160,CASE-0903,PERSON-0491 contacted PERSON-0481 to confirm receipt.,58
+ROB-COMM-0161,CASE-1008,PERSON-0067 contacted PERSON-0411 regarding coordination.,78
+ROB-COMM-0162,CASE-1008,PERSON-0411 contacted PERSON-0067 to confirm receipt.,58
+ROB-COMM-0163,CASE-0243,PERSON-0088 contacted PERSON-0255 regarding coordination.,202
+ROB-COMM-0164,CASE-1071,PERSON-0232 contacted PERSON-0795 regarding coordination.,157
+ROB-COMM-0165,CASE-1071,PERSON-0795 contacted PERSON-0232 to confirm receipt.,158
+ROB-COMM-0166,CASE-0124,PERSON-0583 contacted PERSON-0636 regarding coordination.,216
+ROB-COMM-0167,CASE-0167,PERSON-0271 contacted PERSON-0677 regarding coordination.,100
+ROB-COMM-0168,CASE-0167,PERSON-0677 contacted PERSON-0271 to confirm receipt.,186
+ROB-COMM-0169,CASE-0597,PERSON-0609 contacted PERSON-0482 regarding coordination.,68
+ROB-COMM-0170,CASE-0597,PERSON-0482 contacted PERSON-0609 to confirm receipt.,117
+ROB-COMM-0171,CASE-0542,PERSON-0704 contacted PERSON-0240 regarding coordination.,261
+ROB-COMM-0172,CASE-0236,PERSON-0203 contacted PERSON-0436 regarding coordination.,199
+ROB-COMM-0173,CASE-0236,PERSON-0436 contacted PERSON-0203 to confirm receipt.,83
+ROB-COMM-0174,CASE-0340,PERSON-0074 contacted PERSON-0062 regarding coordination.,262
+ROB-COMM-0175,CASE-0340,PERSON-0062 contacted PERSON-0074 to confirm receipt.,190
+ROB-COMM-0176,CASE-0623,PERSON-0480 contacted PERSON-0706 regarding coordination.,239
+ROB-COMM-0177,CASE-0623,PERSON-0706 contacted PERSON-0480 to confirm receipt.,114
+ROB-COMM-0178,CASE-0082,PERSON-0083 contacted PERSON-0613 regarding coordination.,287
+ROB-COMM-0179,CASE-0082,PERSON-0613 contacted PERSON-0083 to confirm receipt.,127
+ROB-COMM-0180,CASE-1179,PERSON-0235 contacted PERSON-0985 regarding coordination.,210
+ROB-COMM-0181,CASE-0083,PERSON-0276 contacted PERSON-0591 regarding coordination.,255
+ROB-COMM-0182,CASE-0893,PERSON-0186 contacted PERSON-0600 regarding coordination.,222
+ROB-COMM-0183,CASE-0658,PERSON-0419 contacted PERSON-0342 regarding coordination.,231
+ROB-COMM-0184,CASE-0658,PERSON-0342 contacted PERSON-0419 to confirm receipt.,86
+ROB-COMM-0185,CASE-1127,PERSON-0968 contacted PERSON-0411 regarding coordination.,69
+ROB-COMM-0186,CASE-1127,PERSON-0411 contacted PERSON-0968 to confirm receipt.,125
+ROB-COMM-0187,CASE-0003,PERSON-0886 contacted PERSON-0527 regarding coordination.,228
+ROB-COMM-0188,CASE-1021,PERSON-0638 contacted PERSON-0775 regarding coordination.,220
+ROB-COMM-0189,CASE-1021,PERSON-0775 contacted PERSON-0638 to confirm receipt.,58
+ROB-COMM-0190,CASE-0993,PERSON-0449 contacted PERSON-0902 regarding coordination.,91
+ROB-COMM-0191,CASE-0993,PERSON-0902 contacted PERSON-0449 to confirm receipt.,200
+ROB-COMM-0192,CASE-0029,PERSON-0319 contacted PERSON-0565 regarding coordination.,201
+ROB-COMM-0193,CASE-0029,PERSON-0565 contacted PERSON-0319 to confirm receipt.,102
+ROB-COMM-0194,CASE-0241,PERSON-0473 contacted PERSON-0970 regarding coordination.,225
+ROB-COMM-0195,CASE-0989,PERSON-0280 contacted PERSON-0426 regarding coordination.,180
+ROB-COMM-0196,CASE-0989,PERSON-0426 contacted PERSON-0280 to confirm receipt.,186
+ROB-COMM-0197,CASE-0280,PERSON-0765 contacted PERSON-0901 regarding coordination.,281
+ROB-COMM-0198,CASE-0280,PERSON-0901 contacted PERSON-0765 to confirm receipt.,151
+ROB-COMM-0199,CASE-0612,PERSON-0003 contacted PERSON-0290 regarding coordination.,274
+ROB-COMM-0200,CASE-0612,PERSON-0290 contacted PERSON-0003 to confirm receipt.,170
+ROB-COMM-0201,CASE-0681,PERSON-0496 contacted PERSON-0354 regarding coordination.,201
+ROB-COMM-0202,CASE-1172,PERSON-0715 contacted PERSON-0245 regarding coordination.,158
+ROB-COMM-0203,CASE-1172,PERSON-0245 contacted PERSON-0715 to confirm receipt.,150
+ROB-COMM-0204,CASE-0791,PERSON-0831 contacted PERSON-0391 regarding coordination.,229
+ROB-COMM-0205,CASE-0259,PERSON-0988 contacted PERSON-0038 regarding coordination.,188
+ROB-COMM-0206,CASE-0936,PERSON-0103 contacted PERSON-0539 regarding coordination.,63
+ROB-COMM-0207,CASE-0543,PERSON-0481 contacted PERSON-0801 regarding coordination.,146
+ROB-COMM-0208,CASE-1093,PERSON-0691 contacted PERSON-0880 regarding coordination.,157
+ROB-COMM-0209,CASE-1109,PERSON-0500 contacted PERSON-0894 regarding coordination.,69
+ROB-COMM-0210,CASE-0186,PERSON-0233 contacted PERSON-0765 regarding coordination.,171
+ROB-COMM-0211,CASE-0341,PERSON-0103 contacted PERSON-0455 regarding coordination.,237
+ROB-COMM-0212,CASE-0341,PERSON-0455 contacted PERSON-0103 to confirm receipt.,52
+ROB-COMM-0213,CASE-0299,PERSON-0384 contacted PERSON-0442 regarding coordination.,122
+ROB-COMM-0214,CASE-0299,PERSON-0442 contacted PERSON-0384 to confirm receipt.,189
+ROB-COMM-0215,CASE-1249,PERSON-0180 contacted PERSON-0081 regarding coordination.,282
+ROB-COMM-0216,CASE-1249,PERSON-0081 contacted PERSON-0180 to confirm receipt.,106
+ROB-COMM-0217,CASE-0942,PERSON-0654 contacted PERSON-0261 regarding coordination.,125
+ROB-COMM-0218,CASE-1120,PERSON-0295 contacted PERSON-0694 regarding coordination.,100
+ROB-COMM-0219,CASE-1120,PERSON-0694 contacted PERSON-0295 to confirm receipt.,133
+ROB-COMM-0220,CASE-0513,PERSON-0986 contacted PERSON-0435 regarding coordination.,176
+ROB-COMM-0221,CASE-1172,PERSON-0243 contacted PERSON-0391 regarding coordination.,151
+ROB-COMM-0222,CASE-1172,PERSON-0391 contacted PERSON-0243 to confirm receipt.,120
+ROB-COMM-0223,CASE-0101,PERSON-0009 contacted PERSON-0580 regarding coordination.,293
+ROB-COMM-0224,CASE-1244,PERSON-0819 contacted PERSON-0236 regarding coordination.,265
+ROB-COMM-0225,CASE-1244,PERSON-0236 contacted PERSON-0819 to confirm receipt.,93
+ROB-COMM-0226,CASE-0281,PERSON-0739 contacted PERSON-0786 regarding coordination.,220
+ROB-COMM-0227,CASE-0281,PERSON-0786 contacted PERSON-0739 to confirm receipt.,55
+ROB-COMM-0228,CASE-0185,PERSON-0750 contacted PERSON-0135 regarding coordination.,292
+ROB-COMM-0229,CASE-0185,PERSON-0135 contacted PERSON-0750 to confirm receipt.,151
+ROB-COMM-0230,CASE-1088,PERSON-0995 contacted PERSON-0375 regarding coordination.,188
+ROB-COMM-0231,CASE-0987,PERSON-0845 contacted PERSON-0967 regarding coordination.,266
+ROB-COMM-0232,CASE-0987,PERSON-0967 contacted PERSON-0845 to confirm receipt.,131
+ROB-COMM-0233,CASE-0463,PERSON-0078 contacted PERSON-0145 regarding coordination.,280
+ROB-COMM-0234,CASE-1142,PERSON-0867 contacted PERSON-0824 regarding coordination.,153
+ROB-COMM-0235,CASE-1142,PERSON-0824 contacted PERSON-0867 to confirm receipt.,146
+ROB-COMM-0236,CASE-0537,PERSON-0689 contacted PERSON-0767 regarding coordination.,209
+ROB-COMM-0237,CASE-0537,PERSON-0767 contacted PERSON-0689 to confirm receipt.,140
+ROB-COMM-0238,CASE-1150,PERSON-0906 contacted PERSON-0966 regarding coordination.,143
+ROB-COMM-0239,CASE-0619,PERSON-0932 contacted PERSON-0718 regarding coordination.,226
+ROB-COMM-0240,CASE-0619,PERSON-0718 contacted PERSON-0932 to confirm receipt.,80
+ROB-COMM-0241,CASE-0481,PERSON-0119 contacted PERSON-0100 regarding coordination.,287
+ROB-COMM-0242,CASE-0481,PERSON-0100 contacted PERSON-0119 to confirm receipt.,144
+ROB-COMM-0243,CASE-0859,PERSON-0969 contacted PERSON-0554 regarding coordination.,210
+ROB-COMM-0244,CASE-0836,PERSON-0502 contacted PERSON-0631 regarding coordination.,300
+ROB-COMM-0245,CASE-0743,PERSON-0974 contacted PERSON-0242 regarding coordination.,85
+ROB-COMM-0246,CASE-0566,PERSON-0063 contacted PERSON-0408 regarding coordination.,108
+ROB-COMM-0247,CASE-0435,PERSON-0094 contacted PERSON-0679 regarding coordination.,224
+ROB-COMM-0248,CASE-0258,PERSON-0342 contacted PERSON-0250 regarding coordination.,261
+ROB-COMM-0249,CASE-0258,PERSON-0250 contacted PERSON-0342 to confirm receipt.,62
+ROB-COMM-0250,CASE-0478,PERSON-0601 contacted PERSON-0222 regarding coordination.,144
+ROB-COMM-0251,CASE-0297,PERSON-0284 contacted PERSON-0880 regarding coordination.,93
+ROB-COMM-0252,CASE-0297,PERSON-0880 contacted PERSON-0284 to confirm receipt.,89
+ROB-COMM-0253,CASE-0488,PERSON-0367 contacted PERSON-0809 regarding coordination.,210
+ROB-COMM-0254,CASE-0488,PERSON-0809 contacted PERSON-0367 to confirm receipt.,89
+ROB-COMM-0255,CASE-0131,PERSON-0117 contacted PERSON-0764 regarding coordination.,181
+ROB-COMM-0256,CASE-0131,PERSON-0764 contacted PERSON-0117 to confirm receipt.,137
+ROB-COMM-0257,CASE-0089,PERSON-0516 contacted PERSON-0227 regarding coordination.,246
+ROB-COMM-0258,CASE-0064,PERSON-0470 contacted PERSON-0659 regarding coordination.,75
+ROB-COMM-0259,CASE-0909,PERSON-0111 contacted PERSON-0503 regarding coordination.,78
+ROB-COMM-0260,CASE-1199,PERSON-0640 contacted PERSON-0649 regarding coordination.,200
+ROB-COMM-0261,CASE-0882,PERSON-0518 contacted PERSON-0620 regarding coordination.,85
+ROB-COMM-0262,CASE-0441,PERSON-0565 contacted PERSON-0739 regarding coordination.,170
+ROB-COMM-0263,CASE-0441,PERSON-0739 contacted PERSON-0565 to confirm receipt.,103
+ROB-COMM-0264,CASE-0641,PERSON-0748 contacted PERSON-0098 regarding coordination.,169
+ROB-COMM-0265,CASE-0641,PERSON-0098 contacted PERSON-0748 to confirm receipt.,110
+ROB-COMM-0266,CASE-0175,PERSON-0069 contacted PERSON-0094 regarding coordination.,83
+ROB-COMM-0267,CASE-0175,PERSON-0094 contacted PERSON-0069 to confirm receipt.,140
+ROB-COMM-0268,CASE-1151,PERSON-0601 contacted PERSON-0980 regarding coordination.,203
+ROB-COMM-0269,CASE-1151,PERSON-0980 contacted PERSON-0601 to confirm receipt.,76
+ROB-COMM-0270,CASE-0106,PERSON-0434 contacted PERSON-0889 regarding coordination.,133
+ROB-COMM-0271,CASE-0460,PERSON-0673 contacted PERSON-0494 regarding coordination.,276
+ROB-COMM-0272,CASE-0460,PERSON-0494 contacted PERSON-0673 to confirm receipt.,187
+ROB-COMM-0273,CASE-1149,PERSON-0827 contacted PERSON-0440 regarding coordination.,256
+ROB-COMM-0274,CASE-0548,PERSON-0027 contacted PERSON-0624 regarding coordination.,67
+ROB-COMM-0275,CASE-0548,PERSON-0624 contacted PERSON-0027 to confirm receipt.,124
+ROB-COMM-0276,CASE-0294,PERSON-0186 contacted PERSON-0891 regarding coordination.,204
+ROB-COMM-0277,CASE-1087,PERSON-0094 contacted PERSON-0765 regarding coordination.,115
+ROB-COMM-0278,CASE-1087,PERSON-0765 contacted PERSON-0094 to confirm receipt.,161
+ROB-COMM-0279,CASE-1163,PERSON-0796 contacted PERSON-0965 regarding coordination.,212
+ROB-COMM-0280,CASE-1163,PERSON-0965 contacted PERSON-0796 to confirm receipt.,58
+ROB-COMM-0281,CASE-0908,PERSON-0084 contacted PERSON-0279 regarding coordination.,229
+ROB-COMM-0282,CASE-0908,PERSON-0279 contacted PERSON-0084 to confirm receipt.,200
+ROB-COMM-0283,CASE-0881,PERSON-0117 contacted PERSON-0354 regarding coordination.,88
+ROB-COMM-0284,CASE-0881,PERSON-0354 contacted PERSON-0117 to confirm receipt.,196
+ROB-COMM-0285,CASE-0113,PERSON-0405 contacted PERSON-0614 regarding coordination.,61
+ROB-COMM-0286,CASE-0113,PERSON-0614 contacted PERSON-0405 to confirm receipt.,99
+ROB-COMM-0287,CASE-0246,PERSON-0297 contacted PERSON-0336 regarding coordination.,61
+ROB-COMM-0288,CASE-0246,PERSON-0336 contacted PERSON-0297 to confirm receipt.,155
+ROB-COMM-0289,CASE-0726,PERSON-0513 contacted PERSON-0573 regarding coordination.,78
+ROB-COMM-0290,CASE-0726,PERSON-0573 contacted PERSON-0513 to confirm receipt.,55
+ROB-COMM-0291,CASE-0880,PERSON-0321 contacted PERSON-0590 regarding coordination.,206
+ROB-COMM-0292,CASE-0880,PERSON-0590 contacted PERSON-0321 to confirm receipt.,151
+ROB-COMM-0293,CASE-0943,PERSON-0176 contacted PERSON-0821 regarding coordination.,272
+ROB-COMM-0294,CASE-0821,PERSON-0447 contacted PERSON-0604 regarding coordination.,194
+ROB-COMM-0295,CASE-0821,PERSON-0604 contacted PERSON-0447 to confirm receipt.,124
+ROB-COMM-0296,CASE-0157,PERSON-0798 contacted PERSON-0173 regarding coordination.,190
+ROB-COMM-0297,CASE-0720,PERSON-0795 contacted PERSON-0358 regarding coordination.,246
+ROB-COMM-0298,CASE-0525,PERSON-0106 contacted PERSON-0150 regarding coordination.,110
+ROB-COMM-0299,CASE-0525,PERSON-0150 contacted PERSON-0106 to confirm receipt.,84
+ROB-COMM-0300,CASE-1012,PERSON-0182 contacted PERSON-0975 regarding coordination.,178
+ROB-COMM-0301,CASE-1157,PERSON-0947 contacted PERSON-0904 regarding coordination.,224
+ROB-COMM-0302,CASE-0310,PERSON-0643 contacted PERSON-0324 regarding coordination.,172
+ROB-COMM-0303,CASE-0310,PERSON-0324 contacted PERSON-0643 to confirm receipt.,158
+ROB-COMM-0304,CASE-0721,PERSON-0606 contacted PERSON-0058 regarding coordination.,189
+ROB-COMM-0305,CASE-0721,PERSON-0058 contacted PERSON-0606 to confirm receipt.,163
+ROB-COMM-0306,CASE-0185,PERSON-0079 contacted PERSON-0661 regarding coordination.,217
+ROB-COMM-0307,CASE-0185,PERSON-0661 contacted PERSON-0079 to confirm receipt.,143
+ROB-COMM-0308,CASE-0922,PERSON-0918 contacted PERSON-0043 regarding coordination.,292
+ROB-COMM-0309,CASE-0309,PERSON-0488 contacted PERSON-0514 regarding coordination.,75
+ROB-COMM-0310,CASE-0309,PERSON-0514 contacted PERSON-0488 to confirm receipt.,132
+ROB-COMM-0311,CASE-0081,PERSON-0662 contacted PERSON-0177 regarding coordination.,123
+ROB-COMM-0312,CASE-0746,PERSON-0625 contacted PERSON-0163 regarding coordination.,155
+ROB-COMM-0313,CASE-0686,PERSON-0054 contacted PERSON-0809 regarding coordination.,76
+ROB-COMM-0314,CASE-0686,PERSON-0809 contacted PERSON-0054 to confirm receipt.,187
+ROB-COMM-0315,CASE-1235,PERSON-0742 contacted PERSON-0873 regarding coordination.,283
+ROB-COMM-0316,CASE-1235,PERSON-0873 contacted PERSON-0742 to confirm receipt.,65
+ROB-COMM-0317,CASE-0803,PERSON-0359 contacted PERSON-0318 regarding coordination.,93
+ROB-COMM-0318,CASE-0803,PERSON-0318 contacted PERSON-0359 to confirm receipt.,66
+ROB-COMM-0319,CASE-1079,PERSON-0833 contacted PERSON-0131 regarding coordination.,83
+ROB-COMM-0320,CASE-0439,PERSON-0185 contacted PERSON-0974 regarding coordination.,147
+ROB-COMM-0321,CASE-0208,PERSON-0080 contacted PERSON-0303 regarding coordination.,189
+ROB-COMM-0322,CASE-0690,PERSON-0039 contacted PERSON-0678 regarding coordination.,284
+ROB-COMM-0323,CASE-0340,PERSON-0852 contacted PERSON-0710 regarding coordination.,244
+ROB-COMM-0324,CASE-0340,PERSON-0710 contacted PERSON-0852 to confirm receipt.,150
+ROB-COMM-0325,CASE-0920,PERSON-0626 contacted PERSON-0292 regarding coordination.,119
+ROB-COMM-0326,CASE-0920,PERSON-0292 contacted PERSON-0626 to confirm receipt.,124
+ROB-COMM-0327,CASE-0398,PERSON-0926 contacted PERSON-0856 regarding coordination.,154
+ROB-COMM-0328,CASE-0783,PERSON-0788 contacted PERSON-0289 regarding coordination.,188
+ROB-COMM-0329,CASE-0783,PERSON-0289 contacted PERSON-0788 to confirm receipt.,86
+ROB-COMM-0330,CASE-0513,PERSON-0142 contacted PERSON-0894 regarding coordination.,73
+ROB-COMM-0331,CASE-1057,PERSON-0106 contacted PERSON-0729 regarding coordination.,277
+ROB-COMM-0332,CASE-1057,PERSON-0729 contacted PERSON-0106 to confirm receipt.,66
+ROB-COMM-0333,CASE-0302,PERSON-0928 contacted PERSON-0526 regarding coordination.,272
+ROB-COMM-0334,CASE-0302,PERSON-0526 contacted PERSON-0928 to confirm receipt.,101
+ROB-COMM-0335,CASE-0850,PERSON-0953 contacted PERSON-0028 regarding coordination.,73
+ROB-COMM-0336,CASE-0850,PERSON-0028 contacted PERSON-0953 to confirm receipt.,140
+ROB-COMM-0337,CASE-0203,PERSON-0029 contacted PERSON-0327 regarding coordination.,274
+ROB-COMM-0338,CASE-0968,PERSON-0940 contacted PERSON-0850 regarding coordination.,238
+ROB-COMM-0339,CASE-0163,PERSON-0631 contacted PERSON-0006 regarding coordination.,64
+ROB-COMM-0340,CASE-0163,PERSON-0006 contacted PERSON-0631 to confirm receipt.,83
+ROB-COMM-0341,CASE-0228,PERSON-0541 contacted PERSON-0434 regarding coordination.,258
+ROB-COMM-0342,CASE-0228,PERSON-0434 contacted PERSON-0541 to confirm receipt.,122
+ROB-COMM-0343,CASE-0129,PERSON-0638 contacted PERSON-0469 regarding coordination.,88
+ROB-COMM-0344,CASE-0295,PERSON-0589 contacted PERSON-0248 regarding coordination.,134
+ROB-COMM-0345,CASE-0295,PERSON-0248 contacted PERSON-0589 to confirm receipt.,135
+ROB-COMM-0346,CASE-0739,PERSON-0088 contacted PERSON-0537 regarding coordination.,77
+ROB-COMM-0347,CASE-0042,PERSON-0520 contacted PERSON-0568 regarding coordination.,159
+ROB-COMM-0348,CASE-0732,PERSON-0766 contacted PERSON-0017 regarding coordination.,261
+ROB-COMM-0349,CASE-0732,PERSON-0017 contacted PERSON-0766 to confirm receipt.,106
+ROB-COMM-0350,CASE-0681,PERSON-0791 contacted PERSON-0596 regarding coordination.,94
+ROB-COMM-0351,CASE-0681,PERSON-0596 contacted PERSON-0791 to confirm receipt.,184
+ROB-COMM-0352,CASE-0981,PERSON-0702 contacted PERSON-0476 regarding coordination.,221
+ROB-COMM-0353,CASE-0981,PERSON-0476 contacted PERSON-0702 to confirm receipt.,79
+ROB-COMM-0354,CASE-0090,PERSON-0301 contacted PERSON-0207 regarding coordination.,262
+ROB-COMM-0355,CASE-0090,PERSON-0207 contacted PERSON-0301 to confirm receipt.,55
+ROB-COMM-0356,CASE-0970,PERSON-0835 contacted PERSON-0557 regarding coordination.,124
+ROB-COMM-0357,CASE-0970,PERSON-0557 contacted PERSON-0835 to confirm receipt.,93
+ROB-COMM-0358,CASE-0560,PERSON-0672 contacted PERSON-0340 regarding coordination.,91
+ROB-COMM-0359,CASE-0695,PERSON-0980 contacted PERSON-0396 regarding coordination.,107
+ROB-COMM-0360,CASE-0695,PERSON-0396 contacted PERSON-0980 to confirm receipt.,172
+ROB-COMM-0361,CASE-0870,PERSON-0085 contacted PERSON-0745 regarding coordination.,80
+ROB-COMM-0362,CASE-0870,PERSON-0745 contacted PERSON-0085 to confirm receipt.,91
+ROB-COMM-0363,CASE-0606,PERSON-0082 contacted PERSON-0336 regarding coordination.,138
+ROB-COMM-0364,CASE-0606,PERSON-0336 contacted PERSON-0082 to confirm receipt.,154
+ROB-COMM-0365,CASE-0723,PERSON-0745 contacted PERSON-0891 regarding coordination.,217
+ROB-COMM-0366,CASE-0832,PERSON-0077 contacted PERSON-0688 regarding coordination.,153
+ROB-COMM-0367,CASE-0832,PERSON-0688 contacted PERSON-0077 to confirm receipt.,85
+ROB-COMM-0368,CASE-0898,PERSON-0623 contacted PERSON-0695 regarding coordination.,68
+ROB-COMM-0369,CASE-0898,PERSON-0695 contacted PERSON-0623 to confirm receipt.,105
+ROB-COMM-0370,CASE-1162,PERSON-0393 contacted PERSON-0973 regarding coordination.,68
+ROB-COMM-0371,CASE-0158,PERSON-0381 contacted PERSON-0455 regarding coordination.,206
+ROB-COMM-0372,CASE-0158,PERSON-0455 contacted PERSON-0381 to confirm receipt.,138
+ROB-COMM-0373,CASE-0382,PERSON-0117 contacted PERSON-0027 regarding coordination.,187
+ROB-COMM-0374,CASE-0382,PERSON-0027 contacted PERSON-0117 to confirm receipt.,188
+ROB-COMM-0375,CASE-0585,PERSON-0220 contacted PERSON-0627 regarding coordination.,237
+ROB-COMM-0376,CASE-0912,PERSON-0463 contacted PERSON-0177 regarding coordination.,82
+ROB-COMM-0377,CASE-0133,PERSON-0684 contacted PERSON-0356 regarding coordination.,200
+ROB-COMM-0378,CASE-0133,PERSON-0356 contacted PERSON-0684 to confirm receipt.,121
+ROB-COMM-0379,CASE-0357,PERSON-0950 contacted PERSON-0718 regarding coordination.,263
+ROB-COMM-0380,CASE-0357,PERSON-0718 contacted PERSON-0950 to confirm receipt.,102
+ROB-COMM-0381,CASE-0054,PERSON-0810 contacted PERSON-0506 regarding coordination.,152
+ROB-COMM-0382,CASE-0054,PERSON-0506 contacted PERSON-0810 to confirm receipt.,139
+ROB-COMM-0383,CASE-0135,PERSON-0906 contacted PERSON-0089 regarding coordination.,139
+ROB-COMM-0384,CASE-0135,PERSON-0089 contacted PERSON-0906 to confirm receipt.,167
+ROB-COMM-0385,CASE-0152,PERSON-0844 contacted PERSON-0589 regarding coordination.,92
+ROB-COMM-0386,CASE-0706,PERSON-0697 contacted PERSON-0530 regarding coordination.,92
+ROB-COMM-0387,CASE-0265,PERSON-0187 contacted PERSON-0787 regarding coordination.,170
+ROB-COMM-0388,CASE-0265,PERSON-0787 contacted PERSON-0187 to confirm receipt.,59
+ROB-COMM-0389,CASE-0332,PERSON-0312 contacted PERSON-0169 regarding coordination.,142
+ROB-COMM-0390,CASE-0162,PERSON-0291 contacted PERSON-0867 regarding coordination.,124
+ROB-COMM-0391,CASE-0162,PERSON-0867 contacted PERSON-0291 to confirm receipt.,186
+ROB-COMM-0392,CASE-0346,PERSON-0096 contacted PERSON-0515 regarding coordination.,211
+ROB-COMM-0393,CASE-1151,PERSON-0053 contacted PERSON-0584 once (misdial / wrong number).,4
+ROB-COMM-0394,CASE-1134,PERSON-0200 contacted PERSON-0372 once (misdial / wrong number).,4
+ROB-COMM-0395,CASE-0792,PERSON-0296 contacted PERSON-0076 once (misdial / wrong number).,4
+ROB-COMM-0396,CASE-1127,PERSON-0517 contacted PERSON-0462 once (misdial / wrong number).,4
+ROB-COMM-0397,CASE-0244,PERSON-0287 contacted PERSON-0846 once (misdial / wrong number).,4
+ROB-COMM-0398,CASE-0199,PERSON-0132 contacted PERSON-0999 once (misdial / wrong number).,4
+ROB-COMM-0399,CASE-0695,PERSON-0404 contacted PERSON-0383 once (misdial / wrong number).,4
+ROB-COMM-0400,CASE-0749,PERSON-0572 contacted PERSON-0962 once (misdial / wrong number).,4
+ROB-COMM-0401,CASE-0408,PERSON-0774 contacted PERSON-0148 once (misdial / wrong number).,4
+ROB-COMM-0402,CASE-0823,PERSON-0617 contacted PERSON-0522 once (misdial / wrong number).,4
+ROB-COMM-0403,CASE-0093,PERSON-0513 contacted PERSON-0042 once (misdial / wrong number).,4
+ROB-COMM-0404,CASE-0683,PERSON-0040 contacted PERSON-0141 once (misdial / wrong number).,4
+ROB-COMM-0405,CASE-1064,PERSON-0824 contacted PERSON-0486 once (misdial / wrong number).,4
+ROB-COMM-0406,CASE-1242,PERSON-0468 contacted PERSON-0153 once (misdial / wrong number).,4
+ROB-COMM-0407,CASE-0287,PERSON-0915 contacted PERSON-0528 once (misdial / wrong number).,4
+ROB-COMM-0408,CASE-0653,PERSON-0336 contacted PERSON-0954 once (misdial / wrong number).,4
+ROB-COMM-0409,CASE-0613,PERSON-0167 contacted PERSON-0403 once (misdial / wrong number).,4
+ROB-COMM-0410,CASE-1039,PERSON-0608 contacted PERSON-0345 once (misdial / wrong number).,4
+ROB-COMM-0411,CASE-1091,PERSON-0849 contacted PERSON-0522 once (misdial / wrong number).,4
+ROB-COMM-0412,CASE-1153,PERSON-0502 contacted PERSON-0726 once (misdial / wrong number).,4
+ROB-COMM-0413,CASE-0590,PERSON-0298 contacted PERSON-0044 unprompted; unanswered incoming call.,0
+ROB-COMM-0414,CASE-0162,PERSON-0979 contacted PERSON-0732 unprompted; unanswered incoming call.,0
+ROB-COMM-0415,CASE-0906,PERSON-0355 contacted PERSON-0947 unprompted; unanswered incoming call.,0
+ROB-COMM-0416,CASE-0982,PERSON-0672 contacted PERSON-0263 unprompted; unanswered incoming call.,0
+ROB-COMM-0417,CASE-1104,PERSON-0220 contacted PERSON-0207 unprompted; unanswered incoming call.,0
+ROB-COMM-0418,CASE-1152,PERSON-0278 contacted PERSON-0956 unprompted; unanswered incoming call.,0
+ROB-COMM-0419,CASE-0282,PERSON-0713 contacted PERSON-0279 unprompted; unanswered incoming call.,0
+ROB-COMM-0420,CASE-1202,PERSON-0112 contacted PERSON-0631 unprompted; unanswered incoming call.,0
+ROB-COMM-0421,CASE-0104,PERSON-0246 contacted PERSON-0249 unprompted; unanswered incoming call.,0
+ROB-COMM-0422,CASE-1088,PERSON-0686 contacted PERSON-0927 unprompted; unanswered incoming call.,0
+ROB-COMM-0423,CASE-0477,PERSON-0232 contacted PERSON-0654 unprompted; unanswered incoming call.,0
+ROB-COMM-0424,CASE-0847,PERSON-0054 contacted PERSON-0103 unprompted; unanswered incoming call.,0
+ROB-COMM-0425,CASE-0968,PERSON-0339 contacted PERSON-0735 unprompted; unanswered incoming call.,0
+ROB-COMM-0426,CASE-0282,PERSON-0103 contacted PERSON-0698 unprompted; unanswered incoming call.,0
+ROB-COMM-0427,CASE-1128,PERSON-0006 contacted PERSON-0988 unprompted; unanswered incoming call.,0
+ROB-COMM-0428,CASE-1015,PERSON-0857 contacted PERSON-0407 inquiring about apartment rent.,18
+ROB-COMM-0429,CASE-0593,PERSON-0191 contacted PERSON-0960 inquiring about apartment rent.,18
+ROB-COMM-0430,CASE-0019,PERSON-0898 contacted PERSON-0039 inquiring about apartment rent.,18
+ROB-COMM-0431,CASE-1235,PERSON-0306 contacted PERSON-0582 inquiring about apartment rent.,18
+ROB-COMM-0432,CASE-0687,PERSON-0110 contacted PERSON-0951 inquiring about apartment rent.,18
+ROB-COMM-0433,CASE-1113,PERSON-0292 contacted PERSON-0466 inquiring about apartment rent.,18
+ROB-COMM-0434,CASE-0275,PERSON-0537 contacted PERSON-0506 inquiring about apartment rent.,18
+ROB-COMM-0435,CASE-0959,PERSON-0872 contacted PERSON-0517 inquiring about apartment rent.,18
+ROB-COMM-0436,CASE-0231,PERSON-0280 contacted PERSON-0198 inquiring about apartment rent.,18
+ROB-COMM-0437,CASE-0940,PERSON-0339 contacted PERSON-0167 inquiring about apartment rent.,18
+ROB-COMM-0438,CASE-0382,PERSON-0664 contacted PERSON-0264 inquiring about apartment rent.,18
+ROB-COMM-0439,CASE-0691,PERSON-0015 contacted PERSON-0755 inquiring about apartment rent.,18
+ROB-COMM-0440,CASE-1163,PERSON-0810 contacted PERSON-0303 inquiring about apartment rent.,18
+ROB-COMM-0441,CASE-0396,PERSON-0691 contacted PERSON-0776 inquiring about apartment rent.,18
+ROB-COMM-0442,CASE-0831,PERSON-0180 contacted PERSON-0626 inquiring about apartment rent.,18
+ROB-COMM-0443,CASE-1056,PERSON-0847 contacted PERSON-0438 regarding taxi service.,45
+ROB-COMM-0444,CASE-0821,PERSON-0336 contacted PERSON-0089 regarding taxi service.,45
+ROB-COMM-0445,CASE-0379,PERSON-0686 contacted PERSON-0098 regarding taxi service.,45
+ROB-COMM-0446,CASE-0663,PERSON-0144 contacted PERSON-0489 regarding taxi service.,45
+ROB-COMM-0447,CASE-0014,PERSON-0959 contacted PERSON-0255 regarding taxi service.,45
+ROB-COMM-0448,CASE-0483,PERSON-0268 contacted PERSON-0393 regarding taxi service.,45
+ROB-COMM-0449,CASE-0547,PERSON-0458 contacted PERSON-0772 regarding taxi service.,45
+ROB-COMM-0450,CASE-0619,PERSON-0977 contacted PERSON-0338 regarding taxi service.,45
+ROB-COMM-0451,CASE-1174,PERSON-0597 contacted PERSON-0741 regarding taxi service.,45
+ROB-COMM-0452,CASE-0737,PERSON-0012 contacted PERSON-0268 regarding taxi service.,45
+ROB-COMM-0453,CASE-0128,PERSON-0710 contacted PERSON-0242 regarding taxi service.,45
+ROB-COMM-0454,CASE-0954,PERSON-0684 contacted PERSON-0122 regarding taxi service.,45
+ROB-COMM-0455,CASE-0831,PERSON-0315 contacted PERSON-0164 regarding taxi service.,45
+ROB-COMM-0456,CASE-0637,PERSON-0703 contacted PERSON-0515 regarding taxi service.,45
+ROB-COMM-0457,CASE-0605,PERSON-0707 contacted PERSON-0121 regarding taxi service.,45
+ROB-COMM-0458,CASE-0138,PERSON-0247 contacted PERSON-0212 regarding dispute.,30
+ROB-COMM-0459,CASE-0069,PERSON-0104 contacted PERSON-0609 regarding dispute.,30
+ROB-COMM-0460,CASE-0100,PERSON-0458 contacted PERSON-0613 regarding dispute.,30
+ROB-COMM-0461,CASE-0091,PERSON-0251 contacted PERSON-0759 regarding dispute.,30
+ROB-COMM-0462,CASE-0480,PERSON-0412 contacted PERSON-0450 regarding dispute.,30
+ROB-COMM-0463,CASE-0116,PERSON-0553 contacted PERSON-0223 regarding dispute.,30
+ROB-COMM-0464,CASE-0593,PERSON-0144 contacted PERSON-0516 regarding dispute.,30
+ROB-COMM-0465,CASE-1180,PERSON-0240 contacted PERSON-0836 regarding dispute.,30
+ROB-COMM-0466,CASE-1225,PERSON-0327 contacted PERSON-0592 regarding dispute.,30
+ROB-COMM-0467,CASE-0657,PERSON-0792 contacted PERSON-0689 regarding dispute.,30
+ROB-COMM-0468,CASE-0294,PERSON-0243 contacted PERSON-0310 regarding dispute.,30
+ROB-COMM-0469,CASE-0453,PERSON-0677 contacted PERSON-0534 regarding dispute.,30
+ROB-COMM-0470,CASE-0564,PERSON-0424 contacted PERSON-0308 regarding dispute.,30
+ROB-COMM-0471,CASE-1212,PERSON-0063 contacted PERSON-0571 regarding dispute.,30
+ROB-COMM-0472,CASE-0359,PERSON-0901 contacted PERSON-0753 regarding dispute.,30

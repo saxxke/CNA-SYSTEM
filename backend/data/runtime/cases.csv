@@ -1,0 +1,2 @@
+case_id,case_title,offence_category,legal_section,fir_number,date_opened,description,status,police_station,district,state,location_id,created_at,created_by
+CASE-251,Audit Test Incident,Extortion,Not Specified,,2026-09-02,Synthesized incident for audit verification,OPEN,Civil Lines PS,Raipur,Chhattisgarh,,2026-10-14T12:13:09.295443,prototype-user

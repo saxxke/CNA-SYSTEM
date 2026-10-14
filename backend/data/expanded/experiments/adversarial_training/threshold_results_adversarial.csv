@@ -1,0 +1,17 @@
+model,threshold,precision,recall,f1_score,false_positive_rate,false_negative_rate,tp,fp,tn,fn
+Adv_LogReg_11_Scaled,0.5,1.0,1.0,1.0,0.0,0.0,74,0,95,0
+Adv_LogReg_11_Scaled,0.6,1.0,1.0,1.0,0.0,0.0,74,0,95,0
+Adv_LogReg_11_Scaled,0.7,1.0,0.9189,0.9577,0.0,0.0811,68,0,95,6
+Adv_LogReg_11_Scaled,0.8,1.0,0.8243,0.9037,0.0,0.1757,61,0,95,13
+Adv_RandomForest_11,0.5,1.0,1.0,1.0,0.0,0.0,74,0,95,0
+Adv_RandomForest_11,0.6,1.0,1.0,1.0,0.0,0.0,74,0,95,0
+Adv_RandomForest_11,0.7,1.0,1.0,1.0,0.0,0.0,74,0,95,0
+Adv_RandomForest_11,0.8,1.0,1.0,1.0,0.0,0.0,74,0,95,0
+Adv_HistGradientBoosting_11,0.5,1.0,1.0,1.0,0.0,0.0,74,0,95,0
+Adv_HistGradientBoosting_11,0.6,1.0,1.0,1.0,0.0,0.0,74,0,95,0
+Adv_HistGradientBoosting_11,0.7,1.0,1.0,1.0,0.0,0.0,74,0,95,0
+Adv_HistGradientBoosting_11,0.8,1.0,1.0,1.0,0.0,0.0,74,0,95,0
+Adv_Calibrated_RF_11,0.5,1.0,1.0,1.0,0.0,0.0,74,0,95,0
+Adv_Calibrated_RF_11,0.6,1.0,1.0,1.0,0.0,0.0,74,0,95,0
+Adv_Calibrated_RF_11,0.7,1.0,1.0,1.0,0.0,0.0,74,0,95,0
+Adv_Calibrated_RF_11,0.8,1.0,1.0,1.0,0.0,0.0,74,0,95,0

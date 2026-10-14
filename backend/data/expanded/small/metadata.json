@@ -1,0 +1,21 @@
+{
+  "profile": "SMALL",
+  "seed": 42,
+  "generation_time_seconds": 0.077,
+  "disclaimer": "SYNTHETIC DEMONSTRATION DATA. Fully fictional investigation records generated for model training and benchmarking. Does not represent real persons, cases, or surveillance data.",
+  "record_counts": {
+    "cases.csv": 1250,
+    "persons.csv": 1000,
+    "case_persons.csv": 1800,
+    "phones.csv": 500,
+    "bank_accounts.csv": 450,
+    "vehicles.csv": 350,
+    "locations.csv": 250,
+    "organizations.csv": 150,
+    "aliases.csv": 200,
+    "families.csv": 350,
+    "communications.csv": 599,
+    "transactions.csv": 450,
+    "ground_truth.csv": 1000
+  }
+}

@@ -1,0 +1,251 @@
+location_id,city,district,state,pincode,police_station
+LOCATION-0001,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0002,Kolkata,Kolkata,West Bengal,700001,Park Street
+LOCATION-0003,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0004,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0005,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0006,Siliguri,Darjeeling,West Bengal,734001,Siliguri PS
+LOCATION-0007,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0008,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0009,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0010,Lucknow,Lucknow,Uttar Pradesh,226001,Hazratganj
+LOCATION-0011,Delhi,South Delhi,Delhi,110017,Hauz Khas
+LOCATION-0012,Kolkata,Kolkata,West Bengal,700019,Ballygunge
+LOCATION-0013,Kolkata,Kolkata,West Bengal,700001,Park Street
+LOCATION-0014,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0015,Bilaspur,Bilaspur,Chhattisgarh,495001,City Kotwali
+LOCATION-0016,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0017,Surat,Surat,Gujarat,395001,Varachha
+LOCATION-0018,Varanasi,Varanasi,Uttar Pradesh,221001,Dashashwamedh
+LOCATION-0019,Kolkata,Kolkata,West Bengal,700001,Park Street
+LOCATION-0020,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0021,Bilaspur,Bilaspur,Chhattisgarh,495001,City Kotwali
+LOCATION-0022,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0023,Delhi,South Delhi,Delhi,110017,Hauz Khas
+LOCATION-0024,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0025,Delhi,East Delhi,Delhi,110092,Preet Vihar
+LOCATION-0026,Lucknow,Lucknow,Uttar Pradesh,226001,Hazratganj
+LOCATION-0027,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0028,Kolkata,Kolkata,West Bengal,700001,Park Street
+LOCATION-0029,Raipur,Raipur,Chhattisgarh,492001,Civil Lines
+LOCATION-0030,Delhi,South Delhi,Delhi,110017,Hauz Khas
+LOCATION-0031,Pune,Pune,Maharashtra,411001,Shivajinagar
+LOCATION-0032,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0033,Siliguri,Darjeeling,West Bengal,734001,Siliguri PS
+LOCATION-0034,Bilaspur,Bilaspur,Chhattisgarh,495001,City Kotwali
+LOCATION-0035,Pune,Pune,Maharashtra,411001,Shivajinagar
+LOCATION-0036,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0037,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0038,Delhi,Central Delhi,Delhi,110001,Connaught Place
+LOCATION-0039,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0040,Nagpur,Nagpur,Maharashtra,440001,Sitabuldi
+LOCATION-0041,Nagpur,Nagpur,Maharashtra,440001,Sitabuldi
+LOCATION-0042,Varanasi,Varanasi,Uttar Pradesh,221001,Dashashwamedh
+LOCATION-0043,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0044,Kolkata,Kolkata,West Bengal,700019,Ballygunge
+LOCATION-0045,Delhi,East Delhi,Delhi,110092,Preet Vihar
+LOCATION-0046,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0047,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0048,Delhi,Central Delhi,Delhi,110001,Connaught Place
+LOCATION-0049,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0050,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0051,Mumbai,Mumbai Suburban,Maharashtra,400050,Bandra
+LOCATION-0052,Varanasi,Varanasi,Uttar Pradesh,221001,Dashashwamedh
+LOCATION-0053,Nagpur,Nagpur,Maharashtra,440001,Sitabuldi
+LOCATION-0054,Lucknow,Lucknow,Uttar Pradesh,226001,Hazratganj
+LOCATION-0055,Bilaspur,Bilaspur,Chhattisgarh,495001,City Kotwali
+LOCATION-0056,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0057,Kolkata,Kolkata,West Bengal,700019,Ballygunge
+LOCATION-0058,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0059,Mumbai,Mumbai Suburban,Maharashtra,400050,Bandra
+LOCATION-0060,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0061,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0062,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0063,Delhi,Central Delhi,Delhi,110001,Connaught Place
+LOCATION-0064,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0065,Delhi,East Delhi,Delhi,110092,Preet Vihar
+LOCATION-0066,Nagpur,Nagpur,Maharashtra,440001,Sitabuldi
+LOCATION-0067,Raipur,Raipur,Chhattisgarh,492001,Civil Lines
+LOCATION-0068,Nagpur,Nagpur,Maharashtra,440001,Sitabuldi
+LOCATION-0069,Nagpur,Nagpur,Maharashtra,440001,Sitabuldi
+LOCATION-0070,Bilaspur,Bilaspur,Chhattisgarh,495001,City Kotwali
+LOCATION-0071,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0072,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0073,Varanasi,Varanasi,Uttar Pradesh,221001,Dashashwamedh
+LOCATION-0074,Raipur,Raipur,Chhattisgarh,492001,Civil Lines
+LOCATION-0075,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0076,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0077,Raipur,Raipur,Chhattisgarh,492001,Civil Lines
+LOCATION-0078,Delhi,East Delhi,Delhi,110092,Preet Vihar
+LOCATION-0079,Delhi,Central Delhi,Delhi,110001,Connaught Place
+LOCATION-0080,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0081,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0082,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0083,Pune,Pune,Maharashtra,411001,Shivajinagar
+LOCATION-0084,Kolkata,Kolkata,West Bengal,700019,Ballygunge
+LOCATION-0085,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0086,Kolkata,Kolkata,West Bengal,700019,Ballygunge
+LOCATION-0087,Pune,Pune,Maharashtra,411001,Shivajinagar
+LOCATION-0088,Delhi,Central Delhi,Delhi,110001,Connaught Place
+LOCATION-0089,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0090,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0091,Bilaspur,Bilaspur,Chhattisgarh,495001,City Kotwali
+LOCATION-0092,Lucknow,Lucknow,Uttar Pradesh,226001,Hazratganj
+LOCATION-0093,Pune,Pune,Maharashtra,411001,Shivajinagar
+LOCATION-0094,Bilaspur,Bilaspur,Chhattisgarh,495001,City Kotwali
+LOCATION-0095,Ahmedabad,Ahmedabad,Gujarat,380001,Ellis Bridge
+LOCATION-0096,Delhi,Central Delhi,Delhi,110001,Connaught Place
+LOCATION-0097,Delhi,East Delhi,Delhi,110092,Preet Vihar
+LOCATION-0098,Siliguri,Darjeeling,West Bengal,734001,Siliguri PS
+LOCATION-0099,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0100,Siliguri,Darjeeling,West Bengal,734001,Siliguri PS
+LOCATION-0101,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0102,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0103,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0104,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0105,Lucknow,Lucknow,Uttar Pradesh,226001,Hazratganj
+LOCATION-0106,Delhi,South Delhi,Delhi,110017,Hauz Khas
+LOCATION-0107,Lucknow,Lucknow,Uttar Pradesh,226001,Hazratganj
+LOCATION-0108,Delhi,Central Delhi,Delhi,110001,Connaught Place
+LOCATION-0109,Nagpur,Nagpur,Maharashtra,440001,Sitabuldi
+LOCATION-0110,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0111,Siliguri,Darjeeling,West Bengal,734001,Siliguri PS
+LOCATION-0112,Surat,Surat,Gujarat,395001,Varachha
+LOCATION-0113,Ahmedabad,Ahmedabad,Gujarat,380001,Ellis Bridge
+LOCATION-0114,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0115,Kolkata,Kolkata,West Bengal,700019,Ballygunge
+LOCATION-0116,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0117,Siliguri,Darjeeling,West Bengal,734001,Siliguri PS
+LOCATION-0118,Raipur,Raipur,Chhattisgarh,492001,Civil Lines
+LOCATION-0119,Delhi,South Delhi,Delhi,110017,Hauz Khas
+LOCATION-0120,Varanasi,Varanasi,Uttar Pradesh,221001,Dashashwamedh
+LOCATION-0121,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0122,Delhi,Central Delhi,Delhi,110001,Connaught Place
+LOCATION-0123,Delhi,Central Delhi,Delhi,110001,Connaught Place
+LOCATION-0124,Varanasi,Varanasi,Uttar Pradesh,221001,Dashashwamedh
+LOCATION-0125,Delhi,East Delhi,Delhi,110092,Preet Vihar
+LOCATION-0126,Surat,Surat,Gujarat,395001,Varachha
+LOCATION-0127,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0128,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0129,Kolkata,Kolkata,West Bengal,700001,Park Street
+LOCATION-0130,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0131,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0132,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0133,Pune,Pune,Maharashtra,411001,Shivajinagar
+LOCATION-0134,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0135,Mumbai,Mumbai Suburban,Maharashtra,400050,Bandra
+LOCATION-0136,Delhi,South Delhi,Delhi,110017,Hauz Khas
+LOCATION-0137,Raipur,Raipur,Chhattisgarh,492001,Civil Lines
+LOCATION-0138,Delhi,East Delhi,Delhi,110092,Preet Vihar
+LOCATION-0139,Kolkata,Kolkata,West Bengal,700001,Park Street
+LOCATION-0140,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0141,Surat,Surat,Gujarat,395001,Varachha
+LOCATION-0142,Raipur,Raipur,Chhattisgarh,492001,Civil Lines
+LOCATION-0143,Surat,Surat,Gujarat,395001,Varachha
+LOCATION-0144,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0145,Mumbai,Mumbai Suburban,Maharashtra,400050,Bandra
+LOCATION-0146,Surat,Surat,Gujarat,395001,Varachha
+LOCATION-0147,Varanasi,Varanasi,Uttar Pradesh,221001,Dashashwamedh
+LOCATION-0148,Bilaspur,Bilaspur,Chhattisgarh,495001,City Kotwali
+LOCATION-0149,Siliguri,Darjeeling,West Bengal,734001,Siliguri PS
+LOCATION-0150,Nagpur,Nagpur,Maharashtra,440001,Sitabuldi
+LOCATION-0151,Raipur,Raipur,Chhattisgarh,492001,Civil Lines
+LOCATION-0152,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0153,Surat,Surat,Gujarat,395001,Varachha
+LOCATION-0154,Kolkata,Kolkata,West Bengal,700001,Park Street
+LOCATION-0155,Varanasi,Varanasi,Uttar Pradesh,221001,Dashashwamedh
+LOCATION-0156,Pune,Pune,Maharashtra,411001,Shivajinagar
+LOCATION-0157,Ahmedabad,Ahmedabad,Gujarat,380001,Ellis Bridge
+LOCATION-0158,Kolkata,Kolkata,West Bengal,700001,Park Street
+LOCATION-0159,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0160,Nagpur,Nagpur,Maharashtra,440001,Sitabuldi
+LOCATION-0161,Mumbai,Mumbai Suburban,Maharashtra,400050,Bandra
+LOCATION-0162,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0163,Kolkata,Kolkata,West Bengal,700019,Ballygunge
+LOCATION-0164,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0165,Lucknow,Lucknow,Uttar Pradesh,226001,Hazratganj
+LOCATION-0166,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0167,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0168,Ahmedabad,Ahmedabad,Gujarat,380001,Ellis Bridge
+LOCATION-0169,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0170,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0171,Siliguri,Darjeeling,West Bengal,734001,Siliguri PS
+LOCATION-0172,Siliguri,Darjeeling,West Bengal,734001,Siliguri PS
+LOCATION-0173,Ahmedabad,Ahmedabad,Gujarat,380001,Ellis Bridge
+LOCATION-0174,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0175,Raipur,Raipur,Chhattisgarh,492001,Civil Lines
+LOCATION-0176,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0177,Surat,Surat,Gujarat,395001,Varachha
+LOCATION-0178,Varanasi,Varanasi,Uttar Pradesh,221001,Dashashwamedh
+LOCATION-0179,Delhi,South Delhi,Delhi,110017,Hauz Khas
+LOCATION-0180,Bilaspur,Bilaspur,Chhattisgarh,495001,City Kotwali
+LOCATION-0181,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0182,Bilaspur,Bilaspur,Chhattisgarh,495001,City Kotwali
+LOCATION-0183,Mumbai,Mumbai Suburban,Maharashtra,400050,Bandra
+LOCATION-0184,Delhi,Central Delhi,Delhi,110001,Connaught Place
+LOCATION-0185,Nagpur,Nagpur,Maharashtra,440001,Sitabuldi
+LOCATION-0186,Delhi,East Delhi,Delhi,110092,Preet Vihar
+LOCATION-0187,Surat,Surat,Gujarat,395001,Varachha
+LOCATION-0188,Delhi,East Delhi,Delhi,110092,Preet Vihar
+LOCATION-0189,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0190,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0191,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0192,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0193,Pune,Pune,Maharashtra,411001,Shivajinagar
+LOCATION-0194,Kolkata,Kolkata,West Bengal,700001,Park Street
+LOCATION-0195,Lucknow,Lucknow,Uttar Pradesh,226001,Hazratganj
+LOCATION-0196,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0197,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0198,Lucknow,Lucknow,Uttar Pradesh,226001,Hazratganj
+LOCATION-0199,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0200,Kolkata,Kolkata,West Bengal,700001,Park Street
+LOCATION-0201,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0202,Kolkata,Kolkata,West Bengal,700019,Ballygunge
+LOCATION-0203,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0204,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0205,Kolkata,Kolkata,West Bengal,700019,Ballygunge
+LOCATION-0206,Pune,Pune,Maharashtra,411001,Shivajinagar
+LOCATION-0207,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0208,Surat,Surat,Gujarat,395001,Varachha
+LOCATION-0209,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0210,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0211,Ahmedabad,Ahmedabad,Gujarat,380001,Ellis Bridge
+LOCATION-0212,Bilaspur,Bilaspur,Chhattisgarh,495001,City Kotwali
+LOCATION-0213,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0214,Siliguri,Darjeeling,West Bengal,734001,Siliguri PS
+LOCATION-0215,Lucknow,Lucknow,Uttar Pradesh,226001,Hazratganj
+LOCATION-0216,Lucknow,Lucknow,Uttar Pradesh,226001,Hazratganj
+LOCATION-0217,Ahmedabad,Ahmedabad,Gujarat,380001,Ellis Bridge
+LOCATION-0218,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0219,Ahmedabad,Ahmedabad,Gujarat,380001,Ellis Bridge
+LOCATION-0220,Delhi,South Delhi,Delhi,110017,Hauz Khas
+LOCATION-0221,Bilaspur,Bilaspur,Chhattisgarh,495001,City Kotwali
+LOCATION-0222,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0223,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0224,Delhi,South Delhi,Delhi,110017,Hauz Khas
+LOCATION-0225,Nagpur,Nagpur,Maharashtra,440001,Sitabuldi
+LOCATION-0226,Delhi,South Delhi,Delhi,110017,Hauz Khas
+LOCATION-0227,Delhi,South Delhi,Delhi,110017,Hauz Khas
+LOCATION-0228,Delhi,East Delhi,Delhi,110092,Preet Vihar
+LOCATION-0229,Kolkata,Kolkata,West Bengal,700019,Ballygunge
+LOCATION-0230,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0231,Kolkata,Kolkata,West Bengal,700019,Ballygunge
+LOCATION-0232,Delhi,Central Delhi,Delhi,110001,Connaught Place
+LOCATION-0233,Pune,Pune,Maharashtra,411001,Shivajinagar
+LOCATION-0234,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0235,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0236,Bilaspur,Bilaspur,Chhattisgarh,495001,City Kotwali
+LOCATION-0237,Bilaspur,Bilaspur,Chhattisgarh,495001,City Kotwali
+LOCATION-0238,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0239,Delhi,East Delhi,Delhi,110092,Preet Vihar
+LOCATION-0240,Siliguri,Darjeeling,West Bengal,734001,Siliguri PS
+LOCATION-0241,Delhi,South Delhi,Delhi,110017,Hauz Khas
+LOCATION-0242,Raipur,Raipur,Chhattisgarh,492001,Civil Lines
+LOCATION-0243,Mumbai,Mumbai City,Maharashtra,400001,Colaba
+LOCATION-0244,Delhi,East Delhi,Delhi,110092,Preet Vihar
+LOCATION-0245,Durg,Durg,Chhattisgarh,491001,Durg Sadar
+LOCATION-0246,Kolkata,Kolkata,West Bengal,700007,Burrabazar
+LOCATION-0247,Delhi,East Delhi,Delhi,110092,Preet Vihar
+LOCATION-0248,Chennai,Chennai,Tamil Nadu,600001,Flower Bazaar
+LOCATION-0249,Howrah,Howrah,West Bengal,711101,Howrah Town
+LOCATION-0250,Kolkata,Kolkata,West Bengal,700019,Ballygunge

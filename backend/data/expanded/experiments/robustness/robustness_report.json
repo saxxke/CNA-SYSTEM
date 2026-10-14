@@ -1,0 +1,218 @@
+{
+  "robustness_metadata": {
+    "evaluation_corpus": "500-pair hard-negative adversarial dataset (250 pos, 250 neg)",
+    "scenarios_tested": 15,
+    "zero_leakage": true
+  },
+  "step23_models_on_robustness_corpus": {
+    "LogReg_7_Baseline": {
+      "model_name": "LogReg_7_Baseline",
+      "feature_count": 7,
+      "precision": 0.5602,
+      "recall": 0.968,
+      "f1_score": 0.7097,
+      "roc_auc": 0.8297,
+      "pr_auc": 0.8321,
+      "brier_score": 0.2874,
+      "false_positive_rate": 0.76,
+      "inference_time_ms_per_1k": 0.5162,
+      "confusion_matrix": {
+        "tp": 242,
+        "fp": 190,
+        "tn": 60,
+        "fn": 8
+      }
+    },
+    "LogReg_11_Scaled": {
+      "model_name": "LogReg_11_Scaled",
+      "feature_count": 11,
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6667,
+      "roc_auc": 0.6,
+      "pr_auc": 0.5556,
+      "brier_score": 0.5,
+      "false_positive_rate": 1.0,
+      "inference_time_ms_per_1k": 1.706,
+      "confusion_matrix": {
+        "tp": 250,
+        "fp": 250,
+        "tn": 0,
+        "fn": 0
+      }
+    },
+    "RandomForest_11": {
+      "model_name": "RandomForest_11",
+      "feature_count": 11,
+      "precision": 0.6849,
+      "recall": 1.0,
+      "f1_score": 0.813,
+      "roc_auc": 0.8256,
+      "pr_auc": 0.757,
+      "brier_score": 0.2192,
+      "false_positive_rate": 0.46,
+      "inference_time_ms_per_1k": 35.663,
+      "confusion_matrix": {
+        "tp": 250,
+        "fp": 115,
+        "tn": 135,
+        "fn": 0
+      }
+    },
+    "HistGradientBoosting_11": {
+      "model_name": "HistGradientBoosting_11",
+      "feature_count": 11,
+      "precision": 0.6849,
+      "recall": 1.0,
+      "f1_score": 0.813,
+      "roc_auc": 0.7849,
+      "pr_auc": 0.7044,
+      "brier_score": 0.2293,
+      "false_positive_rate": 0.46,
+      "inference_time_ms_per_1k": 5.4844,
+      "confusion_matrix": {
+        "tp": 250,
+        "fp": 115,
+        "tn": 135,
+        "fn": 0
+      }
+    },
+    "Calibrated_RF_11": {
+      "model_name": "Calibrated_RF_11",
+      "feature_count": 11,
+      "precision": 0.6849,
+      "recall": 1.0,
+      "f1_score": 0.813,
+      "roc_auc": 0.8024,
+      "pr_auc": 0.7028,
+      "brier_score": 0.2327,
+      "false_positive_rate": 0.46,
+      "inference_time_ms_per_1k": 100.9598,
+      "confusion_matrix": {
+        "tp": 250,
+        "fp": 115,
+        "tn": 135,
+        "fn": 0
+      }
+    }
+  },
+  "feature_ablation_results": [
+    {
+      "configuration": "Baseline_7_Features",
+      "feature_count": 7,
+      "features_used": "entity_similarity, text_evidence_strength, relationship_keyword_match, supporting_record_count, source_record_count, relationship_frequency, cross_case_connectivity",
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6667,
+      "roc_auc": 0.53,
+      "brier_score": 0.5,
+      "false_positive_rate": 1.0,
+      "true_positives": 250,
+      "false_positives": 250,
+      "true_negatives": 0,
+      "false_negatives": 0
+    },
+    {
+      "configuration": "7_Plus_Evidence_Diversity",
+      "feature_count": 8,
+      "features_used": "entity_similarity, text_evidence_strength, relationship_keyword_match, supporting_record_count, source_record_count, relationship_frequency, cross_case_connectivity, evidence_diversity",
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6667,
+      "roc_auc": 0.53,
+      "brier_score": 0.5,
+      "false_positive_rate": 1.0,
+      "true_positives": 250,
+      "false_positives": 250,
+      "true_negatives": 0,
+      "false_negatives": 0
+    },
+    {
+      "configuration": "7_Plus_Case_Cooccurrence",
+      "feature_count": 8,
+      "features_used": "entity_similarity, text_evidence_strength, relationship_keyword_match, supporting_record_count, source_record_count, relationship_frequency, cross_case_connectivity, case_cooccurrence_count",
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6667,
+      "roc_auc": 0.53,
+      "brier_score": 0.5,
+      "false_positive_rate": 1.0,
+      "true_positives": 250,
+      "false_positives": 250,
+      "true_negatives": 0,
+      "false_negatives": 0
+    },
+    {
+      "configuration": "7_Plus_Bidirectional_Activity",
+      "feature_count": 8,
+      "features_used": "entity_similarity, text_evidence_strength, relationship_keyword_match, supporting_record_count, source_record_count, relationship_frequency, cross_case_connectivity, bidirectional_activity",
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6667,
+      "roc_auc": 0.6,
+      "brier_score": 0.5,
+      "false_positive_rate": 1.0,
+      "true_positives": 250,
+      "false_positives": 250,
+      "true_negatives": 0,
+      "false_negatives": 0
+    },
+    {
+      "configuration": "7_Plus_Transaction_Volume",
+      "feature_count": 8,
+      "features_used": "entity_similarity, text_evidence_strength, relationship_keyword_match, supporting_record_count, source_record_count, relationship_frequency, cross_case_connectivity, normalized_transaction_volume",
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6667,
+      "roc_auc": 0.6,
+      "brier_score": 0.5,
+      "false_positive_rate": 1.0,
+      "true_positives": 250,
+      "false_positives": 250,
+      "true_negatives": 0,
+      "false_negatives": 0
+    },
+    {
+      "configuration": "All_11_Features",
+      "feature_count": 11,
+      "features_used": "entity_similarity, text_evidence_strength, relationship_keyword_match, supporting_record_count, source_record_count, relationship_frequency, cross_case_connectivity, evidence_diversity, case_cooccurrence_count, bidirectional_activity, normalized_transaction_volume",
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1_score": 0.6667,
+      "roc_auc": 0.6,
+      "brier_score": 0.5,
+      "false_positive_rate": 1.0,
+      "true_positives": 250,
+      "false_positives": 250,
+      "true_negatives": 0,
+      "false_negatives": 0
+    }
+  ],
+  "entity_resolution_robustness": {
+    "total_pairs_tested": 300,
+    "positive_pairs": 150,
+    "negative_pairs": 150,
+    "possible_match_tier_0_65": {
+      "threshold": 0.65,
+      "precision": 0.7905,
+      "recall": 0.78,
+      "f1_score": 0.7852,
+      "false_match_rate": 0.2067,
+      "tp": 117,
+      "fp": 31,
+      "tn": 119,
+      "fn": 33
+    },
+    "match_tier_0_85": {
+      "threshold": 0.85,
+      "precision": 0.9048,
+      "recall": 0.1267,
+      "f1_score": 0.2222,
+      "false_match_rate": 0.0133,
+      "tp": 19,
+      "fp": 2,
+      "tn": 148,
+      "fn": 131
+    }
+  }
+}

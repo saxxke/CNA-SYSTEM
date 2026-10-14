@@ -1,0 +1,25 @@
+alias_id,person_id,alias_name,alias_type
+ALIAS-001,PERSON-001,Arjun M.,Common short form
+ALIAS-002,PERSON-001,A. Mehta,Official record variant
+ALIAS-003,PERSON-006,D. Arora,Record variant
+ALIAS-004,PERSON-011,S. Dubey,Common usage
+ALIAS-005,PERSON-016,Ballu,Street alias
+ALIAS-006,PERSON-016,B. Sinha,Record variant
+ALIAS-007,PERSON-023,V. Jain,Record variant
+ALIAS-008,PERSON-032,M. Bose,Record variant
+ALIAS-009,PERSON-042,R. Yadav,Record variant
+ALIAS-010,PERSON-052,M. Sinha,Record variant
+ALIAS-011,PERSON-062,A. Bose,Record variant
+ALIAS-012,PERSON-072,V. Gupta,Record variant
+ALIAS-013,PERSON-082,G. Jain,Record variant
+ALIAS-014,PERSON-092,G. Pillai,Record variant
+ALIAS-015,PERSON-102,J. Singh,Record variant
+ALIAS-016,PERSON-112,M. Shah,Record variant
+ALIAS-017,PERSON-122,R. Ghosh,Record variant
+ALIAS-018,PERSON-132,D. Pillai,Record variant
+ALIAS-019,PERSON-142,O. Patel,Record variant
+ALIAS-020,PERSON-152,D. Patel,Record variant
+ALIAS-021,PERSON-162,S. Ghosh,Record variant
+ALIAS-022,PERSON-172,A. Agarwal,Record variant
+ALIAS-023,PERSON-182,S. Mukherjee,Record variant
+ALIAS-024,PERSON-192,J. Kumar,Record variant

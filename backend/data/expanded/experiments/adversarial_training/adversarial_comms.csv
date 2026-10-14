@@ -1,0 +1,902 @@
+comm_id,case_id,description,duration
+ADV-COMM-0001,CASE-0052,PERSON-0655 contacted PERSON-0115 regarding operational logistics.,239
+ADV-COMM-0002,CASE-0052,PERSON-0115 contacted PERSON-0655 confirming pickup.,97
+ADV-COMM-0003,CASE-1117,PERSON-0105 contacted PERSON-0693 regarding operational logistics.,72
+ADV-COMM-0004,CASE-1117,PERSON-0693 contacted PERSON-0105 confirming pickup.,48
+ADV-COMM-0005,CASE-1035,PERSON-0224 contacted PERSON-0239 regarding operational logistics.,204
+ADV-COMM-0006,CASE-1035,PERSON-0239 contacted PERSON-0224 confirming pickup.,90
+ADV-COMM-0007,CASE-0860,PERSON-0719 contacted PERSON-0559 regarding operational logistics.,106
+ADV-COMM-0008,CASE-0860,PERSON-0559 contacted PERSON-0719 confirming pickup.,111
+ADV-COMM-0009,CASE-0327,PERSON-0007 contacted PERSON-0778 regarding operational logistics.,228
+ADV-COMM-0010,CASE-0327,PERSON-0778 contacted PERSON-0007 confirming pickup.,111
+ADV-COMM-0011,CASE-0690,PERSON-0981 contacted PERSON-0782 regarding operational logistics.,76
+ADV-COMM-0012,CASE-0690,PERSON-0782 contacted PERSON-0981 confirming pickup.,64
+ADV-COMM-0013,CASE-0542,PERSON-0353 contacted PERSON-0619 regarding operational logistics.,256
+ADV-COMM-0014,CASE-0542,PERSON-0619 contacted PERSON-0353 confirming pickup.,157
+ADV-COMM-0015,CASE-0776,PERSON-0997 contacted PERSON-0945 regarding operational logistics.,70
+ADV-COMM-0016,CASE-0776,PERSON-0945 contacted PERSON-0997 confirming pickup.,132
+ADV-COMM-0017,CASE-0094,PERSON-0722 contacted PERSON-0072 regarding operational logistics.,219
+ADV-COMM-0018,CASE-0094,PERSON-0072 contacted PERSON-0722 confirming pickup.,114
+ADV-COMM-0019,CASE-0207,PERSON-0876 contacted PERSON-0239 regarding operational logistics.,147
+ADV-COMM-0020,CASE-0207,PERSON-0239 contacted PERSON-0876 confirming pickup.,133
+ADV-COMM-0021,CASE-0547,PERSON-0364 contacted PERSON-0215 regarding operational logistics.,229
+ADV-COMM-0022,CASE-0351,PERSON-0624 contacted PERSON-0651 regarding operational logistics.,186
+ADV-COMM-0023,CASE-1141,PERSON-0389 contacted PERSON-0277 regarding operational logistics.,106
+ADV-COMM-0024,CASE-1141,PERSON-0277 contacted PERSON-0389 confirming pickup.,54
+ADV-COMM-0025,CASE-0647,PERSON-0033 contacted PERSON-0825 regarding operational logistics.,152
+ADV-COMM-0026,CASE-0647,PERSON-0825 contacted PERSON-0033 confirming pickup.,94
+ADV-COMM-0027,CASE-0645,PERSON-0581 contacted PERSON-0898 regarding operational logistics.,104
+ADV-COMM-0028,CASE-0645,PERSON-0898 contacted PERSON-0581 confirming pickup.,141
+ADV-COMM-0029,CASE-0293,PERSON-0659 contacted PERSON-0470 regarding operational logistics.,117
+ADV-COMM-0030,CASE-0293,PERSON-0470 contacted PERSON-0659 confirming pickup.,177
+ADV-COMM-0031,CASE-1196,PERSON-0599 contacted PERSON-0439 regarding operational logistics.,152
+ADV-COMM-0032,CASE-1196,PERSON-0439 contacted PERSON-0599 confirming pickup.,75
+ADV-COMM-0033,CASE-0097,PERSON-0094 contacted PERSON-0774 regarding operational logistics.,270
+ADV-COMM-0034,CASE-0097,PERSON-0774 contacted PERSON-0094 confirming pickup.,80
+ADV-COMM-0035,CASE-0131,PERSON-0433 contacted PERSON-0611 regarding operational logistics.,148
+ADV-COMM-0036,CASE-0131,PERSON-0611 contacted PERSON-0433 confirming pickup.,159
+ADV-COMM-0037,CASE-0024,PERSON-0995 contacted PERSON-0567 regarding operational logistics.,224
+ADV-COMM-0038,CASE-0547,PERSON-0550 contacted PERSON-0769 regarding operational logistics.,246
+ADV-COMM-0039,CASE-0547,PERSON-0769 contacted PERSON-0550 confirming pickup.,68
+ADV-COMM-0040,CASE-0007,PERSON-0162 contacted PERSON-0465 regarding operational logistics.,294
+ADV-COMM-0041,CASE-0366,PERSON-0996 contacted PERSON-0513 regarding operational logistics.,179
+ADV-COMM-0042,CASE-1040,PERSON-0306 contacted PERSON-0862 regarding operational logistics.,205
+ADV-COMM-0043,CASE-1040,PERSON-0862 contacted PERSON-0306 confirming pickup.,135
+ADV-COMM-0044,CASE-1087,PERSON-0553 contacted PERSON-0977 regarding operational logistics.,285
+ADV-COMM-0045,CASE-1087,PERSON-0977 contacted PERSON-0553 confirming pickup.,122
+ADV-COMM-0046,CASE-0744,PERSON-0115 contacted PERSON-0952 regarding operational logistics.,274
+ADV-COMM-0047,CASE-0494,PERSON-0246 contacted PERSON-0060 regarding operational logistics.,274
+ADV-COMM-0048,CASE-0494,PERSON-0060 contacted PERSON-0246 confirming pickup.,60
+ADV-COMM-0049,CASE-0142,PERSON-0498 contacted PERSON-0836 regarding operational logistics.,300
+ADV-COMM-0050,CASE-0974,PERSON-0132 contacted PERSON-0676 regarding operational logistics.,292
+ADV-COMM-0051,CASE-0974,PERSON-0676 contacted PERSON-0132 confirming pickup.,107
+ADV-COMM-0052,CASE-0434,PERSON-0622 contacted PERSON-0434 regarding operational logistics.,287
+ADV-COMM-0053,CASE-0434,PERSON-0434 contacted PERSON-0622 confirming pickup.,91
+ADV-COMM-0054,CASE-0765,PERSON-0409 contacted PERSON-0688 regarding operational logistics.,162
+ADV-COMM-0055,CASE-0132,PERSON-0254 contacted PERSON-0231 regarding operational logistics.,136
+ADV-COMM-0056,CASE-0132,PERSON-0231 contacted PERSON-0254 confirming pickup.,98
+ADV-COMM-0057,CASE-0121,PERSON-0008 contacted PERSON-0073 regarding operational logistics.,108
+ADV-COMM-0058,CASE-0121,PERSON-0073 contacted PERSON-0008 confirming pickup.,48
+ADV-COMM-0059,CASE-0488,PERSON-0073 contacted PERSON-0527 regarding operational logistics.,121
+ADV-COMM-0060,CASE-0488,PERSON-0527 contacted PERSON-0073 confirming pickup.,94
+ADV-COMM-0061,CASE-1170,PERSON-0741 contacted PERSON-0958 regarding operational logistics.,197
+ADV-COMM-0062,CASE-1170,PERSON-0958 contacted PERSON-0741 confirming pickup.,161
+ADV-COMM-0063,CASE-0199,PERSON-0195 contacted PERSON-0097 regarding operational logistics.,218
+ADV-COMM-0064,CASE-0199,PERSON-0097 contacted PERSON-0195 confirming pickup.,148
+ADV-COMM-0065,CASE-0111,PERSON-0885 contacted PERSON-0747 regarding operational logistics.,222
+ADV-COMM-0066,CASE-0111,PERSON-0747 contacted PERSON-0885 confirming pickup.,65
+ADV-COMM-0067,CASE-0224,PERSON-0746 contacted PERSON-0348 regarding operational logistics.,113
+ADV-COMM-0068,CASE-0224,PERSON-0348 contacted PERSON-0746 confirming pickup.,177
+ADV-COMM-0069,CASE-0571,PERSON-0433 contacted PERSON-0188 regarding operational logistics.,168
+ADV-COMM-0070,CASE-0571,PERSON-0188 contacted PERSON-0433 confirming pickup.,59
+ADV-COMM-0071,CASE-1128,PERSON-0883 contacted PERSON-0877 regarding operational logistics.,75
+ADV-COMM-0072,CASE-1128,PERSON-0877 contacted PERSON-0883 confirming pickup.,178
+ADV-COMM-0073,CASE-0485,PERSON-0993 contacted PERSON-0096 regarding operational logistics.,92
+ADV-COMM-0074,CASE-0485,PERSON-0096 contacted PERSON-0993 confirming pickup.,163
+ADV-COMM-0075,CASE-0121,PERSON-0411 contacted PERSON-0925 regarding operational logistics.,92
+ADV-COMM-0076,CASE-0121,PERSON-0925 contacted PERSON-0411 confirming pickup.,139
+ADV-COMM-0077,CASE-0932,PERSON-0803 contacted PERSON-0804 regarding operational logistics.,123
+ADV-COMM-0078,CASE-0932,PERSON-0804 contacted PERSON-0803 confirming pickup.,164
+ADV-COMM-0079,CASE-0120,PERSON-0304 contacted PERSON-0223 regarding operational logistics.,198
+ADV-COMM-0080,CASE-0103,PERSON-0322 contacted PERSON-0059 regarding operational logistics.,199
+ADV-COMM-0081,CASE-0103,PERSON-0059 contacted PERSON-0322 confirming pickup.,175
+ADV-COMM-0082,CASE-0165,PERSON-0984 contacted PERSON-0521 regarding operational logistics.,267
+ADV-COMM-0083,CASE-0165,PERSON-0521 contacted PERSON-0984 confirming pickup.,57
+ADV-COMM-0084,CASE-0246,PERSON-0241 contacted PERSON-0414 regarding operational logistics.,291
+ADV-COMM-0085,CASE-0168,PERSON-0609 contacted PERSON-0041 regarding operational logistics.,157
+ADV-COMM-0086,CASE-0168,PERSON-0041 contacted PERSON-0609 confirming pickup.,173
+ADV-COMM-0087,CASE-0644,PERSON-0268 contacted PERSON-0210 regarding operational logistics.,111
+ADV-COMM-0088,CASE-0644,PERSON-0210 contacted PERSON-0268 confirming pickup.,73
+ADV-COMM-0089,CASE-0648,PERSON-0308 contacted PERSON-0469 regarding operational logistics.,287
+ADV-COMM-0090,CASE-1154,PERSON-0470 contacted PERSON-0637 regarding operational logistics.,75
+ADV-COMM-0091,CASE-1154,PERSON-0637 contacted PERSON-0470 confirming pickup.,94
+ADV-COMM-0092,CASE-0715,PERSON-0136 contacted PERSON-0956 regarding operational logistics.,275
+ADV-COMM-0093,CASE-0715,PERSON-0956 contacted PERSON-0136 confirming pickup.,102
+ADV-COMM-0094,CASE-1113,PERSON-0162 contacted PERSON-0449 regarding operational logistics.,230
+ADV-COMM-0095,CASE-1113,PERSON-0449 contacted PERSON-0162 confirming pickup.,175
+ADV-COMM-0096,CASE-0614,PERSON-0837 contacted PERSON-0568 regarding operational logistics.,288
+ADV-COMM-0097,CASE-0614,PERSON-0568 contacted PERSON-0837 confirming pickup.,74
+ADV-COMM-0098,CASE-1134,PERSON-0912 contacted PERSON-0110 regarding operational logistics.,89
+ADV-COMM-0099,CASE-1134,PERSON-0110 contacted PERSON-0912 confirming pickup.,93
+ADV-COMM-0100,CASE-0541,PERSON-0209 contacted PERSON-0704 regarding operational logistics.,179
+ADV-COMM-0101,CASE-0541,PERSON-0704 contacted PERSON-0209 confirming pickup.,53
+ADV-COMM-0102,CASE-0567,PERSON-0434 contacted PERSON-0850 regarding operational logistics.,61
+ADV-COMM-0103,CASE-0567,PERSON-0850 contacted PERSON-0434 confirming pickup.,73
+ADV-COMM-0104,CASE-0905,PERSON-0269 contacted PERSON-0166 regarding operational logistics.,191
+ADV-COMM-0105,CASE-0306,PERSON-0115 contacted PERSON-0078 regarding operational logistics.,189
+ADV-COMM-0106,CASE-0306,PERSON-0078 contacted PERSON-0115 confirming pickup.,134
+ADV-COMM-0107,CASE-0262,PERSON-0152 contacted PERSON-0441 regarding operational logistics.,60
+ADV-COMM-0108,CASE-0262,PERSON-0441 contacted PERSON-0152 confirming pickup.,50
+ADV-COMM-0109,CASE-0512,PERSON-0216 contacted PERSON-0699 regarding operational logistics.,220
+ADV-COMM-0110,CASE-0512,PERSON-0699 contacted PERSON-0216 confirming pickup.,144
+ADV-COMM-0111,CASE-0485,PERSON-0768 contacted PERSON-0159 regarding operational logistics.,271
+ADV-COMM-0112,CASE-0485,PERSON-0159 contacted PERSON-0768 confirming pickup.,85
+ADV-COMM-0113,CASE-0681,PERSON-0026 contacted PERSON-0184 regarding operational logistics.,250
+ADV-COMM-0114,CASE-0509,PERSON-0885 contacted PERSON-0753 regarding operational logistics.,118
+ADV-COMM-0115,CASE-0509,PERSON-0753 contacted PERSON-0885 confirming pickup.,67
+ADV-COMM-0116,CASE-0964,PERSON-0040 contacted PERSON-0880 regarding operational logistics.,106
+ADV-COMM-0117,CASE-0964,PERSON-0880 contacted PERSON-0040 confirming pickup.,157
+ADV-COMM-0118,CASE-0467,PERSON-0841 contacted PERSON-0815 regarding operational logistics.,107
+ADV-COMM-0119,CASE-0467,PERSON-0815 contacted PERSON-0841 confirming pickup.,89
+ADV-COMM-0120,CASE-0143,PERSON-0286 contacted PERSON-0886 regarding operational logistics.,297
+ADV-COMM-0121,CASE-1099,PERSON-0522 contacted PERSON-0410 regarding operational logistics.,134
+ADV-COMM-0122,CASE-0366,PERSON-0994 contacted PERSON-0268 regarding operational logistics.,198
+ADV-COMM-0123,CASE-0890,PERSON-0112 contacted PERSON-0611 regarding operational logistics.,138
+ADV-COMM-0124,CASE-0237,PERSON-0621 contacted PERSON-0524 regarding operational logistics.,148
+ADV-COMM-0125,CASE-0894,PERSON-0046 contacted PERSON-0726 regarding operational logistics.,50
+ADV-COMM-0126,CASE-0894,PERSON-0726 contacted PERSON-0046 confirming pickup.,177
+ADV-COMM-0127,CASE-0404,PERSON-0963 contacted PERSON-0760 regarding operational logistics.,143
+ADV-COMM-0128,CASE-0404,PERSON-0760 contacted PERSON-0963 confirming pickup.,124
+ADV-COMM-0129,CASE-0256,PERSON-0680 contacted PERSON-0869 regarding operational logistics.,234
+ADV-COMM-0130,CASE-0669,PERSON-0683 contacted PERSON-0419 regarding operational logistics.,153
+ADV-COMM-0131,CASE-0669,PERSON-0419 contacted PERSON-0683 confirming pickup.,72
+ADV-COMM-0132,CASE-0777,PERSON-0681 contacted PERSON-0963 regarding operational logistics.,223
+ADV-COMM-0133,CASE-0832,PERSON-0583 contacted PERSON-0309 regarding operational logistics.,190
+ADV-COMM-0134,CASE-1188,PERSON-0216 contacted PERSON-0441 regarding operational logistics.,205
+ADV-COMM-0135,CASE-1188,PERSON-0441 contacted PERSON-0216 confirming pickup.,159
+ADV-COMM-0136,CASE-1047,PERSON-0692 contacted PERSON-0219 regarding operational logistics.,171
+ADV-COMM-0137,CASE-0174,PERSON-0754 contacted PERSON-0174 regarding operational logistics.,122
+ADV-COMM-0138,CASE-0174,PERSON-0174 contacted PERSON-0754 confirming pickup.,125
+ADV-COMM-0139,CASE-0482,PERSON-0975 contacted PERSON-0770 regarding operational logistics.,222
+ADV-COMM-0140,CASE-0482,PERSON-0770 contacted PERSON-0975 confirming pickup.,90
+ADV-COMM-0141,CASE-0974,PERSON-0048 contacted PERSON-0251 regarding operational logistics.,206
+ADV-COMM-0142,CASE-1179,PERSON-0425 contacted PERSON-0908 regarding operational logistics.,99
+ADV-COMM-0143,CASE-0303,PERSON-0410 contacted PERSON-0250 regarding operational logistics.,217
+ADV-COMM-0144,CASE-0303,PERSON-0250 contacted PERSON-0410 confirming pickup.,67
+ADV-COMM-0145,CASE-1061,PERSON-0225 contacted PERSON-0181 regarding operational logistics.,168
+ADV-COMM-0146,CASE-1061,PERSON-0181 contacted PERSON-0225 confirming pickup.,103
+ADV-COMM-0147,CASE-0274,PERSON-0125 contacted PERSON-0468 regarding operational logistics.,255
+ADV-COMM-0148,CASE-0274,PERSON-0468 contacted PERSON-0125 confirming pickup.,175
+ADV-COMM-0149,CASE-0907,PERSON-0610 contacted PERSON-0325 regarding operational logistics.,206
+ADV-COMM-0150,CASE-1123,PERSON-0437 contacted PERSON-0851 regarding operational logistics.,164
+ADV-COMM-0151,CASE-0531,PERSON-0487 contacted PERSON-0461 regarding operational logistics.,242
+ADV-COMM-0152,CASE-0531,PERSON-0461 contacted PERSON-0487 confirming pickup.,110
+ADV-COMM-0153,CASE-0490,PERSON-0534 contacted PERSON-0497 regarding operational logistics.,120
+ADV-COMM-0154,CASE-0490,PERSON-0497 contacted PERSON-0534 confirming pickup.,113
+ADV-COMM-0155,CASE-1107,PERSON-0344 contacted PERSON-0328 regarding operational logistics.,70
+ADV-COMM-0156,CASE-1107,PERSON-0328 contacted PERSON-0344 confirming pickup.,99
+ADV-COMM-0157,CASE-0439,PERSON-0157 contacted PERSON-0724 regarding operational logistics.,66
+ADV-COMM-0158,CASE-0439,PERSON-0724 contacted PERSON-0157 confirming pickup.,124
+ADV-COMM-0159,CASE-0424,PERSON-0426 contacted PERSON-0064 regarding operational logistics.,263
+ADV-COMM-0160,CASE-0424,PERSON-0064 contacted PERSON-0426 confirming pickup.,45
+ADV-COMM-0161,CASE-0780,PERSON-0784 contacted PERSON-0590 regarding operational logistics.,172
+ADV-COMM-0162,CASE-0780,PERSON-0590 contacted PERSON-0784 confirming pickup.,130
+ADV-COMM-0163,CASE-0859,PERSON-0400 contacted PERSON-0874 regarding operational logistics.,187
+ADV-COMM-0164,CASE-0452,PERSON-0618 contacted PERSON-0920 regarding operational logistics.,174
+ADV-COMM-0165,CASE-0452,PERSON-0920 contacted PERSON-0618 confirming pickup.,151
+ADV-COMM-0166,CASE-0829,PERSON-0399 contacted PERSON-0345 regarding operational logistics.,235
+ADV-COMM-0167,CASE-0829,PERSON-0345 contacted PERSON-0399 confirming pickup.,159
+ADV-COMM-0168,CASE-0056,PERSON-0638 contacted PERSON-0547 regarding operational logistics.,282
+ADV-COMM-0169,CASE-0056,PERSON-0547 contacted PERSON-0638 confirming pickup.,46
+ADV-COMM-0170,CASE-0946,PERSON-0439 contacted PERSON-0139 regarding operational logistics.,96
+ADV-COMM-0171,CASE-0946,PERSON-0139 contacted PERSON-0439 confirming pickup.,137
+ADV-COMM-0172,CASE-0692,PERSON-0466 contacted PERSON-0335 regarding operational logistics.,244
+ADV-COMM-0173,CASE-0864,PERSON-0975 contacted PERSON-0852 regarding operational logistics.,114
+ADV-COMM-0174,CASE-0107,PERSON-0768 contacted PERSON-0553 regarding operational logistics.,293
+ADV-COMM-0175,CASE-0107,PERSON-0553 contacted PERSON-0768 confirming pickup.,57
+ADV-COMM-0176,CASE-0064,PERSON-0668 contacted PERSON-0042 regarding operational logistics.,293
+ADV-COMM-0177,CASE-0064,PERSON-0042 contacted PERSON-0668 confirming pickup.,45
+ADV-COMM-0178,CASE-0970,PERSON-0245 contacted PERSON-0130 regarding operational logistics.,221
+ADV-COMM-0179,CASE-0970,PERSON-0130 contacted PERSON-0245 confirming pickup.,95
+ADV-COMM-0180,CASE-0756,PERSON-0263 contacted PERSON-0786 regarding operational logistics.,92
+ADV-COMM-0181,CASE-0756,PERSON-0786 contacted PERSON-0263 confirming pickup.,69
+ADV-COMM-0182,CASE-0638,PERSON-0168 contacted PERSON-0988 regarding operational logistics.,77
+ADV-COMM-0183,CASE-0638,PERSON-0988 contacted PERSON-0168 confirming pickup.,119
+ADV-COMM-0184,CASE-0769,PERSON-0930 contacted PERSON-0982 regarding operational logistics.,151
+ADV-COMM-0185,CASE-0498,PERSON-0607 contacted PERSON-0708 regarding operational logistics.,76
+ADV-COMM-0186,CASE-0498,PERSON-0708 contacted PERSON-0607 confirming pickup.,117
+ADV-COMM-0187,CASE-0248,PERSON-0615 contacted PERSON-0825 regarding operational logistics.,253
+ADV-COMM-0188,CASE-0878,PERSON-0356 contacted PERSON-0546 regarding operational logistics.,219
+ADV-COMM-0189,CASE-0878,PERSON-0546 contacted PERSON-0356 confirming pickup.,169
+ADV-COMM-0190,CASE-0861,PERSON-0013 contacted PERSON-0870 regarding operational logistics.,260
+ADV-COMM-0191,CASE-0861,PERSON-0870 contacted PERSON-0013 confirming pickup.,150
+ADV-COMM-0192,CASE-0942,PERSON-0651 contacted PERSON-0913 regarding operational logistics.,231
+ADV-COMM-0193,CASE-0942,PERSON-0913 contacted PERSON-0651 confirming pickup.,85
+ADV-COMM-0194,CASE-0554,PERSON-0989 contacted PERSON-0667 regarding operational logistics.,207
+ADV-COMM-0195,CASE-0893,PERSON-0496 contacted PERSON-0477 regarding operational logistics.,261
+ADV-COMM-0196,CASE-0178,PERSON-0873 contacted PERSON-0252 regarding operational logistics.,121
+ADV-COMM-0197,CASE-1250,PERSON-0476 contacted PERSON-0584 regarding operational logistics.,221
+ADV-COMM-0198,CASE-1250,PERSON-0584 contacted PERSON-0476 confirming pickup.,47
+ADV-COMM-0199,CASE-0999,PERSON-0333 contacted PERSON-0187 regarding operational logistics.,104
+ADV-COMM-0200,CASE-0999,PERSON-0187 contacted PERSON-0333 confirming pickup.,106
+ADV-COMM-0201,CASE-0566,PERSON-0902 contacted PERSON-0611 regarding operational logistics.,192
+ADV-COMM-0202,CASE-0566,PERSON-0611 contacted PERSON-0902 confirming pickup.,88
+ADV-COMM-0203,CASE-1001,PERSON-0738 contacted PERSON-0417 regarding operational logistics.,192
+ADV-COMM-0204,CASE-1006,PERSON-0662 contacted PERSON-0729 regarding operational logistics.,164
+ADV-COMM-0205,CASE-0499,PERSON-0227 contacted PERSON-0415 regarding operational logistics.,128
+ADV-COMM-0206,CASE-0499,PERSON-0415 contacted PERSON-0227 confirming pickup.,134
+ADV-COMM-0207,CASE-0872,PERSON-0544 contacted PERSON-0353 regarding operational logistics.,240
+ADV-COMM-0208,CASE-0872,PERSON-0353 contacted PERSON-0544 confirming pickup.,130
+ADV-COMM-0209,CASE-0515,PERSON-0278 contacted PERSON-0314 regarding operational logistics.,109
+ADV-COMM-0210,CASE-0515,PERSON-0314 contacted PERSON-0278 confirming pickup.,89
+ADV-COMM-0211,CASE-0380,PERSON-0761 contacted PERSON-0549 regarding operational logistics.,99
+ADV-COMM-0212,CASE-0380,PERSON-0549 contacted PERSON-0761 confirming pickup.,163
+ADV-COMM-0213,CASE-1075,PERSON-0604 contacted PERSON-0779 regarding operational logistics.,202
+ADV-COMM-0214,CASE-1075,PERSON-0779 contacted PERSON-0604 confirming pickup.,65
+ADV-COMM-0215,CASE-0740,PERSON-0304 contacted PERSON-0233 regarding operational logistics.,95
+ADV-COMM-0216,CASE-0740,PERSON-0233 contacted PERSON-0304 confirming pickup.,176
+ADV-COMM-0217,CASE-0112,PERSON-0047 contacted PERSON-0998 regarding operational logistics.,191
+ADV-COMM-0218,CASE-0112,PERSON-0998 contacted PERSON-0047 confirming pickup.,72
+ADV-COMM-0219,CASE-0211,PERSON-0771 contacted PERSON-0503 regarding operational logistics.,273
+ADV-COMM-0220,CASE-0211,PERSON-0503 contacted PERSON-0771 confirming pickup.,112
+ADV-COMM-0221,CASE-0378,PERSON-0452 contacted PERSON-0349 regarding operational logistics.,297
+ADV-COMM-0222,CASE-0378,PERSON-0349 contacted PERSON-0452 confirming pickup.,162
+ADV-COMM-0223,CASE-1008,PERSON-0067 contacted PERSON-0411 regarding operational logistics.,68
+ADV-COMM-0224,CASE-1008,PERSON-0411 contacted PERSON-0067 confirming pickup.,53
+ADV-COMM-0225,CASE-0623,PERSON-0831 contacted PERSON-0577 regarding operational logistics.,71
+ADV-COMM-0226,CASE-1242,PERSON-0783 contacted PERSON-0427 regarding operational logistics.,202
+ADV-COMM-0227,CASE-0923,PERSON-0536 contacted PERSON-0390 regarding operational logistics.,282
+ADV-COMM-0228,CASE-0923,PERSON-0390 contacted PERSON-0536 confirming pickup.,149
+ADV-COMM-0229,CASE-1249,PERSON-0636 contacted PERSON-0062 regarding operational logistics.,295
+ADV-COMM-0230,CASE-0433,PERSON-0213 contacted PERSON-0641 regarding operational logistics.,117
+ADV-COMM-0231,CASE-0433,PERSON-0641 contacted PERSON-0213 confirming pickup.,80
+ADV-COMM-0232,CASE-0321,PERSON-0566 contacted PERSON-0077 regarding operational logistics.,50
+ADV-COMM-0233,CASE-0321,PERSON-0077 contacted PERSON-0566 confirming pickup.,160
+ADV-COMM-0234,CASE-0580,PERSON-0238 contacted PERSON-0296 regarding operational logistics.,229
+ADV-COMM-0235,CASE-0542,PERSON-0240 contacted PERSON-0947 regarding operational logistics.,251
+ADV-COMM-0236,CASE-0406,PERSON-0824 contacted PERSON-0957 regarding operational logistics.,158
+ADV-COMM-0237,CASE-0406,PERSON-0957 contacted PERSON-0824 confirming pickup.,97
+ADV-COMM-0238,CASE-0292,PERSON-0931 contacted PERSON-0273 regarding operational logistics.,68
+ADV-COMM-0239,CASE-0292,PERSON-0273 contacted PERSON-0931 confirming pickup.,118
+ADV-COMM-0240,CASE-0592,PERSON-0845 contacted PERSON-0583 regarding operational logistics.,162
+ADV-COMM-0241,CASE-0592,PERSON-0583 contacted PERSON-0845 confirming pickup.,117
+ADV-COMM-0242,CASE-1025,PERSON-0966 contacted PERSON-0279 regarding operational logistics.,188
+ADV-COMM-0243,CASE-1025,PERSON-0279 contacted PERSON-0966 confirming pickup.,60
+ADV-COMM-0244,CASE-0661,PERSON-0911 contacted PERSON-0443 regarding operational logistics.,204
+ADV-COMM-0245,CASE-0661,PERSON-0443 contacted PERSON-0911 confirming pickup.,63
+ADV-COMM-0246,CASE-1179,PERSON-0691 contacted PERSON-0857 regarding operational logistics.,200
+ADV-COMM-0247,CASE-0552,PERSON-0689 contacted PERSON-0842 regarding operational logistics.,197
+ADV-COMM-0248,CASE-0552,PERSON-0842 contacted PERSON-0689 confirming pickup.,84
+ADV-COMM-0249,CASE-0570,PERSON-0668 contacted PERSON-0453 regarding operational logistics.,96
+ADV-COMM-0250,CASE-0187,PERSON-0834 contacted PERSON-0504 regarding operational logistics.,170
+ADV-COMM-0251,CASE-0187,PERSON-0504 contacted PERSON-0834 confirming pickup.,125
+ADV-COMM-0252,CASE-0330,PERSON-0108 contacted PERSON-0879 regarding operational logistics.,134
+ADV-COMM-0253,CASE-0330,PERSON-0879 contacted PERSON-0108 confirming pickup.,166
+ADV-COMM-0254,CASE-1127,PERSON-0968 contacted PERSON-0411 regarding operational logistics.,59
+ADV-COMM-0255,CASE-1127,PERSON-0411 contacted PERSON-0968 confirming pickup.,120
+ADV-COMM-0256,CASE-0828,PERSON-0119 contacted PERSON-0994 regarding operational logistics.,271
+ADV-COMM-0257,CASE-0828,PERSON-0994 contacted PERSON-0119 confirming pickup.,40
+ADV-COMM-0258,CASE-0847,PERSON-0556 contacted PERSON-0474 regarding operational logistics.,63
+ADV-COMM-0259,CASE-0847,PERSON-0474 contacted PERSON-0556 confirming pickup.,132
+ADV-COMM-0260,CASE-0906,PERSON-0511 contacted PERSON-0641 regarding operational logistics.,244
+ADV-COMM-0261,CASE-0906,PERSON-0641 contacted PERSON-0511 confirming pickup.,108
+ADV-COMM-0262,CASE-0898,PERSON-0950 contacted PERSON-0295 regarding operational logistics.,275
+ADV-COMM-0263,CASE-0898,PERSON-0295 contacted PERSON-0950 confirming pickup.,71
+ADV-COMM-0264,CASE-0491,PERSON-0646 contacted PERSON-0624 regarding operational logistics.,231
+ADV-COMM-0265,CASE-0491,PERSON-0624 contacted PERSON-0646 confirming pickup.,43
+ADV-COMM-0266,CASE-0233,PERSON-0096 contacted PERSON-0231 regarding operational logistics.,168
+ADV-COMM-0267,CASE-0598,PERSON-0158 contacted PERSON-0511 regarding operational logistics.,180
+ADV-COMM-0268,CASE-0500,PERSON-0495 contacted PERSON-0484 regarding operational logistics.,166
+ADV-COMM-0269,CASE-0500,PERSON-0484 contacted PERSON-0495 confirming pickup.,138
+ADV-COMM-0270,CASE-0280,PERSON-0614 contacted PERSON-0521 regarding operational logistics.,271
+ADV-COMM-0271,CASE-0280,PERSON-0521 contacted PERSON-0614 confirming pickup.,146
+ADV-COMM-0272,CASE-0548,PERSON-0807 contacted PERSON-0520 regarding operational logistics.,260
+ADV-COMM-0273,CASE-0548,PERSON-0520 contacted PERSON-0807 confirming pickup.,116
+ADV-COMM-0274,CASE-1003,PERSON-0594 contacted PERSON-0676 regarding operational logistics.,271
+ADV-COMM-0275,CASE-1003,PERSON-0676 contacted PERSON-0594 confirming pickup.,177
+ADV-COMM-0276,CASE-1113,PERSON-0341 contacted PERSON-0566 regarding operational logistics.,146
+ADV-COMM-0277,CASE-1113,PERSON-0566 contacted PERSON-0341 confirming pickup.,122
+ADV-COMM-0278,CASE-1172,PERSON-0715 contacted PERSON-0245 regarding operational logistics.,148
+ADV-COMM-0279,CASE-1172,PERSON-0245 contacted PERSON-0715 confirming pickup.,145
+ADV-COMM-0280,CASE-0781,PERSON-0763 contacted PERSON-0485 regarding operational logistics.,148
+ADV-COMM-0281,CASE-1015,PERSON-0668 contacted PERSON-0156 regarding operational logistics.,296
+ADV-COMM-0282,CASE-1015,PERSON-0156 contacted PERSON-0668 confirming pickup.,168
+ADV-COMM-0283,CASE-0206,PERSON-0340 contacted PERSON-0891 regarding operational logistics.,273
+ADV-COMM-0284,CASE-0032,PERSON-0933 contacted PERSON-0468 regarding operational logistics.,234
+ADV-COMM-0285,CASE-0032,PERSON-0468 contacted PERSON-0933 confirming pickup.,79
+ADV-COMM-0286,CASE-0543,PERSON-0801 contacted PERSON-0993 regarding operational logistics.,136
+ADV-COMM-0287,CASE-0543,PERSON-0993 contacted PERSON-0801 confirming pickup.,141
+ADV-COMM-0288,CASE-1093,PERSON-0873 contacted PERSON-0337 regarding operational logistics.,147
+ADV-COMM-0289,CASE-1000,PERSON-0909 contacted PERSON-0778 regarding operational logistics.,273
+ADV-COMM-0290,CASE-1000,PERSON-0778 contacted PERSON-0909 confirming pickup.,57
+ADV-COMM-0291,CASE-0589,PERSON-0701 contacted PERSON-0944 regarding operational logistics.,108
+ADV-COMM-0292,CASE-0206,PERSON-0101 contacted PERSON-0779 regarding operational logistics.,163
+ADV-COMM-0293,CASE-0206,PERSON-0779 contacted PERSON-0101 confirming pickup.,116
+ADV-COMM-0294,CASE-0115,PERSON-0048 contacted PERSON-0333 regarding operational logistics.,125
+ADV-COMM-0295,CASE-0115,PERSON-0333 contacted PERSON-0048 confirming pickup.,150
+ADV-COMM-0296,CASE-1160,PERSON-0544 contacted PERSON-0422 regarding operational logistics.,224
+ADV-COMM-0297,CASE-0784,PERSON-0081 contacted PERSON-0625 regarding operational logistics.,208
+ADV-COMM-0298,CASE-0784,PERSON-0625 contacted PERSON-0081 confirming pickup.,167
+ADV-COMM-0299,CASE-0945,PERSON-0147 contacted PERSON-0238 regarding operational logistics.,213
+ADV-COMM-0300,CASE-0945,PERSON-0238 contacted PERSON-0147 confirming pickup.,105
+ADV-COMM-0301,CASE-0953,PERSON-0921 contacted PERSON-0824 regarding operational logistics.,280
+ADV-COMM-0302,CASE-0953,PERSON-0824 contacted PERSON-0921 confirming pickup.,179
+ADV-COMM-0303,CASE-0708,PERSON-0453 contacted PERSON-0968 regarding operational logistics.,200
+ADV-COMM-0304,CASE-0708,PERSON-0968 contacted PERSON-0453 confirming pickup.,148
+ADV-COMM-0305,CASE-0619,PERSON-0468 contacted PERSON-0866 regarding operational logistics.,100
+ADV-COMM-0306,CASE-0782,PERSON-0110 contacted PERSON-0243 regarding operational logistics.,196
+ADV-COMM-0307,CASE-0782,PERSON-0243 contacted PERSON-0110 confirming pickup.,115
+ADV-COMM-0308,CASE-0811,PERSON-0303 contacted PERSON-0023 regarding operational logistics.,120
+ADV-COMM-0309,CASE-0811,PERSON-0023 contacted PERSON-0303 confirming pickup.,52
+ADV-COMM-0310,CASE-0587,PERSON-0764 contacted PERSON-0509 regarding operational logistics.,248
+ADV-COMM-0311,CASE-0390,PERSON-0361 contacted PERSON-0225 regarding operational logistics.,208
+ADV-COMM-0312,CASE-0390,PERSON-0225 contacted PERSON-0361 confirming pickup.,75
+ADV-COMM-0313,CASE-0081,PERSON-0926 contacted PERSON-0643 regarding operational logistics.,129
+ADV-COMM-0314,CASE-0270,PERSON-0374 contacted PERSON-0750 regarding operational logistics.,73
+ADV-COMM-0315,CASE-0412,PERSON-0426 contacted PERSON-0180 regarding operational logistics.,83
+ADV-COMM-0316,CASE-1028,PERSON-0375 contacted PERSON-0544 regarding operational logistics.,283
+ADV-COMM-0317,CASE-1028,PERSON-0544 contacted PERSON-0375 confirming pickup.,82
+ADV-COMM-0318,CASE-0987,PERSON-0845 contacted PERSON-0967 regarding operational logistics.,297
+ADV-COMM-0319,CASE-0236,PERSON-0347 contacted PERSON-0824 regarding operational logistics.,169
+ADV-COMM-0320,CASE-0814,PERSON-0990 contacted PERSON-0232 regarding operational logistics.,297
+ADV-COMM-0321,CASE-0809,PERSON-0093 contacted PERSON-0810 regarding operational logistics.,53
+ADV-COMM-0322,CASE-0809,PERSON-0810 contacted PERSON-0093 confirming pickup.,71
+ADV-COMM-0323,CASE-0537,PERSON-0689 contacted PERSON-0767 regarding operational logistics.,199
+ADV-COMM-0324,CASE-0537,PERSON-0767 contacted PERSON-0689 confirming pickup.,135
+ADV-COMM-0325,CASE-0052,PERSON-0240 contacted PERSON-0483 regarding operational logistics.,208
+ADV-COMM-0326,CASE-0454,PERSON-0938 contacted PERSON-0625 regarding operational logistics.,215
+ADV-COMM-0327,CASE-0454,PERSON-0625 contacted PERSON-0938 confirming pickup.,158
+ADV-COMM-0328,CASE-0837,PERSON-0310 contacted PERSON-0665 regarding operational logistics.,79
+ADV-COMM-0329,CASE-0837,PERSON-0665 contacted PERSON-0310 confirming pickup.,49
+ADV-COMM-0330,CASE-0200,PERSON-0505 contacted PERSON-0119 regarding operational logistics.,110
+ADV-COMM-0331,CASE-1107,PERSON-0465 contacted PERSON-0380 regarding operational logistics.,157
+ADV-COMM-0332,CASE-1107,PERSON-0380 contacted PERSON-0465 confirming pickup.,79
+ADV-COMM-0333,CASE-1003,PERSON-0671 contacted PERSON-0102 regarding operational logistics.,207
+ADV-COMM-0334,CASE-1003,PERSON-0102 contacted PERSON-0671 confirming pickup.,111
+ADV-COMM-0335,CASE-0909,PERSON-0380 contacted PERSON-0223 regarding operational logistics.,163
+ADV-COMM-0336,CASE-0753,PERSON-0102 contacted PERSON-0703 regarding operational logistics.,189
+ADV-COMM-0337,CASE-0566,PERSON-0063 contacted PERSON-0408 regarding operational logistics.,98
+ADV-COMM-0338,CASE-0188,PERSON-0844 contacted PERSON-0466 regarding operational logistics.,219
+ADV-COMM-0339,CASE-0188,PERSON-0466 contacted PERSON-0844 confirming pickup.,45
+ADV-COMM-0340,CASE-0258,PERSON-0342 contacted PERSON-0250 regarding operational logistics.,251
+ADV-COMM-0341,CASE-0258,PERSON-0250 contacted PERSON-0342 confirming pickup.,57
+ADV-COMM-0342,CASE-1201,PERSON-0568 contacted PERSON-0213 regarding operational logistics.,105
+ADV-COMM-0343,CASE-1221,PERSON-0793 contacted PERSON-0152 regarding operational logistics.,50
+ADV-COMM-0344,CASE-1221,PERSON-0152 contacted PERSON-0793 confirming pickup.,77
+ADV-COMM-0345,CASE-0358,PERSON-0554 contacted PERSON-0257 regarding operational logistics.,78
+ADV-COMM-0346,CASE-0358,PERSON-0257 contacted PERSON-0554 confirming pickup.,46
+ADV-COMM-0347,CASE-0488,PERSON-0367 contacted PERSON-0809 regarding operational logistics.,200
+ADV-COMM-0348,CASE-0488,PERSON-0809 contacted PERSON-0367 confirming pickup.,84
+ADV-COMM-0349,CASE-0863,PERSON-0130 contacted PERSON-0760 regarding operational logistics.,184
+ADV-COMM-0350,CASE-0863,PERSON-0760 contacted PERSON-0130 confirming pickup.,56
+ADV-COMM-0351,CASE-1052,PERSON-0797 contacted PERSON-0371 regarding operational logistics.,201
+ADV-COMM-0352,CASE-1052,PERSON-0371 contacted PERSON-0797 confirming pickup.,168
+ADV-COMM-0353,CASE-1068,PERSON-0630 contacted PERSON-0045 regarding operational logistics.,127
+ADV-COMM-0354,CASE-1068,PERSON-0045 contacted PERSON-0630 confirming pickup.,47
+ADV-COMM-0355,CASE-0823,PERSON-0491 contacted PERSON-0868 regarding operational logistics.,159
+ADV-COMM-0356,CASE-0823,PERSON-0868 contacted PERSON-0491 confirming pickup.,165
+ADV-COMM-0357,CASE-0166,PERSON-0455 contacted PERSON-0076 regarding operational logistics.,132
+ADV-COMM-0358,CASE-0166,PERSON-0076 contacted PERSON-0455 confirming pickup.,56
+ADV-COMM-0359,CASE-1199,PERSON-0640 contacted PERSON-0649 regarding operational logistics.,190
+ADV-COMM-0360,CASE-0604,PERSON-0612 contacted PERSON-0544 regarding operational logistics.,166
+ADV-COMM-0361,CASE-0604,PERSON-0544 contacted PERSON-0612 confirming pickup.,150
+ADV-COMM-0362,CASE-1130,PERSON-0719 contacted PERSON-0118 regarding operational logistics.,234
+ADV-COMM-0363,CASE-0848,PERSON-0910 contacted PERSON-0234 regarding operational logistics.,136
+ADV-COMM-0364,CASE-0641,PERSON-0748 contacted PERSON-0098 regarding operational logistics.,159
+ADV-COMM-0365,CASE-0641,PERSON-0098 contacted PERSON-0748 confirming pickup.,105
+ADV-COMM-0366,CASE-0972,PERSON-0157 contacted PERSON-0704 regarding operational logistics.,67
+ADV-COMM-0367,CASE-0972,PERSON-0704 contacted PERSON-0157 confirming pickup.,61
+ADV-COMM-0368,CASE-0764,PERSON-0099 contacted PERSON-0763 regarding operational logistics.,257
+ADV-COMM-0369,CASE-0764,PERSON-0763 contacted PERSON-0099 confirming pickup.,55
+ADV-COMM-0370,CASE-0251,PERSON-0576 contacted PERSON-0338 regarding operational logistics.,155
+ADV-COMM-0371,CASE-0251,PERSON-0338 contacted PERSON-0576 confirming pickup.,148
+ADV-COMM-0372,CASE-0590,PERSON-0739 contacted PERSON-0053 regarding operational logistics.,203
+ADV-COMM-0373,CASE-0590,PERSON-0053 contacted PERSON-0739 confirming pickup.,66
+ADV-COMM-0374,CASE-0988,PERSON-0218 contacted PERSON-0159 regarding operational logistics.,107
+ADV-COMM-0375,CASE-0236,PERSON-0570 contacted PERSON-0377 regarding operational logistics.,245
+ADV-COMM-0376,CASE-0236,PERSON-0377 contacted PERSON-0570 confirming pickup.,97
+ADV-COMM-0377,CASE-1141,PERSON-0866 contacted PERSON-0575 regarding operational logistics.,56
+ADV-COMM-0378,CASE-1141,PERSON-0575 contacted PERSON-0866 confirming pickup.,108
+ADV-COMM-0379,CASE-0633,PERSON-0280 contacted PERSON-0720 regarding operational logistics.,285
+ADV-COMM-0380,CASE-0633,PERSON-0720 contacted PERSON-0280 confirming pickup.,41
+ADV-COMM-0381,CASE-0821,PERSON-0147 contacted PERSON-0580 regarding operational logistics.,67
+ADV-COMM-0382,CASE-0821,PERSON-0580 contacted PERSON-0147 confirming pickup.,47
+ADV-COMM-0383,CASE-0771,PERSON-0544 contacted PERSON-0221 regarding operational logistics.,157
+ADV-COMM-0384,CASE-0771,PERSON-0221 contacted PERSON-0544 confirming pickup.,80
+ADV-COMM-0385,CASE-1163,PERSON-0739 contacted PERSON-0333 regarding operational logistics.,202
+ADV-COMM-0386,CASE-1163,PERSON-0333 contacted PERSON-0739 confirming pickup.,53
+ADV-COMM-0387,CASE-0102,PERSON-0773 contacted PERSON-0633 regarding operational logistics.,222
+ADV-COMM-0388,CASE-0102,PERSON-0633 contacted PERSON-0773 confirming pickup.,153
+ADV-COMM-0389,CASE-0906,PERSON-0498 contacted PERSON-0622 regarding operational logistics.,156
+ADV-COMM-0390,CASE-0906,PERSON-0622 contacted PERSON-0498 confirming pickup.,171
+ADV-COMM-0391,CASE-0581,PERSON-0441 contacted PERSON-0114 regarding operational logistics.,223
+ADV-COMM-0392,CASE-0581,PERSON-0114 contacted PERSON-0441 confirming pickup.,164
+ADV-COMM-0393,CASE-0452,PERSON-0316 contacted PERSON-0047 regarding operational logistics.,151
+ADV-COMM-0394,CASE-0433,PERSON-0210 contacted PERSON-0309 regarding operational logistics.,246
+ADV-COMM-0395,CASE-0433,PERSON-0309 contacted PERSON-0210 confirming pickup.,105
+ADV-COMM-0396,CASE-1019,PERSON-0123 contacted PERSON-0008 regarding operational logistics.,241
+ADV-COMM-0397,CASE-1019,PERSON-0008 contacted PERSON-0123 confirming pickup.,73
+ADV-COMM-0398,CASE-1025,PERSON-0721 contacted PERSON-0236 regarding operational logistics.,193
+ADV-COMM-0399,CASE-0087,PERSON-0074 contacted PERSON-0407 regarding operational logistics.,161
+ADV-COMM-0400,CASE-0087,PERSON-0407 contacted PERSON-0074 confirming pickup.,59
+ADV-COMM-0401,CASE-1175,PERSON-0590 contacted PERSON-0440 regarding operational logistics.,153
+ADV-COMM-0402,CASE-0043,PERSON-0118 contacted PERSON-0415 regarding operational logistics.,297
+ADV-COMM-0403,CASE-0043,PERSON-0415 contacted PERSON-0118 confirming pickup.,157
+ADV-COMM-0404,CASE-0181,PERSON-0942 contacted PERSON-0371 regarding operational logistics.,161
+ADV-COMM-0405,CASE-1074,PERSON-0604 contacted PERSON-0411 regarding operational logistics.,70
+ADV-COMM-0406,CASE-1074,PERSON-0411 contacted PERSON-0604 confirming pickup.,119
+ADV-COMM-0407,CASE-0345,PERSON-0227 contacted PERSON-0342 regarding operational logistics.,69
+ADV-COMM-0408,CASE-0345,PERSON-0342 contacted PERSON-0227 confirming pickup.,69
+ADV-COMM-0409,CASE-0716,PERSON-0199 contacted PERSON-0928 regarding operational logistics.,139
+ADV-COMM-0410,CASE-0484,PERSON-0835 contacted PERSON-0152 regarding operational logistics.,76
+ADV-COMM-0411,CASE-0484,PERSON-0152 contacted PERSON-0835 confirming pickup.,90
+ADV-COMM-0412,CASE-0155,PERSON-0157 contacted PERSON-0779 regarding operational logistics.,95
+ADV-COMM-0413,CASE-1155,PERSON-0476 contacted PERSON-0773 regarding operational logistics.,244
+ADV-COMM-0414,CASE-1155,PERSON-0773 contacted PERSON-0476 confirming pickup.,122
+ADV-COMM-0415,CASE-0310,PERSON-0643 contacted PERSON-0324 regarding operational logistics.,162
+ADV-COMM-0416,CASE-0310,PERSON-0324 contacted PERSON-0643 confirming pickup.,153
+ADV-COMM-0417,CASE-1212,PERSON-0816 contacted PERSON-0282 regarding operational logistics.,64
+ADV-COMM-0418,CASE-1212,PERSON-0282 contacted PERSON-0816 confirming pickup.,58
+ADV-COMM-0419,CASE-0117,PERSON-0463 contacted PERSON-0039 regarding operational logistics.,144
+ADV-COMM-0420,CASE-0185,PERSON-0885 contacted PERSON-0876 regarding operational logistics.,207
+ADV-COMM-0421,CASE-0185,PERSON-0876 contacted PERSON-0885 confirming pickup.,138
+ADV-COMM-0422,CASE-0085,PERSON-0568 contacted PERSON-0978 regarding operational logistics.,165
+ADV-COMM-0423,CASE-1240,PERSON-0193 contacted PERSON-0330 regarding operational logistics.,171
+ADV-COMM-0424,CASE-1240,PERSON-0330 contacted PERSON-0193 confirming pickup.,55
+ADV-COMM-0425,CASE-0704,PERSON-0831 contacted PERSON-0921 regarding operational logistics.,232
+ADV-COMM-0426,CASE-0704,PERSON-0921 contacted PERSON-0831 confirming pickup.,84
+ADV-COMM-0427,CASE-0900,PERSON-0725 contacted PERSON-0449 regarding operational logistics.,184
+ADV-COMM-0428,CASE-0900,PERSON-0449 contacted PERSON-0725 confirming pickup.,80
+ADV-COMM-0429,CASE-0794,PERSON-0940 contacted PERSON-0290 regarding operational logistics.,154
+ADV-COMM-0430,CASE-0686,PERSON-0054 contacted PERSON-0809 regarding operational logistics.,66
+ADV-COMM-0431,CASE-0686,PERSON-0809 contacted PERSON-0054 confirming pickup.,138
+ADV-COMM-0432,CASE-1235,PERSON-0742 contacted PERSON-0873 regarding operational logistics.,273
+ADV-COMM-0433,CASE-1235,PERSON-0873 contacted PERSON-0742 confirming pickup.,60
+ADV-COMM-0434,CASE-0717,PERSON-0145 contacted PERSON-0939 regarding operational logistics.,129
+ADV-COMM-0435,CASE-1219,PERSON-0402 contacted PERSON-0133 regarding operational logistics.,231
+ADV-COMM-0436,CASE-0673,PERSON-0386 contacted PERSON-0659 regarding operational logistics.,258
+ADV-COMM-0437,CASE-0673,PERSON-0659 contacted PERSON-0386 confirming pickup.,174
+ADV-COMM-0438,CASE-1042,PERSON-0687 contacted PERSON-0434 regarding operational logistics.,142
+ADV-COMM-0439,CASE-1042,PERSON-0434 contacted PERSON-0687 confirming pickup.,119
+ADV-COMM-0440,CASE-0996,PERSON-0220 contacted PERSON-0350 regarding operational logistics.,99
+ADV-COMM-0441,CASE-0996,PERSON-0350 contacted PERSON-0220 confirming pickup.,75
+ADV-COMM-0442,CASE-0208,PERSON-0303 contacted PERSON-0865 regarding operational logistics.,179
+ADV-COMM-0443,CASE-0078,PERSON-0905 contacted PERSON-0540 regarding operational logistics.,219
+ADV-COMM-0444,CASE-0078,PERSON-0540 contacted PERSON-0905 confirming pickup.,73
+ADV-COMM-0445,CASE-0371,PERSON-0158 contacted PERSON-0167 regarding operational logistics.,262
+ADV-COMM-0446,CASE-0371,PERSON-0167 contacted PERSON-0158 confirming pickup.,82
+ADV-COMM-0447,CASE-0747,PERSON-0045 contacted PERSON-0421 regarding operational logistics.,223
+ADV-COMM-0448,CASE-0920,PERSON-0626 contacted PERSON-0292 regarding operational logistics.,109
+ADV-COMM-0449,CASE-0920,PERSON-0292 contacted PERSON-0626 confirming pickup.,119
+ADV-COMM-0450,CASE-0398,PERSON-0804 contacted PERSON-0481 regarding operational logistics.,144
+ADV-COMM-0451,CASE-0398,PERSON-0481 contacted PERSON-0804 confirming pickup.,152
+ADV-COMM-0452,CASE-0783,PERSON-0289 contacted PERSON-0797 regarding operational logistics.,178
+ADV-COMM-0453,CASE-0783,PERSON-0797 contacted PERSON-0289 confirming pickup.,81
+ADV-COMM-0454,CASE-0284,PERSON-0821 contacted PERSON-0620 regarding operational logistics.,273
+ADV-COMM-0455,CASE-0284,PERSON-0620 contacted PERSON-0821 confirming pickup.,163
+ADV-COMM-0456,CASE-0211,PERSON-0568 contacted PERSON-0957 regarding operational logistics.,232
+ADV-COMM-0457,CASE-0329,PERSON-0292 contacted PERSON-0086 regarding operational logistics.,119
+ADV-COMM-0458,CASE-0329,PERSON-0086 contacted PERSON-0292 confirming pickup.,171
+ADV-COMM-0459,CASE-0455,PERSON-0448 contacted PERSON-0094 regarding operational logistics.,259
+ADV-COMM-0460,CASE-0455,PERSON-0094 contacted PERSON-0448 confirming pickup.,129
+ADV-COMM-0461,CASE-0812,PERSON-0425 contacted PERSON-0055 regarding operational logistics.,178
+ADV-COMM-0462,CASE-0812,PERSON-0055 contacted PERSON-0425 confirming pickup.,138
+ADV-COMM-0463,CASE-0058,PERSON-0384 contacted PERSON-0230 regarding operational logistics.,131
+ADV-COMM-0464,CASE-0300,PERSON-0666 contacted PERSON-0344 regarding operational logistics.,85
+ADV-COMM-0465,CASE-0300,PERSON-0344 contacted PERSON-0666 confirming pickup.,160
+ADV-COMM-0466,CASE-0961,PERSON-0143 contacted PERSON-0778 regarding operational logistics.,164
+ADV-COMM-0467,CASE-0961,PERSON-0778 contacted PERSON-0143 confirming pickup.,60
+ADV-COMM-0468,CASE-0307,PERSON-0221 contacted PERSON-0856 regarding operational logistics.,190
+ADV-COMM-0469,CASE-0591,PERSON-0434 contacted PERSON-0114 regarding operational logistics.,110
+ADV-COMM-0470,CASE-0591,PERSON-0114 contacted PERSON-0434 confirming pickup.,52
+ADV-COMM-0471,CASE-0937,PERSON-0655 contacted PERSON-0813 regarding operational logistics.,66
+ADV-COMM-0472,CASE-0937,PERSON-0813 contacted PERSON-0655 confirming pickup.,167
+ADV-COMM-0473,CASE-1056,PERSON-0017 contacted PERSON-0648 regarding operational logistics.,197
+ADV-COMM-0474,CASE-1056,PERSON-0648 contacted PERSON-0017 confirming pickup.,76
+ADV-COMM-0475,CASE-0723,PERSON-0002 contacted PERSON-0630 regarding operational logistics.,111
+ADV-COMM-0476,CASE-0723,PERSON-0630 contacted PERSON-0002 confirming pickup.,87
+ADV-COMM-0477,CASE-0739,PERSON-0088 contacted PERSON-0537 regarding operational logistics.,67
+ADV-COMM-0478,CASE-1135,PERSON-0806 contacted PERSON-0520 regarding operational logistics.,55
+ADV-COMM-0479,CASE-1135,PERSON-0520 contacted PERSON-0806 confirming pickup.,160
+ADV-COMM-0480,CASE-0520,PERSON-0397 contacted PERSON-0383 regarding operational logistics.,241
+ADV-COMM-0481,CASE-0520,PERSON-0383 contacted PERSON-0397 confirming pickup.,57
+ADV-COMM-0482,CASE-0213,PERSON-0751 contacted PERSON-0673 regarding operational logistics.,247
+ADV-COMM-0483,CASE-0213,PERSON-0673 contacted PERSON-0751 confirming pickup.,125
+ADV-COMM-0484,CASE-0694,PERSON-0361 contacted PERSON-0560 regarding operational logistics.,258
+ADV-COMM-0485,CASE-0694,PERSON-0560 contacted PERSON-0361 confirming pickup.,158
+ADV-COMM-0486,CASE-0374,PERSON-0491 contacted PERSON-0647 regarding operational logistics.,257
+ADV-COMM-0487,CASE-0374,PERSON-0647 contacted PERSON-0491 confirming pickup.,157
+ADV-COMM-0488,CASE-0409,PERSON-0207 contacted PERSON-0045 regarding operational logistics.,276
+ADV-COMM-0489,CASE-0409,PERSON-0045 contacted PERSON-0207 confirming pickup.,119
+ADV-COMM-0490,CASE-0970,PERSON-0835 contacted PERSON-0557 regarding operational logistics.,114
+ADV-COMM-0491,CASE-0970,PERSON-0557 contacted PERSON-0835 confirming pickup.,88
+ADV-COMM-0492,CASE-0098,PERSON-0883 contacted PERSON-0800 regarding operational logistics.,271
+ADV-COMM-0493,CASE-0098,PERSON-0800 contacted PERSON-0883 confirming pickup.,109
+ADV-COMM-0494,CASE-0820,PERSON-0377 contacted PERSON-0448 regarding operational logistics.,240
+ADV-COMM-0495,CASE-0820,PERSON-0448 contacted PERSON-0377 confirming pickup.,138
+ADV-COMM-0496,CASE-1019,PERSON-0192 contacted PERSON-0509 regarding operational logistics.,144
+ADV-COMM-0497,CASE-0870,PERSON-0821 contacted PERSON-0085 regarding operational logistics.,70
+ADV-COMM-0498,CASE-0870,PERSON-0085 contacted PERSON-0821 confirming pickup.,86
+ADV-COMM-0499,CASE-0164,PERSON-0329 contacted PERSON-0106 regarding operational logistics.,133
+ADV-COMM-0500,CASE-0164,PERSON-0106 contacted PERSON-0329 confirming pickup.,118
+ADV-COMM-0501,CASE-0342,PERSON-0735 contacted PERSON-0437 regarding operational logistics.,226
+ADV-COMM-0502,CASE-0342,PERSON-0437 contacted PERSON-0735 confirming pickup.,154
+ADV-COMM-0503,CASE-0723,PERSON-0891 contacted PERSON-0934 regarding operational logistics.,207
+ADV-COMM-0504,CASE-0118,PERSON-0811 contacted PERSON-0971 regarding operational logistics.,69
+ADV-COMM-0505,CASE-0118,PERSON-0971 contacted PERSON-0811 confirming pickup.,143
+ADV-COMM-0506,CASE-0328,PERSON-0821 contacted PERSON-0768 regarding operational logistics.,293
+ADV-COMM-0507,CASE-0328,PERSON-0768 contacted PERSON-0821 confirming pickup.,152
+ADV-COMM-0508,CASE-0751,PERSON-0069 contacted PERSON-0242 regarding operational logistics.,142
+ADV-COMM-0509,CASE-0751,PERSON-0242 contacted PERSON-0069 confirming pickup.,48
+ADV-COMM-0510,CASE-0760,PERSON-0696 contacted PERSON-0461 regarding operational logistics.,145
+ADV-COMM-0511,CASE-0760,PERSON-0461 contacted PERSON-0696 confirming pickup.,59
+ADV-COMM-0512,CASE-0816,PERSON-0543 contacted PERSON-0376 regarding operational logistics.,130
+ADV-COMM-0513,CASE-0816,PERSON-0376 contacted PERSON-0543 confirming pickup.,103
+ADV-COMM-0514,CASE-0382,PERSON-0027 contacted PERSON-0754 regarding operational logistics.,177
+ADV-COMM-0515,CASE-0382,PERSON-0754 contacted PERSON-0027 confirming pickup.,70
+ADV-COMM-0516,CASE-0914,PERSON-0267 contacted PERSON-0721 regarding operational logistics.,104
+ADV-COMM-0517,CASE-0410,PERSON-0939 contacted PERSON-0503 regarding operational logistics.,81
+ADV-COMM-0518,CASE-0410,PERSON-0503 contacted PERSON-0939 confirming pickup.,58
+ADV-COMM-0519,CASE-0912,PERSON-0921 contacted PERSON-0731 regarding operational logistics.,72
+ADV-COMM-0520,CASE-0712,PERSON-0328 contacted PERSON-0684 regarding operational logistics.,231
+ADV-COMM-0521,CASE-0712,PERSON-0684 contacted PERSON-0328 confirming pickup.,178
+ADV-COMM-0522,CASE-0323,PERSON-0308 contacted PERSON-0872 regarding operational logistics.,232
+ADV-COMM-0523,CASE-0741,PERSON-0179 contacted PERSON-0813 regarding operational logistics.,180
+ADV-COMM-0524,CASE-0741,PERSON-0813 contacted PERSON-0179 confirming pickup.,91
+ADV-COMM-0525,CASE-1012,PERSON-0243 contacted PERSON-0810 regarding operational logistics.,56
+ADV-COMM-0526,CASE-1012,PERSON-0810 contacted PERSON-0243 confirming pickup.,134
+ADV-COMM-0527,CASE-0177,PERSON-0565 contacted PERSON-0133 regarding operational logistics.,66
+ADV-COMM-0528,CASE-0177,PERSON-0133 contacted PERSON-0565 confirming pickup.,162
+ADV-COMM-0529,CASE-1178,PERSON-0788 contacted PERSON-0420 regarding operational logistics.,68
+ADV-COMM-0530,CASE-1178,PERSON-0420 contacted PERSON-0788 confirming pickup.,121
+ADV-COMM-0531,CASE-1060,PERSON-0461 contacted PERSON-0478 regarding operational logistics.,138
+ADV-COMM-0532,CASE-1060,PERSON-0478 contacted PERSON-0461 confirming pickup.,86
+ADV-COMM-0533,CASE-1030,PERSON-0133 contacted PERSON-0444 regarding operational logistics.,283
+ADV-COMM-0534,CASE-0623,PERSON-0531 contacted PERSON-0157 regarding operational logistics.,92
+ADV-COMM-0535,CASE-0623,PERSON-0157 contacted PERSON-0531 confirming pickup.,97
+ADV-COMM-0536,CASE-0582,PERSON-0964 contacted PERSON-0532 regarding operational logistics.,266
+ADV-COMM-0537,CASE-0582,PERSON-0532 contacted PERSON-0964 confirming pickup.,90
+ADV-COMM-0538,CASE-0257,PERSON-0565 contacted PERSON-0282 regarding operational logistics.,210
+ADV-COMM-0539,CASE-0257,PERSON-0282 contacted PERSON-0565 confirming pickup.,176
+ADV-COMM-0540,CASE-1213,PERSON-0657 contacted PERSON-0173 regarding operational logistics.,291
+ADV-COMM-0541,CASE-1213,PERSON-0173 contacted PERSON-0657 confirming pickup.,83
+ADV-COMM-0542,CASE-1240,PERSON-0738 contacted PERSON-0924 regarding operational logistics.,136
+ADV-COMM-0543,CASE-0059,PERSON-0846 contacted PERSON-0885 regarding operational logistics.,70
+ADV-COMM-0544,CASE-0059,PERSON-0885 contacted PERSON-0846 confirming pickup.,107
+ADV-COMM-0545,CASE-0854,PERSON-0786 contacted PERSON-0586 regarding operational logistics.,208
+ADV-COMM-0546,CASE-0854,PERSON-0586 contacted PERSON-0786 confirming pickup.,167
+ADV-COMM-0547,CASE-0619,PERSON-0559 contacted PERSON-0297 regarding operational logistics.,173
+ADV-COMM-0548,CASE-0619,PERSON-0297 contacted PERSON-0559 confirming pickup.,143
+ADV-COMM-0549,CASE-0123,PERSON-0075 contacted PERSON-0706 regarding operational logistics.,90
+ADV-COMM-0550,CASE-0123,PERSON-0706 contacted PERSON-0075 confirming pickup.,163
+ADV-COMM-0551,CASE-0295,PERSON-0349 contacted PERSON-0622 regarding operational logistics.,130
+ADV-COMM-0552,CASE-0817,PERSON-0882 contacted PERSON-0354 regarding operational logistics.,83
+ADV-COMM-0553,CASE-0496,PERSON-0109 contacted PERSON-0327 regarding operational logistics.,169
+ADV-COMM-0554,CASE-0496,PERSON-0327 contacted PERSON-0109 confirming pickup.,155
+ADV-COMM-0555,CASE-0595,PERSON-0100 contacted PERSON-0052 regarding operational logistics.,292
+ADV-COMM-0556,CASE-0595,PERSON-0052 contacted PERSON-0100 confirming pickup.,147
+ADV-COMM-0557,CASE-0328,PERSON-0887 contacted PERSON-0924 regarding operational logistics.,258
+ADV-COMM-0558,CASE-0328,PERSON-0924 contacted PERSON-0887 confirming pickup.,120
+ADV-COMM-0559,CASE-1055,PERSON-0164 contacted PERSON-0511 regarding operational logistics.,169
+ADV-COMM-0560,CASE-1055,PERSON-0511 contacted PERSON-0164 confirming pickup.,118
+ADV-COMM-0561,CASE-0806,PERSON-0093 contacted PERSON-0968 regarding operational logistics.,179
+ADV-COMM-0562,CASE-0806,PERSON-0968 contacted PERSON-0093 confirming pickup.,101
+ADV-COMM-0563,CASE-0104,PERSON-0362 contacted PERSON-0050 regarding operational logistics.,122
+ADV-COMM-0564,CASE-0104,PERSON-0050 contacted PERSON-0362 confirming pickup.,160
+ADV-COMM-0565,CASE-0221,PERSON-0009 contacted PERSON-0868 regarding operational logistics.,160
+ADV-COMM-0566,CASE-0221,PERSON-0868 contacted PERSON-0009 confirming pickup.,107
+ADV-COMM-0567,CASE-0750,PERSON-0783 contacted PERSON-0413 regarding operational logistics.,61
+ADV-COMM-0568,CASE-0750,PERSON-0413 contacted PERSON-0783 confirming pickup.,89
+ADV-COMM-0569,CASE-0792,PERSON-0296 contacted PERSON-0076 regarding operational logistics.,179
+ADV-COMM-0570,CASE-0792,PERSON-0076 contacted PERSON-0296 confirming pickup.,180
+ADV-COMM-0571,CASE-0244,PERSON-0639 contacted PERSON-0697 regarding operational logistics.,82
+ADV-COMM-0572,CASE-1143,PERSON-0814 contacted PERSON-0348 regarding operational logistics.,290
+ADV-COMM-0573,CASE-1143,PERSON-0348 contacted PERSON-0814 confirming pickup.,76
+ADV-COMM-0574,CASE-1025,PERSON-0522 contacted PERSON-0412 regarding operational logistics.,60
+ADV-COMM-0575,CASE-1025,PERSON-0412 contacted PERSON-0522 confirming pickup.,75
+ADV-COMM-0576,CASE-1064,PERSON-0824 contacted PERSON-0486 regarding operational logistics.,166
+ADV-COMM-0577,CASE-1064,PERSON-0486 contacted PERSON-0824 confirming pickup.,171
+ADV-COMM-0578,CASE-0653,PERSON-0954 contacted PERSON-0628 regarding operational logistics.,91
+ADV-COMM-0579,CASE-0653,PERSON-0628 contacted PERSON-0954 confirming pickup.,116
+ADV-COMM-0580,CASE-1044,PERSON-0520 contacted PERSON-0849 regarding operational logistics.,186
+ADV-COMM-0581,CASE-1044,PERSON-0849 contacted PERSON-0520 confirming pickup.,116
+ADV-COMM-0582,CASE-0679,PERSON-0018 contacted PERSON-0378 regarding operational logistics.,222
+ADV-COMM-0583,CASE-0679,PERSON-0378 contacted PERSON-0018 confirming pickup.,146
+ADV-COMM-0584,CASE-0055,PERSON-0816 contacted PERSON-0921 regarding operational logistics.,202
+ADV-COMM-0585,CASE-0055,PERSON-0921 contacted PERSON-0816 confirming pickup.,98
+ADV-COMM-0586,CASE-0350,PERSON-0598 contacted PERSON-0492 regarding operational logistics.,184
+ADV-COMM-0587,CASE-0350,PERSON-0492 contacted PERSON-0598 confirming pickup.,137
+ADV-COMM-0588,CASE-0065,PERSON-0698 contacted PERSON-0249 regarding operational logistics.,196
+ADV-COMM-0589,CASE-0643,PERSON-0020 contacted PERSON-0452 regarding operational logistics.,157
+ADV-COMM-0590,CASE-0643,PERSON-0452 contacted PERSON-0020 confirming pickup.,92
+ADV-COMM-0591,CASE-0966,PERSON-0794 contacted PERSON-0627 regarding operational logistics.,273
+ADV-COMM-0592,CASE-1063,PERSON-0723 contacted PERSON-0142 regarding operational logistics.,103
+ADV-COMM-0593,CASE-1063,PERSON-0142 contacted PERSON-0723 confirming pickup.,162
+ADV-COMM-0594,CASE-0355,PERSON-0322 contacted PERSON-0980 regarding operational logistics.,167
+ADV-COMM-0595,CASE-0542,PERSON-0363 contacted PERSON-0693 regarding operational logistics.,206
+ADV-COMM-0596,CASE-0542,PERSON-0693 contacted PERSON-0363 confirming pickup.,103
+ADV-COMM-0597,CASE-0610,PERSON-0306 contacted PERSON-0231 regarding operational logistics.,247
+ADV-COMM-0598,CASE-0610,PERSON-0231 contacted PERSON-0306 confirming pickup.,93
+ADV-COMM-0599,CASE-0983,PERSON-0501 contacted PERSON-0325 regarding operational logistics.,139
+ADV-COMM-0600,CASE-0983,PERSON-0325 contacted PERSON-0501 confirming pickup.,110
+ADV-COMM-0601,CASE-1113,PERSON-0588 contacted PERSON-0693 regarding operational logistics.,147
+ADV-COMM-0602,CASE-0300,PERSON-0354 contacted PERSON-0978 via encrypted relay.,33
+ADV-COMM-0603,CASE-0162,PERSON-0979 contacted PERSON-0732 via encrypted relay.,43
+ADV-COMM-0604,CASE-0982,PERSON-0672 contacted PERSON-0263 via encrypted relay.,49
+ADV-COMM-0605,CASE-1152,PERSON-0278 contacted PERSON-0956 via encrypted relay.,23
+ADV-COMM-0606,CASE-1202,PERSON-0112 contacted PERSON-0631 via encrypted relay.,18
+ADV-COMM-0607,CASE-1088,PERSON-0686 contacted PERSON-0927 via encrypted relay.,29
+ADV-COMM-0608,CASE-0847,PERSON-0054 contacted PERSON-0103 via encrypted relay.,45
+ADV-COMM-0609,CASE-0282,PERSON-0103 contacted PERSON-0698 via encrypted relay.,50
+ADV-COMM-0610,CASE-0834,PERSON-0952 contacted PERSON-0162 via encrypted relay.,45
+ADV-COMM-0611,CASE-0409,PERSON-0489 contacted PERSON-0667 via encrypted relay.,33
+ADV-COMM-0612,CASE-0122,PERSON-0329 contacted PERSON-0293 via encrypted relay.,20
+ADV-COMM-0613,CASE-0476,PERSON-0668 contacted PERSON-0588 via encrypted relay.,17
+ADV-COMM-0614,CASE-0359,PERSON-0936 contacted PERSON-0944 via encrypted relay.,26
+ADV-COMM-0615,CASE-0075,PERSON-0957 contacted PERSON-0942 via encrypted relay.,40
+ADV-COMM-0616,CASE-0382,PERSON-0807 contacted PERSON-0508 via encrypted relay.,33
+ADV-COMM-0617,CASE-0019,PERSON-0898 contacted PERSON-0039 via encrypted relay.,53
+ADV-COMM-0618,CASE-0687,PERSON-0110 contacted PERSON-0951 via encrypted relay.,56
+ADV-COMM-0619,CASE-1012,PERSON-0557 contacted PERSON-0537 via encrypted relay.,23
+ADV-COMM-0620,CASE-0959,PERSON-0872 contacted PERSON-0517 via encrypted relay.,22
+ADV-COMM-0621,CASE-0940,PERSON-0339 contacted PERSON-0167 via encrypted relay.,60
+ADV-COMM-0622,CASE-0691,PERSON-0191 contacted PERSON-0015 via encrypted relay.,51
+ADV-COMM-0623,CASE-0396,PERSON-0691 contacted PERSON-0776 via encrypted relay.,55
+ADV-COMM-0624,CASE-0876,PERSON-0919 contacted PERSON-0416 via encrypted relay.,20
+ADV-COMM-0625,CASE-0196,PERSON-0411 contacted PERSON-0686 via encrypted relay.,23
+ADV-COMM-0626,CASE-0509,PERSON-0489 contacted PERSON-0332 via encrypted relay.,39
+ADV-COMM-0627,CASE-0547,PERSON-0242 contacted PERSON-0458 via encrypted relay.,34
+ADV-COMM-0628,CASE-1174,PERSON-0597 contacted PERSON-0741 via encrypted relay.,56
+ADV-COMM-0629,CASE-0484,PERSON-0369 contacted PERSON-0710 via encrypted relay.,22
+ADV-COMM-0630,CASE-0328,PERSON-0477 contacted PERSON-0315 via encrypted relay.,47
+ADV-COMM-0631,CASE-0637,PERSON-0946 contacted PERSON-0917 via encrypted relay.,55
+ADV-COMM-0632,CASE-0605,PERSON-0939 contacted PERSON-0964 via encrypted relay.,29
+ADV-COMM-0633,CASE-0274,PERSON-0225 contacted PERSON-0981 via encrypted relay.,44
+ADV-COMM-0634,CASE-0766,PERSON-0766 contacted PERSON-0621 via encrypted relay.,50
+ADV-COMM-0635,CASE-1101,PERSON-0935 contacted PERSON-0483 via encrypted relay.,28
+ADV-COMM-0636,CASE-1221,PERSON-0781 contacted PERSON-0254 via encrypted relay.,20
+ADV-COMM-0637,CASE-1082,PERSON-0539 contacted PERSON-0458 via encrypted relay.,19
+ADV-COMM-0638,CASE-0230,PERSON-0940 contacted PERSON-0578 via encrypted relay.,50
+ADV-COMM-0639,CASE-0415,PERSON-0925 contacted PERSON-0518 via encrypted relay.,24
+ADV-COMM-0640,CASE-1066,PERSON-0169 contacted PERSON-0336 via encrypted relay.,58
+ADV-COMM-0641,CASE-1195,PERSON-0211 contacted PERSON-0735 via encrypted relay.,47
+ADV-COMM-0642,CASE-0114,PERSON-0457 contacted PERSON-0829 via encrypted relay.,47
+ADV-COMM-0643,CASE-1155,PERSON-0426 contacted PERSON-0468 via encrypted relay.,44
+ADV-COMM-0644,CASE-0632,PERSON-0689 contacted PERSON-0827 via encrypted relay.,40
+ADV-COMM-0645,CASE-0007,PERSON-0261 contacted PERSON-0837 via encrypted relay.,52
+ADV-COMM-0646,CASE-0868,PERSON-0075 contacted PERSON-0047 via encrypted relay.,19
+ADV-COMM-0647,CASE-0142,PERSON-0555 contacted PERSON-0062 via encrypted relay.,45
+ADV-COMM-0648,CASE-0838,PERSON-0033 contacted PERSON-0294 via encrypted relay.,23
+ADV-COMM-0649,CASE-0861,PERSON-0785 contacted PERSON-0657 via encrypted relay.,39
+ADV-COMM-0650,CASE-0774,PERSON-0460 contacted PERSON-0891 via encrypted relay.,58
+ADV-COMM-0651,CASE-1105,PERSON-0988 contacted PERSON-0678 via encrypted relay.,37
+ADV-COMM-0652,CASE-1101,PERSON-0122 contacted PERSON-0183 via encrypted relay.,23
+ADV-COMM-0653,CASE-0008,PERSON-0746 contacted PERSON-0229 via encrypted relay.,34
+ADV-COMM-0654,CASE-1116,PERSON-0475 contacted PERSON-0690 via encrypted relay.,39
+ADV-COMM-0655,CASE-0507,PERSON-0844 contacted PERSON-0236 via encrypted relay.,24
+ADV-COMM-0656,CASE-0232,PERSON-0283 contacted PERSON-0194 via encrypted relay.,57
+ADV-COMM-0657,CASE-0033,PERSON-0430 contacted PERSON-0630 via encrypted relay.,19
+ADV-COMM-0658,CASE-0069,PERSON-0104 contacted PERSON-0609 via encrypted relay.,58
+ADV-COMM-0659,CASE-0100,PERSON-0721 contacted PERSON-0894 via encrypted relay.,17
+ADV-COMM-0660,CASE-0480,PERSON-0412 contacted PERSON-0450 via encrypted relay.,18
+ADV-COMM-0661,CASE-0593,PERSON-0144 contacted PERSON-0516 via encrypted relay.,51
+ADV-COMM-0662,CASE-1225,PERSON-0327 contacted PERSON-0592 via encrypted relay.,35
+ADV-COMM-0663,CASE-0294,PERSON-0243 contacted PERSON-0310 via encrypted relay.,48
+ADV-COMM-0664,CASE-0616,PERSON-0227 contacted PERSON-0424 via encrypted relay.,50
+ADV-COMM-0665,CASE-0359,PERSON-0972 contacted PERSON-0606 via encrypted relay.,42
+ADV-COMM-0666,CASE-0097,PERSON-0570 contacted PERSON-0508 via encrypted relay.,56
+ADV-COMM-0667,CASE-1075,PERSON-0688 contacted PERSON-0391 via encrypted relay.,41
+ADV-COMM-0668,CASE-0615,PERSON-0419 contacted PERSON-0153 via encrypted relay.,49
+ADV-COMM-0669,CASE-0462,PERSON-0485 contacted PERSON-0247 via encrypted relay.,60
+ADV-COMM-0670,CASE-0949,PERSON-0148 contacted PERSON-0826 via encrypted relay.,50
+ADV-COMM-0671,CASE-0854,PERSON-0423 contacted PERSON-0992 via encrypted relay.,23
+ADV-COMM-0672,CASE-0523,PERSON-0398 contacted PERSON-0249 via encrypted relay.,56
+ADV-COMM-0673,CASE-0922,PERSON-0081 contacted PERSON-0945 via encrypted relay.,20
+ADV-COMM-0674,CASE-0391,PERSON-0549 contacted PERSON-0742 via encrypted relay.,39
+ADV-COMM-0675,CASE-1235,PERSON-0690 contacted PERSON-0620 via encrypted relay.,19
+ADV-COMM-0676,CASE-1204,PERSON-0193 contacted PERSON-0824 via encrypted relay.,50
+ADV-COMM-0677,CASE-0428,PERSON-0223 contacted PERSON-0491 via encrypted relay.,36
+ADV-COMM-0678,CASE-0032,PERSON-0311 contacted PERSON-0980 via encrypted relay.,27
+ADV-COMM-0679,CASE-0241,PERSON-0986 contacted PERSON-0760 via encrypted relay.,45
+ADV-COMM-0680,CASE-1238,PERSON-0937 contacted PERSON-0249 via encrypted relay.,40
+ADV-COMM-0681,CASE-1131,PERSON-0938 contacted PERSON-0246 via encrypted relay.,33
+ADV-COMM-0682,CASE-1093,PERSON-0390 contacted PERSON-0478 via encrypted relay.,34
+ADV-COMM-0683,CASE-1051,PERSON-0268 contacted PERSON-0369 via encrypted relay.,44
+ADV-COMM-0684,CASE-0962,PERSON-0101 contacted PERSON-0823 via encrypted relay.,35
+ADV-COMM-0685,CASE-0760,PERSON-0937 contacted PERSON-0209 via encrypted relay.,17
+ADV-COMM-0686,CASE-0454,PERSON-0577 contacted PERSON-0885 via encrypted relay.,16
+ADV-COMM-0687,CASE-1197,PERSON-0268 contacted PERSON-0567 via encrypted relay.,41
+ADV-COMM-0688,CASE-0402,PERSON-0303 contacted PERSON-0157 via encrypted relay.,39
+ADV-COMM-0689,CASE-0504,PERSON-0584 contacted PERSON-0854 via encrypted relay.,56
+ADV-COMM-0690,CASE-0692,PERSON-0967 contacted PERSON-0702 via encrypted relay.,46
+ADV-COMM-0691,CASE-1005,PERSON-0990 contacted PERSON-0741 via encrypted relay.,37
+ADV-COMM-0692,CASE-1120,PERSON-0174 contacted PERSON-0144 via encrypted relay.,49
+ADV-COMM-0693,CASE-0121,PERSON-0658 contacted PERSON-0981 via encrypted relay.,19
+ADV-COMM-0694,CASE-0100,PERSON-0968 contacted PERSON-0838 via encrypted relay.,41
+ADV-COMM-0695,CASE-0474,PERSON-0141 contacted PERSON-0863 via encrypted relay.,24
+ADV-COMM-0696,CASE-1036,PERSON-0010 contacted PERSON-0224 via encrypted relay.,18
+ADV-COMM-0697,CASE-0990,PERSON-0633 contacted PERSON-0654 via encrypted relay.,16
+ADV-COMM-0698,CASE-1130,PERSON-0007 contacted PERSON-0545 via encrypted relay.,16
+ADV-COMM-0699,CASE-0563,PERSON-0543 contacted PERSON-0740 via encrypted relay.,33
+ADV-COMM-0700,CASE-0882,PERSON-0018 contacted PERSON-0515 via encrypted relay.,26
+ADV-COMM-0701,CASE-0198,PERSON-0110 contacted PERSON-0941 via encrypted relay.,30
+ADV-COMM-0702,CASE-1079,PERSON-0197 contacted PERSON-0635 via encrypted relay.,37
+ADV-COMM-0703,CASE-0813,PERSON-0274 contacted PERSON-0815 via encrypted relay.,40
+ADV-COMM-0704,CASE-0499,PERSON-0471 contacted PERSON-0579 via encrypted relay.,29
+ADV-COMM-0705,CASE-0166,PERSON-0308 contacted PERSON-0701 via encrypted relay.,56
+ADV-COMM-0706,CASE-0192,PERSON-0778 contacted PERSON-0033 via encrypted relay.,39
+ADV-COMM-0707,CASE-0115,PERSON-0566 contacted PERSON-0488 via encrypted relay.,59
+ADV-COMM-0708,CASE-1024,PERSON-0176 contacted PERSON-0085 via encrypted relay.,56
+ADV-COMM-0709,CASE-1159,PERSON-0804 contacted PERSON-0340 via encrypted relay.,21
+ADV-COMM-0710,CASE-0088,PERSON-0917 contacted PERSON-0541 via encrypted relay.,59
+ADV-COMM-0711,CASE-0974,PERSON-0909 contacted PERSON-0581 via encrypted relay.,19
+ADV-COMM-0712,CASE-0575,PERSON-0701 contacted PERSON-0948 via encrypted relay.,51
+ADV-COMM-0713,CASE-0368,PERSON-0674 contacted PERSON-0034 via encrypted relay.,35
+ADV-COMM-0714,CASE-0425,PERSON-0017 contacted PERSON-0985 via encrypted relay.,60
+ADV-COMM-0715,CASE-0158,PERSON-0841 contacted PERSON-0408 via encrypted relay.,51
+ADV-COMM-0716,CASE-0797,PERSON-0247 contacted PERSON-0581 via encrypted relay.,49
+ADV-COMM-0717,CASE-0287,PERSON-0340 contacted PERSON-0394 via encrypted relay.,59
+ADV-COMM-0718,CASE-1026,PERSON-0742 contacted PERSON-0081 via encrypted relay.,37
+ADV-COMM-0719,CASE-0896,PERSON-0055 contacted PERSON-0101 via encrypted relay.,19
+ADV-COMM-0720,CASE-1220,PERSON-0349 contacted PERSON-0620 via encrypted relay.,35
+ADV-COMM-0721,CASE-0560,PERSON-0031 contacted PERSON-0650 via encrypted relay.,43
+ADV-COMM-0722,CASE-0729,PERSON-0503 contacted PERSON-0234 via encrypted relay.,39
+ADV-COMM-0723,CASE-1200,PERSON-0443 contacted PERSON-0191 via encrypted relay.,20
+ADV-COMM-0724,CASE-0605,PERSON-0791 contacted PERSON-0634 via encrypted relay.,60
+ADV-COMM-0725,CASE-0549,PERSON-0076 contacted PERSON-0085 via encrypted relay.,60
+ADV-COMM-0726,CASE-0316,PERSON-0803 contacted PERSON-0650 via encrypted relay.,35
+ADV-COMM-0727,CASE-0188,PERSON-0370 contacted PERSON-0110 via encrypted relay.,34
+ADV-COMM-0728,CASE-0553,PERSON-0456 contacted PERSON-0369 via encrypted relay.,20
+ADV-COMM-0729,CASE-0920,PERSON-0192 contacted PERSON-0442 via encrypted relay.,47
+ADV-COMM-0730,CASE-0054,PERSON-0418 contacted PERSON-0106 via encrypted relay.,50
+ADV-COMM-0731,CASE-1225,PERSON-0096 contacted PERSON-0612 via encrypted relay.,39
+ADV-COMM-0732,CASE-0848,PERSON-0013 contacted PERSON-0299 via encrypted relay.,20
+ADV-COMM-0733,CASE-1146,PERSON-0743 contacted PERSON-0923 via encrypted relay.,30
+ADV-COMM-0734,CASE-0348,PERSON-0586 contacted PERSON-0534 via encrypted relay.,25
+ADV-COMM-0735,CASE-0617,PERSON-0143 contacted PERSON-0276 via encrypted relay.,24
+ADV-COMM-0736,CASE-0891,PERSON-0065 contacted PERSON-0172 via encrypted relay.,34
+ADV-COMM-0737,CASE-0158,PERSON-0496 contacted PERSON-0802 via encrypted relay.,30
+ADV-COMM-0738,CASE-1016,PERSON-0739 contacted PERSON-0641 via encrypted relay.,27
+ADV-COMM-0739,CASE-0278,PERSON-0469 contacted PERSON-0110 via encrypted relay.,40
+ADV-COMM-0740,CASE-0779,PERSON-0341 contacted PERSON-0862 via encrypted relay.,36
+ADV-COMM-0741,CASE-0882,PERSON-0451 contacted PERSON-0343 via encrypted relay.,56
+ADV-COMM-0742,CASE-0279,PERSON-0998 contacted PERSON-0609 via encrypted relay.,53
+ADV-COMM-0743,CASE-0412,PERSON-0971 contacted PERSON-0712 via encrypted relay.,26
+ADV-COMM-0744,CASE-0654,PERSON-0988 contacted PERSON-0408 via encrypted relay.,59
+ADV-COMM-0745,CASE-1180,PERSON-0649 contacted PERSON-0503 via encrypted relay.,35
+ADV-COMM-0746,CASE-0805,PERSON-0386 contacted PERSON-0288 via encrypted relay.,51
+ADV-COMM-0747,CASE-1118,PERSON-0205 contacted PERSON-0607 via encrypted relay.,50
+ADV-COMM-0748,CASE-0946,PERSON-0028 contacted PERSON-0976 via encrypted relay.,28
+ADV-COMM-0749,CASE-0597,PERSON-0449 contacted PERSON-0817 via encrypted relay.,19
+ADV-COMM-0750,CASE-0838,PERSON-0839 contacted PERSON-0869 via encrypted relay.,23
+ADV-COMM-0751,CASE-0496,PERSON-0649 contacted PERSON-0311 via encrypted relay.,24
+ADV-COMM-0752,CASE-0629,PERSON-0229 contacted PERSON-0763 demanding return of personal property.,45
+ADV-COMM-0753,CASE-0629,PERSON-0763 contacted PERSON-0229 rejecting demand in heated dispute.,50
+ADV-COMM-0754,CASE-0679,PERSON-0431 contacted PERSON-0808 demanding return of personal property.,45
+ADV-COMM-0755,CASE-0679,PERSON-0808 contacted PERSON-0431 rejecting demand in heated dispute.,50
+ADV-COMM-0756,CASE-1200,PERSON-0381 contacted PERSON-0267 demanding return of personal property.,45
+ADV-COMM-0757,CASE-1200,PERSON-0267 contacted PERSON-0381 rejecting demand in heated dispute.,50
+ADV-COMM-0758,CASE-0242,PERSON-0302 contacted PERSON-0475 demanding return of personal property.,45
+ADV-COMM-0759,CASE-0242,PERSON-0475 contacted PERSON-0302 rejecting demand in heated dispute.,50
+ADV-COMM-0760,CASE-1196,PERSON-0482 contacted PERSON-0055 demanding return of personal property.,45
+ADV-COMM-0761,CASE-1196,PERSON-0055 contacted PERSON-0482 rejecting demand in heated dispute.,50
+ADV-COMM-0762,CASE-0146,PERSON-0595 contacted PERSON-0967 demanding return of personal property.,45
+ADV-COMM-0763,CASE-0146,PERSON-0967 contacted PERSON-0595 rejecting demand in heated dispute.,50
+ADV-COMM-0764,CASE-0399,PERSON-0484 contacted PERSON-0911 demanding return of personal property.,45
+ADV-COMM-0765,CASE-0399,PERSON-0911 contacted PERSON-0484 rejecting demand in heated dispute.,50
+ADV-COMM-0766,CASE-0782,PERSON-0513 contacted PERSON-0123 demanding return of personal property.,45
+ADV-COMM-0767,CASE-0782,PERSON-0123 contacted PERSON-0513 rejecting demand in heated dispute.,50
+ADV-COMM-0768,CASE-0847,PERSON-0543 contacted PERSON-0306 demanding return of personal property.,45
+ADV-COMM-0769,CASE-0847,PERSON-0306 contacted PERSON-0543 rejecting demand in heated dispute.,50
+ADV-COMM-0770,CASE-0309,PERSON-0056 contacted PERSON-0892 demanding return of personal property.,45
+ADV-COMM-0771,CASE-0309,PERSON-0892 contacted PERSON-0056 rejecting demand in heated dispute.,50
+ADV-COMM-0772,CASE-0702,PERSON-0141 contacted PERSON-0206 demanding return of personal property.,45
+ADV-COMM-0773,CASE-0702,PERSON-0206 contacted PERSON-0141 rejecting demand in heated dispute.,50
+ADV-COMM-0774,CASE-0938,PERSON-0420 contacted PERSON-0584 demanding return of personal property.,45
+ADV-COMM-0775,CASE-0938,PERSON-0584 contacted PERSON-0420 rejecting demand in heated dispute.,50
+ADV-COMM-0776,CASE-0370,PERSON-0147 contacted PERSON-0324 demanding return of personal property.,45
+ADV-COMM-0777,CASE-0370,PERSON-0324 contacted PERSON-0147 rejecting demand in heated dispute.,50
+ADV-COMM-0778,CASE-0999,PERSON-0798 contacted PERSON-0083 demanding return of personal property.,45
+ADV-COMM-0779,CASE-0999,PERSON-0083 contacted PERSON-0798 rejecting demand in heated dispute.,50
+ADV-COMM-0780,CASE-0363,PERSON-0341 contacted PERSON-0647 demanding return of personal property.,45
+ADV-COMM-0781,CASE-0363,PERSON-0647 contacted PERSON-0341 rejecting demand in heated dispute.,50
+ADV-COMM-0782,CASE-0119,PERSON-0321 contacted PERSON-0650 demanding return of personal property.,45
+ADV-COMM-0783,CASE-0119,PERSON-0650 contacted PERSON-0321 rejecting demand in heated dispute.,50
+ADV-COMM-0784,CASE-0561,PERSON-0005 contacted PERSON-0463 demanding return of personal property.,45
+ADV-COMM-0785,CASE-0561,PERSON-0463 contacted PERSON-0005 rejecting demand in heated dispute.,50
+ADV-COMM-0786,CASE-0346,PERSON-0215 contacted PERSON-0780 demanding return of personal property.,45
+ADV-COMM-0787,CASE-0346,PERSON-0780 contacted PERSON-0215 rejecting demand in heated dispute.,50
+ADV-COMM-0788,CASE-0325,PERSON-0591 contacted PERSON-0783 demanding return of personal property.,45
+ADV-COMM-0789,CASE-0325,PERSON-0783 contacted PERSON-0591 rejecting demand in heated dispute.,50
+ADV-COMM-0790,CASE-0181,PERSON-0502 contacted PERSON-0805 demanding return of personal property.,45
+ADV-COMM-0791,CASE-0181,PERSON-0805 contacted PERSON-0502 rejecting demand in heated dispute.,50
+ADV-COMM-0792,CASE-0889,PERSON-0133 contacted PERSON-0630 demanding return of personal property.,45
+ADV-COMM-0793,CASE-0889,PERSON-0630 contacted PERSON-0133 rejecting demand in heated dispute.,50
+ADV-COMM-0794,CASE-0827,PERSON-0649 contacted PERSON-0440 demanding return of personal property.,45
+ADV-COMM-0795,CASE-0827,PERSON-0440 contacted PERSON-0649 rejecting demand in heated dispute.,50
+ADV-COMM-0796,CASE-0978,PERSON-0440 contacted PERSON-0989 demanding return of personal property.,45
+ADV-COMM-0797,CASE-0978,PERSON-0989 contacted PERSON-0440 rejecting demand in heated dispute.,50
+ADV-COMM-0798,CASE-0078,PERSON-0393 contacted PERSON-0005 demanding return of personal property.,45
+ADV-COMM-0799,CASE-0078,PERSON-0005 contacted PERSON-0393 rejecting demand in heated dispute.,50
+ADV-COMM-0800,CASE-0765,PERSON-0547 contacted PERSON-0205 demanding return of personal property.,45
+ADV-COMM-0801,CASE-0765,PERSON-0205 contacted PERSON-0547 rejecting demand in heated dispute.,50
+ADV-COMM-0802,CASE-0660,PERSON-0973 contacted PERSON-0015 demanding return of personal property.,45
+ADV-COMM-0803,CASE-0660,PERSON-0015 contacted PERSON-0973 rejecting demand in heated dispute.,50
+ADV-COMM-0804,CASE-1088,PERSON-0776 contacted PERSON-0854 demanding return of personal property.,45
+ADV-COMM-0805,CASE-1088,PERSON-0854 contacted PERSON-0776 rejecting demand in heated dispute.,50
+ADV-COMM-0806,CASE-0009,PERSON-0196 contacted PERSON-0019 demanding return of personal property.,45
+ADV-COMM-0807,CASE-0009,PERSON-0019 contacted PERSON-0196 rejecting demand in heated dispute.,50
+ADV-COMM-0808,CASE-0510,PERSON-0642 contacted PERSON-0752 demanding return of personal property.,45
+ADV-COMM-0809,CASE-0510,PERSON-0752 contacted PERSON-0642 rejecting demand in heated dispute.,50
+ADV-COMM-0810,CASE-0706,PERSON-0232 contacted PERSON-0711 demanding return of personal property.,45
+ADV-COMM-0811,CASE-0706,PERSON-0711 contacted PERSON-0232 rejecting demand in heated dispute.,50
+ADV-COMM-0812,CASE-0211,PERSON-0320 contacted PERSON-0133 demanding return of personal property.,45
+ADV-COMM-0813,CASE-0211,PERSON-0133 contacted PERSON-0320 rejecting demand in heated dispute.,50
+ADV-COMM-0814,CASE-1206,PERSON-0393 contacted PERSON-0516 demanding return of personal property.,45
+ADV-COMM-0815,CASE-1206,PERSON-0516 contacted PERSON-0393 rejecting demand in heated dispute.,50
+ADV-COMM-0816,CASE-0134,PERSON-0314 contacted PERSON-0172 demanding return of personal property.,45
+ADV-COMM-0817,CASE-0134,PERSON-0172 contacted PERSON-0314 rejecting demand in heated dispute.,50
+ADV-COMM-0818,CASE-0611,PERSON-0844 contacted PERSON-0047 demanding return of personal property.,45
+ADV-COMM-0819,CASE-0611,PERSON-0047 contacted PERSON-0844 rejecting demand in heated dispute.,50
+ADV-COMM-0820,CASE-0934,PERSON-0972 contacted PERSON-0298 demanding return of personal property.,45
+ADV-COMM-0821,CASE-0934,PERSON-0298 contacted PERSON-0972 rejecting demand in heated dispute.,50
+ADV-COMM-0822,CASE-1222,PERSON-0746 contacted PERSON-0533 demanding return of personal property.,45
+ADV-COMM-0823,CASE-1222,PERSON-0533 contacted PERSON-0746 rejecting demand in heated dispute.,50
+ADV-COMM-0824,CASE-0889,PERSON-0537 contacted PERSON-0346 demanding return of personal property.,45
+ADV-COMM-0825,CASE-0889,PERSON-0346 contacted PERSON-0537 rejecting demand in heated dispute.,50
+ADV-COMM-0826,CASE-0275,PERSON-0910 contacted PERSON-0704 demanding return of personal property.,45
+ADV-COMM-0827,CASE-0275,PERSON-0704 contacted PERSON-0910 rejecting demand in heated dispute.,50
+ADV-COMM-0828,CASE-1004,PERSON-0351 contacted PERSON-0924 demanding return of personal property.,45
+ADV-COMM-0829,CASE-1004,PERSON-0924 contacted PERSON-0351 rejecting demand in heated dispute.,50
+ADV-COMM-0830,CASE-0386,PERSON-0368 contacted PERSON-0769 demanding return of personal property.,45
+ADV-COMM-0831,CASE-0386,PERSON-0769 contacted PERSON-0368 rejecting demand in heated dispute.,50
+ADV-COMM-0832,CASE-0827,PERSON-0169 contacted PERSON-0971 demanding return of personal property.,45
+ADV-COMM-0833,CASE-0827,PERSON-0971 contacted PERSON-0169 rejecting demand in heated dispute.,50
+ADV-COMM-0834,CASE-0460,PERSON-0020 contacted PERSON-0234 demanding return of personal property.,45
+ADV-COMM-0835,CASE-0460,PERSON-0234 contacted PERSON-0020 rejecting demand in heated dispute.,50
+ADV-COMM-0836,CASE-0433,PERSON-0745 contacted PERSON-0135 demanding return of personal property.,45
+ADV-COMM-0837,CASE-0433,PERSON-0135 contacted PERSON-0745 rejecting demand in heated dispute.,50
+ADV-COMM-0838,CASE-1208,PERSON-0752 contacted PERSON-0023 demanding return of personal property.,45
+ADV-COMM-0839,CASE-1208,PERSON-0023 contacted PERSON-0752 rejecting demand in heated dispute.,50
+ADV-COMM-0840,CASE-0253,PERSON-0517 contacted PERSON-0174 demanding return of personal property.,45
+ADV-COMM-0841,CASE-0253,PERSON-0174 contacted PERSON-0517 rejecting demand in heated dispute.,50
+ADV-COMM-0842,CASE-0077,PERSON-0376 contacted PERSON-0729 demanding return of personal property.,45
+ADV-COMM-0843,CASE-0077,PERSON-0729 contacted PERSON-0376 rejecting demand in heated dispute.,50
+ADV-COMM-0844,CASE-0524,PERSON-0385 contacted PERSON-0898 demanding return of personal property.,45
+ADV-COMM-0845,CASE-0524,PERSON-0898 contacted PERSON-0385 rejecting demand in heated dispute.,50
+ADV-COMM-0846,CASE-0100,PERSON-0790 contacted PERSON-0548 demanding return of personal property.,45
+ADV-COMM-0847,CASE-0100,PERSON-0548 contacted PERSON-0790 rejecting demand in heated dispute.,50
+ADV-COMM-0848,CASE-0222,PERSON-0609 contacted PERSON-0050 demanding return of personal property.,45
+ADV-COMM-0849,CASE-0222,PERSON-0050 contacted PERSON-0609 rejecting demand in heated dispute.,50
+ADV-COMM-0850,CASE-0041,PERSON-0670 contacted PERSON-0857 demanding return of personal property.,45
+ADV-COMM-0851,CASE-0041,PERSON-0857 contacted PERSON-0670 rejecting demand in heated dispute.,50
+ADV-COMM-0852,CASE-0238,PERSON-0050 contacted PERSON-0707 demanding return of personal property.,45
+ADV-COMM-0853,CASE-0238,PERSON-0707 contacted PERSON-0050 rejecting demand in heated dispute.,50
+ADV-COMM-0854,CASE-0779,PERSON-0427 contacted PERSON-0455 demanding return of personal property.,45
+ADV-COMM-0855,CASE-0779,PERSON-0455 contacted PERSON-0427 rejecting demand in heated dispute.,50
+ADV-COMM-0856,CASE-0518,PERSON-0127 contacted PERSON-0561 demanding return of personal property.,45
+ADV-COMM-0857,CASE-0518,PERSON-0561 contacted PERSON-0127 rejecting demand in heated dispute.,50
+ADV-COMM-0858,CASE-0314,PERSON-0486 contacted PERSON-0719 demanding return of personal property.,45
+ADV-COMM-0859,CASE-0314,PERSON-0719 contacted PERSON-0486 rejecting demand in heated dispute.,50
+ADV-COMM-0860,CASE-0020,PERSON-0211 contacted PERSON-0712 demanding return of personal property.,45
+ADV-COMM-0861,CASE-0020,PERSON-0712 contacted PERSON-0211 rejecting demand in heated dispute.,50
+ADV-COMM-0862,CASE-0207,PERSON-0309 contacted PERSON-0431 demanding return of personal property.,45
+ADV-COMM-0863,CASE-0207,PERSON-0431 contacted PERSON-0309 rejecting demand in heated dispute.,50
+ADV-COMM-0864,CASE-0553,PERSON-0679 contacted PERSON-0533 demanding return of personal property.,45
+ADV-COMM-0865,CASE-0553,PERSON-0533 contacted PERSON-0679 rejecting demand in heated dispute.,50
+ADV-COMM-0866,CASE-0281,PERSON-0638 contacted PERSON-0621 demanding return of personal property.,45
+ADV-COMM-0867,CASE-0281,PERSON-0621 contacted PERSON-0638 rejecting demand in heated dispute.,50
+ADV-COMM-0868,CASE-0215,PERSON-0429 contacted PERSON-0851 demanding return of personal property.,45
+ADV-COMM-0869,CASE-0215,PERSON-0851 contacted PERSON-0429 rejecting demand in heated dispute.,50
+ADV-COMM-0870,CASE-0242,PERSON-0524 contacted PERSON-0737 demanding return of personal property.,45
+ADV-COMM-0871,CASE-0242,PERSON-0737 contacted PERSON-0524 rejecting demand in heated dispute.,50
+ADV-COMM-0872,CASE-0218,PERSON-0290 contacted PERSON-0117 demanding return of personal property.,45
+ADV-COMM-0873,CASE-0218,PERSON-0117 contacted PERSON-0290 rejecting demand in heated dispute.,50
+ADV-COMM-0874,CASE-1248,PERSON-0510 contacted PERSON-0204 demanding return of personal property.,45
+ADV-COMM-0875,CASE-1248,PERSON-0204 contacted PERSON-0510 rejecting demand in heated dispute.,50
+ADV-COMM-0876,CASE-0539,PERSON-0205 contacted PERSON-0797 demanding return of personal property.,45
+ADV-COMM-0877,CASE-0539,PERSON-0797 contacted PERSON-0205 rejecting demand in heated dispute.,50
+ADV-COMM-0878,CASE-0414,PERSON-0852 contacted PERSON-0536 demanding return of personal property.,45
+ADV-COMM-0879,CASE-0414,PERSON-0536 contacted PERSON-0852 rejecting demand in heated dispute.,50
+ADV-COMM-0880,CASE-0840,PERSON-0367 contacted PERSON-0721 demanding return of personal property.,45
+ADV-COMM-0881,CASE-0840,PERSON-0721 contacted PERSON-0367 rejecting demand in heated dispute.,50
+ADV-COMM-0882,CASE-0081,PERSON-0303 contacted PERSON-0165 demanding return of personal property.,45
+ADV-COMM-0883,CASE-0081,PERSON-0165 contacted PERSON-0303 rejecting demand in heated dispute.,50
+ADV-COMM-0884,CASE-0426,PERSON-0562 contacted PERSON-0509 demanding return of personal property.,45
+ADV-COMM-0885,CASE-0426,PERSON-0509 contacted PERSON-0562 rejecting demand in heated dispute.,50
+ADV-COMM-0886,CASE-0985,PERSON-0705 contacted PERSON-0956 demanding return of personal property.,45
+ADV-COMM-0887,CASE-0985,PERSON-0956 contacted PERSON-0705 rejecting demand in heated dispute.,50
+ADV-COMM-0888,CASE-0006,PERSON-0339 contacted PERSON-0241 demanding return of personal property.,45
+ADV-COMM-0889,CASE-0006,PERSON-0241 contacted PERSON-0339 rejecting demand in heated dispute.,50
+ADV-COMM-0890,CASE-0183,PERSON-0014 contacted PERSON-0688 demanding return of personal property.,45
+ADV-COMM-0891,CASE-0183,PERSON-0688 contacted PERSON-0014 rejecting demand in heated dispute.,50
+ADV-COMM-0892,CASE-1176,PERSON-0929 contacted PERSON-0114 demanding return of personal property.,45
+ADV-COMM-0893,CASE-1176,PERSON-0114 contacted PERSON-0929 rejecting demand in heated dispute.,50
+ADV-COMM-0894,CASE-0306,PERSON-0686 contacted PERSON-0506 demanding return of personal property.,45
+ADV-COMM-0895,CASE-0306,PERSON-0506 contacted PERSON-0686 rejecting demand in heated dispute.,50
+ADV-COMM-0896,CASE-1048,PERSON-0973 contacted PERSON-0093 demanding return of personal property.,45
+ADV-COMM-0897,CASE-1048,PERSON-0093 contacted PERSON-0973 rejecting demand in heated dispute.,50
+ADV-COMM-0898,CASE-0208,PERSON-0077 contacted PERSON-0741 demanding return of personal property.,45
+ADV-COMM-0899,CASE-0208,PERSON-0741 contacted PERSON-0077 rejecting demand in heated dispute.,50
+ADV-COMM-0900,CASE-0474,PERSON-0927 contacted PERSON-0263 demanding return of personal property.,45
+ADV-COMM-0901,CASE-0474,PERSON-0263 contacted PERSON-0927 rejecting demand in heated dispute.,50

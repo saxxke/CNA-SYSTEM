@@ -1,0 +1,342 @@
+{
+  "step25_metadata": {
+    "adversarial_corpus_total": 1200,
+    "train_pairs": 845,
+    "val_pairs": 186,
+    "test_pairs": 169,
+    "zero_case_leakage_verified": true
+  },
+  "adversarial_test_evaluation": {
+    "Adv_LogReg_11_Scaled": {
+      "model_name": "Adv_LogReg_11_Scaled",
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier_score": 0.0147,
+      "false_positive_rate": 0.0,
+      "training_time_seconds": 0.0407,
+      "inference_time_ms_per_1k": 2.2562,
+      "confusion_matrix": {
+        "tp": 74,
+        "fp": 0,
+        "tn": 95,
+        "fn": 0
+      }
+    },
+    "Adv_RandomForest_11": {
+      "model_name": "Adv_RandomForest_11",
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier_score": 0.0008,
+      "false_positive_rate": 0.0,
+      "training_time_seconds": 0.1308,
+      "inference_time_ms_per_1k": 49.5199,
+      "confusion_matrix": {
+        "tp": 74,
+        "fp": 0,
+        "tn": 95,
+        "fn": 0
+      }
+    },
+    "Adv_HistGradientBoosting_11": {
+      "model_name": "Adv_HistGradientBoosting_11",
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier_score": 0.0,
+      "false_positive_rate": 0.0,
+      "training_time_seconds": 0.0813,
+      "inference_time_ms_per_1k": 12.8712,
+      "confusion_matrix": {
+        "tp": 74,
+        "fp": 0,
+        "tn": 95,
+        "fn": 0
+      }
+    },
+    "Adv_Calibrated_RF_11": {
+      "model_name": "Adv_Calibrated_RF_11",
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "brier_score": 0.0001,
+      "false_positive_rate": 0.0,
+      "training_time_seconds": 0.4672,
+      "inference_time_ms_per_1k": 162.1131,
+      "confusion_matrix": {
+        "tp": 74,
+        "fp": 0,
+        "tn": 95,
+        "fn": 0
+      }
+    }
+  },
+  "step24_robustness_retest": {
+    "Adv_LogReg_11_Scaled": {
+      "model_name": "Adv_LogReg_11_Scaled",
+      "precision": 0.7184,
+      "recall": 1.0,
+      "f1_score": 0.8361,
+      "roc_auc": 0.8515,
+      "pr_auc": 0.7519,
+      "brier_score": 0.1937,
+      "false_positive_rate": 0.392,
+      "confusion_matrix": {
+        "tp": 250,
+        "fp": 98,
+        "tn": 152,
+        "fn": 0
+      }
+    },
+    "Adv_RandomForest_11": {
+      "model_name": "Adv_RandomForest_11",
+      "precision": 0.7937,
+      "recall": 1.0,
+      "f1_score": 0.885,
+      "roc_auc": 0.952,
+      "pr_auc": 0.9556,
+      "brier_score": 0.0894,
+      "false_positive_rate": 0.26,
+      "confusion_matrix": {
+        "tp": 250,
+        "fp": 65,
+        "tn": 185,
+        "fn": 0
+      }
+    },
+    "Adv_HistGradientBoosting_11": {
+      "model_name": "Adv_HistGradientBoosting_11",
+      "precision": 0.8333,
+      "recall": 1.0,
+      "f1_score": 0.9091,
+      "roc_auc": 0.97,
+      "pr_auc": 0.9434,
+      "brier_score": 0.0996,
+      "false_positive_rate": 0.2,
+      "confusion_matrix": {
+        "tp": 250,
+        "fp": 50,
+        "tn": 200,
+        "fn": 0
+      }
+    },
+    "Adv_Calibrated_RF_11": {
+      "model_name": "Adv_Calibrated_RF_11",
+      "precision": 0.7937,
+      "recall": 1.0,
+      "f1_score": 0.885,
+      "roc_auc": 0.9771,
+      "pr_auc": 0.9766,
+      "brier_score": 0.0995,
+      "false_positive_rate": 0.26,
+      "confusion_matrix": {
+        "tp": 250,
+        "fp": 65,
+        "tn": 185,
+        "fn": 0
+      }
+    }
+  },
+  "feature_ablation_results": [
+    {
+      "configuration": "Baseline_7_Features",
+      "feature_count": 7,
+      "features_used": "entity_similarity, text_evidence_strength, relationship_keyword_match, supporting_record_count, source_record_count, relationship_frequency, cross_case_connectivity",
+      "precision_on_robustness": 0.6829,
+      "recall_on_robustness": 0.896,
+      "f1_score_on_robustness": 0.7751,
+      "roc_auc_on_robustness": 0.6877,
+      "brier_score_on_robustness": 0.2157,
+      "false_positive_rate_on_robustness": 0.416,
+      "true_positives": 224,
+      "false_positives": 104,
+      "true_negatives": 146,
+      "false_negatives": 26
+    },
+    {
+      "configuration": "7_Plus_Evidence_Diversity",
+      "feature_count": 8,
+      "features_used": "entity_similarity, text_evidence_strength, relationship_keyword_match, supporting_record_count, source_record_count, relationship_frequency, cross_case_connectivity, evidence_diversity",
+      "precision_on_robustness": 0.6707,
+      "recall_on_robustness": 0.896,
+      "f1_score_on_robustness": 0.7671,
+      "roc_auc_on_robustness": 0.6796,
+      "brier_score_on_robustness": 0.23,
+      "false_positive_rate_on_robustness": 0.44,
+      "true_positives": 224,
+      "false_positives": 110,
+      "true_negatives": 140,
+      "false_negatives": 26
+    },
+    {
+      "configuration": "7_Plus_Case_Cooccurrence",
+      "feature_count": 8,
+      "features_used": "entity_similarity, text_evidence_strength, relationship_keyword_match, supporting_record_count, source_record_count, relationship_frequency, cross_case_connectivity, case_cooccurrence_count",
+      "precision_on_robustness": 0.7225,
+      "recall_on_robustness": 1.0,
+      "f1_score_on_robustness": 0.8389,
+      "roc_auc_on_robustness": 0.7894,
+      "brier_score_on_robustness": 0.1816,
+      "false_positive_rate_on_robustness": 0.384,
+      "true_positives": 250,
+      "false_positives": 96,
+      "true_negatives": 154,
+      "false_negatives": 0
+    },
+    {
+      "configuration": "7_Plus_Bidirectional_Activity",
+      "feature_count": 8,
+      "features_used": "entity_similarity, text_evidence_strength, relationship_keyword_match, supporting_record_count, source_record_count, relationship_frequency, cross_case_connectivity, bidirectional_activity",
+      "precision_on_robustness": 0.7105,
+      "recall_on_robustness": 0.972,
+      "f1_score_on_robustness": 0.8209,
+      "roc_auc_on_robustness": 0.8225,
+      "brier_score_on_robustness": 0.1941,
+      "false_positive_rate_on_robustness": 0.396,
+      "true_positives": 243,
+      "false_positives": 99,
+      "true_negatives": 151,
+      "false_negatives": 7
+    },
+    {
+      "configuration": "7_Plus_Transaction_Volume",
+      "feature_count": 8,
+      "features_used": "entity_similarity, text_evidence_strength, relationship_keyword_match, supporting_record_count, source_record_count, relationship_frequency, cross_case_connectivity, normalized_transaction_volume",
+      "precision_on_robustness": 0.7025,
+      "recall_on_robustness": 0.992,
+      "f1_score_on_robustness": 0.8226,
+      "roc_auc_on_robustness": 0.6781,
+      "brier_score_on_robustness": 0.2162,
+      "false_positive_rate_on_robustness": 0.42,
+      "true_positives": 248,
+      "false_positives": 105,
+      "true_negatives": 145,
+      "false_negatives": 2
+    },
+    {
+      "configuration": "All_11_Features",
+      "feature_count": 11,
+      "features_used": "entity_similarity, text_evidence_strength, relationship_keyword_match, supporting_record_count, source_record_count, relationship_frequency, cross_case_connectivity, evidence_diversity, case_cooccurrence_count, bidirectional_activity, normalized_transaction_volume",
+      "precision_on_robustness": 0.7184,
+      "recall_on_robustness": 1.0,
+      "f1_score_on_robustness": 0.8361,
+      "roc_auc_on_robustness": 0.8515,
+      "brier_score_on_robustness": 0.1937,
+      "false_positive_rate_on_robustness": 0.392,
+      "true_positives": 250,
+      "false_positives": 98,
+      "true_negatives": 152,
+      "false_negatives": 0
+    }
+  ],
+  "cross_stage_comparison": [
+    {
+      "Stage": "Step 22 Baseline",
+      "Model": "LogReg_7_Baseline",
+      "Test Corpus": "Normal Test (155 pairs)",
+      "Precision": 0.9,
+      "Recall": 0.6154,
+      "F1": 0.731,
+      "ROC_AUC": 0.7584,
+      "FPR": 0.2105,
+      "Brier": 0.2054
+    },
+    {
+      "Stage": "Step 23 Expanded",
+      "Model": "LogReg_11_Scaled",
+      "Test Corpus": "Normal Test (155 pairs)",
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "ROC_AUC": 1.0,
+      "FPR": 0.0,
+      "Brier": 0.0003
+    },
+    {
+      "Stage": "Step 23 Expanded",
+      "Model": "RandomForest_11",
+      "Test Corpus": "Normal Test (155 pairs)",
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "ROC_AUC": 1.0,
+      "FPR": 0.0,
+      "Brier": 0.0176
+    },
+    {
+      "Stage": "Step 24 Stress",
+      "Model": "LogReg_11_Scaled",
+      "Test Corpus": "Step 24 Robustness (500 pairs)",
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6667,
+      "ROC_AUC": 0.6,
+      "FPR": 1.0,
+      "Brier": 0.5
+    },
+    {
+      "Stage": "Step 24 Stress",
+      "Model": "RandomForest_11",
+      "Test Corpus": "Step 24 Robustness (500 pairs)",
+      "Precision": 0.6849,
+      "Recall": 1.0,
+      "F1": 0.813,
+      "ROC_AUC": 0.8256,
+      "FPR": 0.46,
+      "Brier": 0.2192
+    },
+    {
+      "Stage": "Step 25 Adversarial",
+      "Model": "Adv_LogReg_11_Scaled",
+      "Test Corpus": "Step 24 Robustness (500 pairs)",
+      "Precision": 0.7184,
+      "Recall": 1.0,
+      "F1": 0.8361,
+      "ROC_AUC": 0.8515,
+      "FPR": 0.392,
+      "Brier": 0.1937
+    },
+    {
+      "Stage": "Step 25 Adversarial",
+      "Model": "Adv_RandomForest_11",
+      "Test Corpus": "Step 24 Robustness (500 pairs)",
+      "Precision": 0.7937,
+      "Recall": 1.0,
+      "F1": 0.885,
+      "ROC_AUC": 0.952,
+      "FPR": 0.26,
+      "Brier": 0.0894
+    },
+    {
+      "Stage": "Step 25 Adversarial",
+      "Model": "Adv_HistGradientBoosting_11",
+      "Test Corpus": "Step 24 Robustness (500 pairs)",
+      "Precision": 0.8333,
+      "Recall": 1.0,
+      "F1": 0.9091,
+      "ROC_AUC": 0.97,
+      "FPR": 0.2,
+      "Brier": 0.0996
+    },
+    {
+      "Stage": "Step 25 Adversarial",
+      "Model": "Adv_Calibrated_RF_11",
+      "Test Corpus": "Step 24 Robustness (500 pairs)",
+      "Precision": 0.7937,
+      "Recall": 1.0,
+      "F1": 0.885,
+      "ROC_AUC": 0.9771,
+      "FPR": 0.26,
+      "Brier": 0.0995
+    }
+  ]
+}

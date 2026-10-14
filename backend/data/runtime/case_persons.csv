@@ -1,0 +1,2 @@
+cp_id,case_id,person_id,association,role,source,created_at,created_by
+CPA-0346,CASE-251,PERSON-201,Associated with registered case as SUBJECT. Requires human verification.,SUBJECT,STRUCTURED_METADATA,2026-10-14T12:13:09.295443,prototype-user

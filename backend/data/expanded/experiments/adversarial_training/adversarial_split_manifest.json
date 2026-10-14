@@ -1,0 +1,194 @@
+{
+  "dataset_name": "STEP_25_ADVERSARIAL_TRAINING_CORPUS",
+  "total_pairs": 1200,
+  "total_positives": 600,
+  "total_negatives": 600,
+  "splits": {
+    "train": {
+      "pairs": 845,
+      "positives": 433,
+      "negatives": 412,
+      "cases": 540
+    },
+    "val": {
+      "pairs": 186,
+      "positives": 93,
+      "negatives": 93,
+      "cases": 115
+    },
+    "test": {
+      "pairs": 169,
+      "positives": 74,
+      "negatives": 95,
+      "cases": 117
+    }
+  },
+  "zero_case_leakage_verified": true,
+  "feature_overlap_statistics": {
+    "entity_similarity": {
+      "pos_mean": 0.2779,
+      "pos_std": 0.128,
+      "pos_range": [
+        0.0606,
+        0.8
+      ],
+      "neg_mean": 0.299,
+      "neg_std": 0.158,
+      "neg_range": [
+        0.069,
+        1.0
+      ],
+      "negative_overlap_pct": 99.67
+    },
+    "text_evidence_strength": {
+      "pos_mean": 0.58,
+      "pos_std": 0.0173,
+      "pos_range": [
+        0.57,
+        0.61
+      ],
+      "neg_mean": 0.7478,
+      "neg_std": 0.12,
+      "neg_range": [
+        0.55,
+        0.96
+      ],
+      "negative_overlap_pct": 8.67
+    },
+    "relationship_keyword_match": {
+      "pos_mean": 1.0,
+      "pos_std": 0.0,
+      "pos_range": [
+        1.0,
+        1.0
+      ],
+      "neg_mean": 1.0,
+      "neg_std": 0.0,
+      "neg_range": [
+        1.0,
+        1.0
+      ],
+      "negative_overlap_pct": 100.0
+    },
+    "supporting_record_count": {
+      "pos_mean": 2.0033,
+      "pos_std": 0.9129,
+      "pos_range": [
+        1.0,
+        3.0
+      ],
+      "neg_mean": 1.1283,
+      "neg_std": 0.3345,
+      "neg_range": [
+        1.0,
+        2.0
+      ],
+      "negative_overlap_pct": 100.0
+    },
+    "source_record_count": {
+      "pos_mean": 7.1717,
+      "pos_std": 3.0971,
+      "pos_range": [
+        1.0,
+        19.0
+      ],
+      "neg_mean": 5.7917,
+      "neg_std": 2.9941,
+      "neg_range": [
+        1.0,
+        19.0
+      ],
+      "negative_overlap_pct": 100.0
+    },
+    "relationship_frequency": {
+      "pos_mean": 5.0,
+      "pos_std": 0.0,
+      "pos_range": [
+        5.0,
+        5.0
+      ],
+      "neg_mean": 4.75,
+      "neg_std": 0.8292,
+      "neg_range": [
+        2.0,
+        5.0
+      ],
+      "negative_overlap_pct": 91.67
+    },
+    "cross_case_connectivity": {
+      "pos_mean": 3.3167,
+      "pos_std": 1.4651,
+      "pos_range": [
+        1.0,
+        8.0
+      ],
+      "neg_mean": 3.3317,
+      "neg_std": 1.5292,
+      "neg_range": [
+        1.0,
+        9.0
+      ],
+      "negative_overlap_pct": 99.33
+    },
+    "evidence_diversity": {
+      "pos_mean": 0.7925,
+      "pos_std": 0.2464,
+      "pos_range": [
+        0.5,
+        1.0
+      ],
+      "neg_mean": 0.5008,
+      "neg_std": 0.0204,
+      "neg_range": [
+        0.5,
+        1.0
+      ],
+      "negative_overlap_pct": 100.0
+    },
+    "case_cooccurrence_count": {
+      "pos_mean": 0.7267,
+      "pos_std": 0.4604,
+      "pos_range": [
+        0.0,
+        2.0
+      ],
+      "neg_mean": 0.5083,
+      "neg_std": 0.7141,
+      "neg_range": [
+        0.0,
+        3.0
+      ],
+      "negative_overlap_pct": 99.83
+    },
+    "bidirectional_activity": {
+      "pos_mean": 0.71,
+      "pos_std": 0.2468,
+      "pos_range": [
+        0.5,
+        1.0
+      ],
+      "neg_mean": 0.3017,
+      "neg_std": 0.3509,
+      "neg_range": [
+        0.0,
+        1.0
+      ],
+      "negative_overlap_pct": 47.67
+    },
+    "normalized_transaction_volume": {
+      "pos_mean": 3.1411,
+      "pos_std": 1.8759,
+      "pos_range": [
+        0.0,
+        5.3979
+      ],
+      "neg_mean": 1.2047,
+      "neg_std": 1.7795,
+      "neg_range": [
+        0.0,
+        5.2973
+      ],
+      "negative_overlap_pct": 100.0
+    }
+  }
+}

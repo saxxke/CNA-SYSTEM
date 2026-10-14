@@ -1,0 +1,26 @@
+organization_id,organization_name,organization_type,location_id
+ORG-001,Fictional Sunrise Traders,NGO,LOCATION-021
+ORG-002,Fictional Apex Enterprises,PARTNERSHIP,LOCATION-002
+ORG-003,Fictional Royal Commerce Co.,CORPORATE,LOCATION-024
+ORG-004,Fictional National Logistics Pvt. Ltd.,PROPRIETORSHIP,LOCATION-016
+ORG-005,Fictional Sterling Solutions,CORPORATE,LOCATION-016
+ORG-006,Fictional Diamond Constructions,NGO,LOCATION-006
+ORG-007,Fictional Global Exports Ltd.,CORPORATE,LOCATION-032
+ORG-008,Fictional Pioneer Real Estate,CORPORATE,LOCATION-035
+ORG-009,Fictional Suncity Properties,SHELL_COMPANY,LOCATION-009
+ORG-010,Fictional Metro Supply Chain,PARTNERSHIP,LOCATION-036
+ORG-011,Fictional United Finance Group,SHELL_COMPANY,LOCATION-017
+ORG-012,Fictional Horizon Tech Services,NGO,LOCATION-039
+ORG-013,Fictional Lakshmi Trading Co.,PARTNERSHIP,LOCATION-014
+ORG-014,Fictional Bharat Courier Services,NGO,LOCATION-013
+ORG-015,Fictional New India Ventures,PROPRIETORSHIP,LOCATION-026
+ORG-016,Fictional Eastern Commercial House,PROPRIETORSHIP,LOCATION-029
+ORG-017,Fictional Western Goods Distributors,NGO,LOCATION-029
+ORG-018,Fictional Central Garments Pvt. Ltd.,CORPORATE,LOCATION-016
+ORG-019,Fictional Rural Agri Traders,SHELL_COMPANY,LOCATION-005
+ORG-020,Fictional City Auto Parts,PROPRIETORSHIP,LOCATION-002
+ORG-021,Fictional Reliable Security Services,NGO,LOCATION-036
+ORG-022,Fictional Prime Hospitality,SHELL_COMPANY,LOCATION-038
+ORG-023,Fictional Dev Constructions,SHELL_COMPANY,LOCATION-001
+ORG-024,Fictional Prestige Associates,CORPORATE,LOCATION-004
+ORG-025,Fictional Green Valley Enterprises,SHELL_COMPANY,LOCATION-005

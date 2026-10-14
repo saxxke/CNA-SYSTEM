@@ -1,0 +1,47 @@
+.dashboard {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 2rem;
+  background-color: #1a1a2e;
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+.header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.header h2 {
+  font-size: 1.5rem;
+  color: #a0a0b0;
+  margin-bottom: 2rem;
+}
+
+.warning-panel {
+  background-color: #2a1010;
+  border: 2px solid #ff4444;
+  border-radius: 8px;
+  padding: 1.5rem;
+  max-width: 600px;
+  margin: 0 auto 2rem auto;
+}
+
+.synthetic-data {
+  color: #ff4444;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+
+.analytical-lead {
+  color: #ffaa00;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 0;
+}
+
+.placeholder-content {
+  color: #888899;
+  font-style: italic;
+}

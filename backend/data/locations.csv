@@ -1,0 +1,41 @@
+location_id,locality,location_name,location_type,city,district,state,pin_code
+LOCATION-001,Fictional Patel Chowk,"Fictional Patel Chowk, Kolkata",COMMERCIAL,Kolkata,Kolkata,West Bengal,125859
+LOCATION-002,Fictional New Colony,"Fictional New Colony, Kolkata",RESIDENTIAL,Kolkata,North 24 Parganas,West Bengal,328242
+LOCATION-003,Fictional MG Road,"Fictional MG Road, Howrah",COMMERCIAL,Howrah,Howrah,West Bengal,189704
+LOCATION-004,Fictional Gandhi Colony,"Fictional Gandhi Colony, Mumbai",RESIDENTIAL,Mumbai,Mumbai City,Maharashtra,130195
+LOCATION-005,Fictional New Colony,"Fictional New Colony, Mumbai",RESIDENTIAL,Mumbai,Mumbai Suburban,Maharashtra,617716
+LOCATION-006,Fictional MG Road,"Fictional MG Road, Thane",COMMERCIAL,Thane,Thane,Maharashtra,303833
+LOCATION-007,Fictional New Colony,"Fictional New Colony, Pune",COMMERCIAL,Pune,Pune,Maharashtra,559703
+LOCATION-008,Fictional Shastri Nagar,"Fictional Shastri Nagar, Delhi",RESIDENTIAL,Delhi,Central Delhi,Delhi,877925
+LOCATION-009,Fictional Sector 7,"Fictional Sector 7, Delhi",RESIDENTIAL,Delhi,North Delhi,Delhi,448384
+LOCATION-010,Fictional Old City Quarter,"Fictional Old City Quarter, Delhi",RESIDENTIAL,Delhi,South Delhi,Delhi,881444
+LOCATION-011,Fictional Nehru Road,"Fictional Nehru Road, Delhi",COMMERCIAL,Delhi,East Delhi,Delhi,489199
+LOCATION-012,Fictional Lake View,"Fictional Lake View, Bengaluru",RESIDENTIAL,Bengaluru,Bengaluru Urban,Karnataka,718370
+LOCATION-013,Fictional Sector 12,"Fictional Sector 12, Bengaluru",COMMERCIAL,Bengaluru,Bengaluru Rural,Karnataka,649227
+LOCATION-014,Fictional Nehru Road,"Fictional Nehru Road, Chennai",COMMERCIAL,Chennai,Chennai,Tamil Nadu,665400
+LOCATION-015,Fictional Ring Road Mohalla,"Fictional Ring Road Mohalla, Hyderabad",RESIDENTIAL,Hyderabad,Hyderabad,Telangana,296821
+LOCATION-016,Fictional Gandhi Colony,"Fictional Gandhi Colony, Hyderabad",COMMERCIAL,Hyderabad,Rangareddy,Telangana,777333
+LOCATION-017,Fictional Nehru Road,"Fictional Nehru Road, Ahmedabad",RESIDENTIAL,Ahmedabad,Ahmedabad,Gujarat,975338
+LOCATION-018,Fictional Green Park,"Fictional Green Park, Surat",COMMERCIAL,Surat,Surat,Gujarat,384564
+LOCATION-019,Fictional Market Area,"Fictional Market Area, Jaipur",RESIDENTIAL,Jaipur,Jaipur,Rajasthan,479463
+LOCATION-020,Fictional Transport Nagar,"Fictional Transport Nagar, Patna",RESIDENTIAL,Patna,Patna,Bihar,818799
+LOCATION-021,Fictional Bypass Colony,"Fictional Bypass Colony, Lucknow",RESIDENTIAL,Lucknow,Lucknow,Uttar Pradesh,750275
+LOCATION-022,Fictional Market Area,"Fictional Market Area, Kanpur",COMMERCIAL,Kanpur,Kanpur Nagar,Uttar Pradesh,573488
+LOCATION-023,Fictional MG Road,"Fictional MG Road, Bhopal",COMMERCIAL,Bhopal,Bhopal,Madhya Pradesh,324801
+LOCATION-024,Fictional Gandhi Colony,"Fictional Gandhi Colony, Raipur",RESIDENTIAL,Raipur,Raipur,Chhattisgarh,334941
+LOCATION-025,Fictional Civil Lines,"Fictional Civil Lines, Nagpur",RESIDENTIAL,Nagpur,Nagpur,Maharashtra,510374
+LOCATION-026,Fictional Ring Road Mohalla,"Fictional Ring Road Mohalla, Pune",COMMERCIAL,Pune,Pune,Maharashtra,997835
+LOCATION-027,Fictional Sector 21,"Fictional Sector 21, Pune",COMMERCIAL,Pune,Pune,Maharashtra,505758
+LOCATION-028,Fictional Transport Nagar,"Fictional Transport Nagar, Mumbai",COMMERCIAL,Mumbai,Mumbai Suburban,Maharashtra,242352
+LOCATION-029,Fictional Ring Road Mohalla,"Fictional Ring Road Mohalla, Raipur",COMMERCIAL,Raipur,Raipur,Chhattisgarh,538697
+LOCATION-030,Fictional New Colony,"Fictional New Colony, Bengaluru",COMMERCIAL,Bengaluru,Bengaluru Urban,Karnataka,241621
+LOCATION-031,Fictional Gandhi Colony,"Fictional Gandhi Colony, Howrah",RESIDENTIAL,Howrah,Howrah,West Bengal,981212
+LOCATION-032,Fictional Market Area,"Fictional Market Area, Lucknow",COMMERCIAL,Lucknow,Lucknow,Uttar Pradesh,911796
+LOCATION-033,Fictional Nehru Road,"Fictional Nehru Road, Patna",COMMERCIAL,Patna,Patna,Bihar,494490
+LOCATION-034,Fictional Transport Nagar,"Fictional Transport Nagar, Ahmedabad",RESIDENTIAL,Ahmedabad,Ahmedabad,Gujarat,666981
+LOCATION-035,Fictional Patel Chowk,"Fictional Patel Chowk, Kanpur",COMMERCIAL,Kanpur,Kanpur Nagar,Uttar Pradesh,798649
+LOCATION-036,Fictional Civil Lines,"Fictional Civil Lines, Nagpur",COMMERCIAL,Nagpur,Nagpur,Maharashtra,214400
+LOCATION-037,Fictional Sector 12,"Fictional Sector 12, Thane",COMMERCIAL,Thane,Thane,Maharashtra,103839
+LOCATION-038,Fictional Market Area,"Fictional Market Area, Ahmedabad",COMMERCIAL,Ahmedabad,Ahmedabad,Gujarat,619208
+LOCATION-039,Fictional Sector 35,"Fictional Sector 35, Lucknow",RESIDENTIAL,Lucknow,Lucknow,Uttar Pradesh,723303
+LOCATION-040,Fictional Market Area,"Fictional Market Area, Bengaluru",RESIDENTIAL,Bengaluru,Bengaluru Urban,Karnataka,652897

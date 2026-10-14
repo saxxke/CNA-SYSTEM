@@ -1,0 +1,43 @@
+{
+  "dataset_directory": "C:\\Users\\JIT\\OneDrive\\Desktop\\PS26189\\backend\\data\\expanded\\small",
+  "split_summary": {
+    "train_samples": 695,
+    "test_samples": 155,
+    "train_positive_ratio": 0.686,
+    "zero_case_leakage_verified": true,
+    "train_case_count": 875,
+    "test_case_count": 188
+  },
+  "relationship_confidence_model": {
+    "model_type": "LogisticRegression(class_weight='balanced')",
+    "precision": 0.9,
+    "recall": 0.6154,
+    "f1_score": 0.731,
+    "roc_auc": 0.7584,
+    "brier_score_loss": 0.2054,
+    "confusion_matrix": [
+      [
+        30,
+        8
+      ],
+      [
+        45,
+        72
+      ]
+    ],
+    "feature_coefficients": {
+      "entity_similarity": 0.7486,
+      "text_evidence_strength": -0.4663,
+      "relationship_keyword_match": -0.0613,
+      "supporting_record_count": 1.0079,
+      "source_record_count": 1.1422,
+      "relationship_frequency": -0.3066,
+      "cross_case_connectivity": -0.8913
+    }
+  },
+  "entity_resolution_evaluation": {
+    "total_aliases_tested": 200,
+    "average_string_similarity": 0.8119,
+    "mutations_above_threshold_0_65": 173
+  }
+}
