@@ -2227,18 +2227,37 @@ NetworkX
 Synthetic Data
 ```
 
-**Current Development Focus:**
+---
 
-```text
-Explainability
-+
-Evidence Provenance
-+
-Authorization
-+
-Auditability
-+
-Grounded AI Assistance
+# 📊 Data Engineering & Dataset Validation
+
+**Module Responsibility:** Member 2 — Data Engineering & Validation  
+**Documentation:** [`backend/data/DATA_DICTIONARY.md`](backend/data/DATA_DICTIONARY.md)
+
+### 1. Multi-Tier Data Architecture & Isolation
+The system enforces strict architectural isolation across four tiers:
+* **Baseline Demo Data (`backend/data/*.csv`)**: 13 immutable reference tables loaded at startup.
+* **Runtime Delta Store (`backend/data/runtime/*.csv`)**: Dynamic session registrations; thread-safe and isolated from baseline tables.
+* **Scaled Benchmarks (`backend/data/expanded/`)**: Parametrically generated datasets (SMALL, MEDIUM, LARGE) for stress-testing.
+* **Ground Truth (`backend/data/ground_truth.csv`)**: Supervised labels strictly for ML relationship-confidence evaluation.
+
+### 2. Reusable Data-Quality Engine (`backend/data/validate_dataset.py`)
+Provides reusable schema, referential integrity, and record-level validation:
+* **Missing & Duplicate Primary Keys:** Rejects null, whitespace, or duplicate IDs across tables.
+* **Foreign Key Referential Integrity:** Validates relations across persons, cases, phones, bank accounts, vehicles, and organizations.
+* **Record Validity:** Asserts ISO-8601 date formats (`YYYY-MM-DD`), non-negative transaction values (`amount > 0`), valid case statuses (`OPEN`, `CLOSED`, `UNDER INVESTIGATION`, `CHARGESHEETED`), valid gender enums, and unique FIR numbers.
+* **Runtime Pre-Commit Safeguards:** Validates dynamic records in `runtime_store.py` prior to appending.
+
+### 3. Verification Commands
+```bash
+# Run baseline dataset validation:
+python backend/data/validate_dataset.py
+
+# Run comprehensive data validation test suite:
+python backend/tests/test_data_validation.py
+
+# Run baseline integration tests:
+python backend/tests/test_dataset.py
 ```
 
 ---
