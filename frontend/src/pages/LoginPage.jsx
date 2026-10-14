@@ -119,7 +119,7 @@ export default function LoginPage() {
           </div>
           <div>
             <span className="text-xs font-bold text-slate-100 tracking-wider uppercase">
-              PS26189 INTEL
+              CNA SYSTEM
             </span>
             <span className="text-[10px] text-slate-400 block -mt-0.5 font-medium">
               Anweshan AI Investigation & Relational Verification Network

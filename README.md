@@ -1,20 +1,12 @@
-# PS26189 — AI-Powered Criminal Network Analysis System
+# CNA SYSTEM — AI-Powered Criminal Network Analysis System
 
-> Smart India Hackathon 2026 · Problem Statement 26189
 
 **AI-assisted investigation intelligence using NLP, Entity Resolution,
 Knowledge Graphs, Graph Analytics, Explainable ML and Grounded AI.**
 
-### 🚀 Live Prototype
 
-**[🌐 Launch Prototype](https://ps26189-frontend.onrender.com)**
 
-**[📚 API Documentation](https://ps26189-backend-v2.onrender.com/docs)**
-
-**[💻 GitHub Repository](https://github.com/Jit2005git/PS26189_demo)**
-
-> 🧪 **Synthetic Demonstration Data**  
-> Analytical leads require human verification.
+**[💻 GitHub Repository](https://github.com/saxxke/CNA-SYSTEM)**
 
 ---
 
@@ -23,7 +15,7 @@ Knowledge Graphs, Graph Analytics, Explainable ML and Grounded AI.**
 
 ## 📌 Project Overview
 
-**PS26189 — AI-Powered Criminal Network Analysis System** is an internal Smart India Hackathon 2026 MVP that demonstrates how heterogeneous investigation information can be transformed into a structured and explainable network of entities and relationships.
+** AI-Powered Criminal Network Analysis System** is an internal Smart India Hackathon 2026 MVP that demonstrates how heterogeneous investigation information can be transformed into a structured and explainable network of entities and relationships.
 
 The system combines:
 

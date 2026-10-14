@@ -27,7 +27,7 @@ export default function Sidebar() {
         </div>
         <div>
           <div className="text-xs font-bold text-slate-100 tracking-wider uppercase flex items-center gap-1.5">
-            PS26189 INTEL
+            CNA SYSTEM
           </div>
           <div className="text-[10px] text-slate-400 font-medium">
             Network Analysis System
