@@ -5,13 +5,14 @@ Isolated runtime persistence layer for Step 27 Register New Case + Person.
 Preserves baseline backend/data/*.csv files byte-for-byte.
 All mutations are stored in backend/data/runtime/*.csv.
 Thread-safe deterministic ID allocation inspecting baseline + runtime records.
+Includes pre-commit schema and referential integrity validation.
 """
 
 import os
 import csv
 import re
 import threading
-from typing import Dict, List, Any, Optional
+from typing import Dict, List, Any, Optional, Tuple, Set
 
 DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '../../data'))
 RUNTIME_DIR = os.path.join(DATA_DIR, 'runtime')
@@ -64,6 +65,20 @@ SCHEMAS = {
     ],
 }
 
+ID_COLUMNS = {
+    "cases.csv": "case_id",
+    "persons.csv": "person_id",
+    "phones.csv": "phone_id",
+    "bank_accounts.csv": "bank_account_id",
+    "vehicles.csv": "vehicle_id",
+    "locations.csv": "location_id",
+    "organizations.csv": "organization_id",
+    "aliases.csv": "alias_id",
+    "case_persons.csv": "cp_id",
+    "communications.csv": "communication_id",
+    "transactions.csv": "transaction_id",
+}
+
 
 def ensure_runtime_dir():
     """Ensures backend/data/runtime directory exists."""
@@ -95,11 +110,73 @@ def get_all_records(filename: str) -> List[Dict[str, Any]]:
     return baseline + runtime
 
 
-def append_runtime_record(filename: str, record: Dict[str, Any]) -> None:
+def validate_runtime_record(filename: str, record: Dict[str, Any]) -> Tuple[bool, List[str]]:
+    """
+    Pre-commit validation before appending record to runtime storage.
+    Enforces primary key presence, uniqueness, foreign key validity, and schema constraints.
+    """
+    errors: List[str] = []
+    id_col = ID_COLUMNS.get(filename)
+    if id_col:
+        pk = str(record.get(id_col) or "").strip()
+        if not pk:
+            errors.append(f"Missing required primary key '{id_col}' in {filename}")
+        else:
+            existing_records = get_all_records(filename)
+            existing_pks = {str(r.get(id_col) or "").strip() for r in existing_records}
+            if pk in existing_pks:
+                errors.append(f"Duplicate primary key '{pk}' for table {filename}")
+
+    # Foreign key references
+    if filename == "case_persons.csv":
+        cid = str(record.get("case_id") or "").strip()
+        pid = str(record.get("person_id") or "").strip()
+        if not cid:
+            errors.append("case_persons record missing case_id")
+        else:
+            existing_cases = {str(r.get("case_id") or "").strip() for r in get_all_records("cases.csv")}
+            if cid not in existing_cases:
+                errors.append(f"case_persons references non-existent case_id: '{cid}'")
+        if not pid:
+            errors.append("case_persons record missing person_id")
+        else:
+            existing_persons = {str(r.get("person_id") or "").strip() for r in get_all_records("persons.csv")}
+            if pid not in existing_persons:
+                errors.append(f"case_persons references non-existent person_id: '{pid}'")
+
+    elif filename == "cases.csv":
+        status = str(record.get("status") or "").strip().upper()
+        valid_statuses = {"OPEN", "CLOSED", "UNDER INVESTIGATION", "CHARGESHEETED"}
+        if status and status not in valid_statuses:
+            errors.append(f"Invalid case status '{status}'. Expected one of {valid_statuses}")
+        fir = str(record.get("fir_number") or "").strip()
+        if fir and check_fir_exists(fir):
+            errors.append(f"Duplicate FIR number '{fir}' already exists")
+
+    elif filename == "transactions.csv":
+        amt = record.get("amount")
+        if amt is not None and str(amt).strip():
+            try:
+                amt_val = float(str(amt).replace(",", "").strip())
+                if amt_val <= 0:
+                    errors.append(f"Transaction amount must be positive, got {amt_val}")
+            except ValueError:
+                errors.append(f"Invalid non-numeric transaction amount: '{amt}'")
+
+    return (len(errors) == 0, errors)
+
+
+def append_runtime_record(filename: str, record: Dict[str, Any], validate: bool = True) -> None:
     """
     Appends a single record dictionary to backend/data/runtime/<filename>.
     Thread-safe and creates header if file is new.
+    Performs pre-commit schema and integrity validation unless validate=False.
     """
+    if validate:
+        is_valid, errors = validate_runtime_record(filename, record)
+        if not is_valid:
+            raise ValueError(f"Pre-commit runtime validation failed for {filename}: {'; '.join(errors)}")
+
     ensure_runtime_dir()
     filepath = os.path.join(RUNTIME_DIR, filename)
     fieldnames = SCHEMAS.get(filename)

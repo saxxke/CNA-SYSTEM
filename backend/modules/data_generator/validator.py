@@ -4,16 +4,18 @@ validator.py
 Automated schema and foreign-key referential integrity validator for expanded datasets.
 Enforces:
 - Exact column schema compatibility
-- Global primary key uniqueness
+- Global primary key uniqueness and non-null presence (no missing IDs)
 - Foreign-key validity across all 13 tables
 - Reciprocal family relationship integrity
 - Unique FIR numbers
+- Positive transaction amounts (> 0)
 - Standard CSV format (asserts zero comment header lines)
 """
 
 import os
 import csv
-from typing import Dict, Any, List, Set
+from datetime import datetime
+from typing import Dict, Any, List, Set, Optional
 
 REQUIRED_COLUMNS = {
     "cases.csv": ["case_id", "offence_category", "status", "district", "police_station", "fir_number"],
@@ -46,6 +48,7 @@ ID_COLUMNS = {
     "transactions.csv": "transaction_id",
     "ground_truth.csv": "ground_truth_id",
 }
+
 
 def validate_dataset_directory(data_dir: str) -> Dict[str, Any]:
     errors = []
@@ -94,25 +97,27 @@ def validate_dataset_directory(data_dir: str) -> Dict[str, Any]:
     txns = load("transactions.csv")
     ground_truth = load("ground_truth.csv")
 
-    case_ids = {c["case_id"] for c in cases}
-    person_ids = {p["person_id"] for p in persons}
-    phone_ids = {ph["phone_id"] for ph in phones}
-    bank_ids = {b["bank_account_id"] for b in banks}
+    case_ids = {c["case_id"] for c in cases if c.get("case_id")}
+    person_ids = {p["person_id"] for p in persons if p.get("person_id")}
+    phone_ids = {ph["phone_id"] for ph in phones if ph.get("phone_id")}
+    bank_ids = {b["bank_account_id"] for b in banks if b.get("bank_account_id")}
 
-    # 3. Primary Key Uniqueness
+    # 3. Primary Key Uniqueness & Missing Primary Key Assertion
     for fname, id_col in ID_COLUMNS.items():
         rows = load(fname)
         seen = set()
-        for r in rows:
-            pk = r.get(id_col)
-            if pk in seen:
+        for i, r in enumerate(rows):
+            pk = (r.get(id_col) or "").strip()
+            if not pk:
+                errors.append(f"Missing primary key in {fname} at row {i} ('{id_col}' is empty)")
+            elif pk in seen:
                 errors.append(f"Duplicate primary key in {fname}: {pk}")
             seen.add(pk)
 
     # 4. Unique FIR numbers
     seen_firs = set()
     for c in cases:
-        fir = c.get("fir_number")
+        fir = (c.get("fir_number") or "").strip()
         if fir:
             if fir in seen_firs:
                 errors.append(f"Duplicate FIR number in cases.csv: {fir}")
@@ -150,12 +155,20 @@ def validate_dataset_directory(data_dir: str) -> Dict[str, Any]:
             errors.append(f"transactions source {t['source_person_id']} not in persons.csv")
         if t["target_person_id"] not in person_ids:
             errors.append(f"transactions target {t['target_person_id']} not in persons.csv")
+        amt = t.get("amount")
+        if amt:
+            try:
+                amt_val = float(str(amt).replace(",", "").strip())
+                if amt_val <= 0:
+                    errors.append(f"Transaction {t.get('transaction_id')} has non-positive amount: {amt_val}")
+            except ValueError:
+                errors.append(f"Transaction {t.get('transaction_id')} has invalid amount format: {amt}")
 
     for gt in ground_truth:
-        if gt["source_entity_id"] not in person_ids:
-            errors.append(f"ground_truth source {gt['source_entity_id']} not in persons.csv")
-        if gt["target_entity_id"] not in person_ids:
-            errors.append(f"ground_truth target {gt['target_entity_id']} not in persons.csv")
+        if gt["source_entity_id"] not in person_ids and gt["source_entity_id"] not in case_ids:
+            errors.append(f"ground_truth source {gt['source_entity_id']} not in persons.csv or cases.csv")
+        if gt["target_entity_id"] not in person_ids and gt["target_entity_id"] not in case_ids:
+            errors.append(f"ground_truth target {gt['target_entity_id']} not in persons.csv or cases.csv")
 
     # 6. Reciprocal Family Relationship Integrity
     family_pairs = {}
