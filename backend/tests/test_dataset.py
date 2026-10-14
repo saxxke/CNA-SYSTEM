@@ -1,11 +1,15 @@
 import os
 import sys
-import pytest
 
 # Add backend directory to sys.path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from data.validate_dataset import validate, load_csv, FILES_TO_CHECK
+try:
+    import pytest
+except ImportError:
+    pytest = None
+
+from data.validate_dataset import validate, validate_dataset, load_csv, FILES_TO_CHECK
 
 def test_files_exist():
     for f in FILES_TO_CHECK:
@@ -15,6 +19,16 @@ def test_foreign_keys_and_cross_case():
     # The validate function checks FKs, ID uniqueness, and cross-case networks.
     # It returns True if everything passes.
     assert validate() is True, "Validation failed (FKs, Uniqueness, or Cross-case networks)"
+
+def test_structured_validation_metrics():
+    res = validate_dataset(include_runtime=False)
+    assert res["valid"] is True
+    assert len(res["errors"]) == 0
+    metrics = res["metrics"]
+    assert metrics["cross_case_connections"] >= 8
+    assert metrics["multi_case_persons_count"] >= 3
+    assert metrics["total_cases"] >= 250
+    assert metrics["total_persons"] >= 200
 
 def test_duplicate_representations():
     # Test that we actually generated ER duplicate test cases
@@ -52,3 +66,14 @@ def test_required_columns():
     communications = load_csv("communications.csv")
     assert "source_person_id" in communications[0]
     assert "description" in communications[0]
+
+
+if __name__ == "__main__":
+    print("Running test_dataset suite...")
+    test_files_exist()
+    test_foreign_keys_and_cross_case()
+    test_structured_validation_metrics()
+    test_duplicate_representations()
+    test_ground_truth_references()
+    test_required_columns()
+    print("All tests in test_dataset passed successfully!")
